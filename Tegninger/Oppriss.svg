@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" width="900" height="700" font-family="Segoe UI, Arial, Helvetica, sans-serif" role="img" aria-label="Oppriss av levegg med staaende graa kledning, 98 x 98 mm stolper, 48 x 98 mm sviller og skraabaand bak">
   <title>Levegg – oppriss</title>
-  <desc>Oppriss sett fra siden. Høyde 1,8 m over ferdig terreng, stående Z-frest kledning av malmfuru med rette kanter, ca. 5 mm synlig spalte og ca. 5 mm not/fjær, stolper c/c 0,80 m og vannrette sviller vist stiplet mellom kledningslagene.</desc>
+  <desc>Oppriss sett fra siden. Høyde 1,8 m over ferdig terreng, stående malmfuru med rette bordkanter og ca. 5 mm synlig spalte, stolper c/c 0,80 m og vannrette sviller vist stiplet mellom kledningslagene.</desc>
 
   <defs>
     <pattern id="terreng" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
@@ -20,7 +20,7 @@
   <rect width="900" height="700" fill="#ffffff"/>
 
   <text x="450" y="32" text-anchor="middle" font-size="19" font-weight="600" fill="#1a1a1a">Levegg – oppriss</text>
-  <text x="450" y="53" text-anchor="middle" font-size="12.5" fill="#555">Stående Z-frest malmfuru med rette kanter, ca. 5 mm spalte og ca. 5 mm not/fjær. Skala 1 m = 120 px.</text>
+  <text x="450" y="53" text-anchor="middle" font-size="12.5" fill="#555">Stående malmfuru med rette bordkanter og ca. 5 mm spalte. Skala 1 m = 120 px.</text>
   <text x="450" y="71" text-anchor="middle" font-size="12.5" fill="#555">Stolper og sviller ligger mellom kledningslagene og er vist stiplet. Eksempel med L = 5,00 m.</text>
 
   <!-- Husvegg -->
@@ -125,7 +125,7 @@
   <rect x="60" y="540" width="780" height="138" fill="#f4f3f0" stroke="#c6c3bc" stroke-width="1"/>
   <g font-size="12.5" fill="#333">
     <rect x="76" y="552" width="26" height="12" fill="#9e9c94" stroke="#6e6b64" stroke-width="0.9"/>
-    <text x="112" y="562">Stående Z-frest malmfuru med rette kanter, ca. 5 mm synlig spalte og ca. 5 mm not/fjær</text>
+    <text x="112" y="562">Stående malmfuru med rette bordkanter og ca. 5 mm synlig spalte</text>
     <rect x="76" y="572" width="26" height="12" fill="#75736d"/>
     <text x="112" y="582">Stående innvendig kledning på motsatt side av rammeverket – vekselvis med utvendige bord</text>
     <rect x="76" y="592" width="26" height="12" fill="none" stroke="#33322f" stroke-width="1.7" stroke-dasharray="9 5"/>

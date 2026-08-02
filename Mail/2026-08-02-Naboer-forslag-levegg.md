@@ -33,10 +33,11 @@ plass framfor å måtte ta saken opp på nytt.
 
 ## Hvordan vi ser for oss det
 
-Leveggen bygges i **malmfuru med grå jernvitriolbehandling**, montert stående med Z-frest profil
-og rette kanter. Bordene får ca. 5 mm synlig spalte og ca. 5 mm not/fjær. Poenget er at veggen skal
-leses som en forlengelse av huset, ikke som noe som er satt inntil. Den gråner likt med huset over
-tid.
+Leveggen bygges i **malmfuru med grå jernvitriolbehandling**, montert stående med rette
+bordkanter. I alternativ I og IV har bordene vekslende dobbelfals med rette kanter og ca. 5 mm
+synlig spalte; falsene går under nabobordet og falsdybden er lik halvparten av bordtykkelsen.
+Alternativ II og III har rette 23 × 48 mm bord med 10 mm spalte. Poenget er at veggen skal leses som
+en forlengelse av huset, ikke som noe som er satt inntil. Den gråner likt med huset over tid.
 
 - Høyde 1,8 m over ferdig terreng
 - Lengde 3,10–5,00 m østover fra østfasaden, avhengig av hvilket alternativ som velges – se under
@@ -106,7 +107,7 @@ Vi har derfor sett på fire utførelser – alle med samme materiale og stående
 | | Innsyn | Vind |
 |---|---|---|
 | **I – helt tett på én side** | Skjermer fullstendig | Kort le, mye turbulens |
-| **II – spaltet** (40 mm mellom bordene) | Fri sikt rett gjennom forfra | Best |
+| **II – spaltet** (10 mm mellom 23 × 48 mm-bordene) | Fri sikt rett gjennom forfra | Best |
 | **III – vekselvis på begge sider** | Skjermer fullstendig | Bedre enn tett |
 | **IV – helt tett på begge sider** | Skjermer fullstendig | Kort le, mye turbulens |
 

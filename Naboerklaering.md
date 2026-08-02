@@ -33,8 +33,8 @@ Levegg mellom de to seksjonenes uteoppholdsarealer, utført i samsvar med design
 
 | Forhold | Verdi |
 |---------|-------|
-| Materiale | Malmfuru med grå jernvitriolbehandling, stående Z-frest kledning med rette kanter |
-| Kledning | Ca. 5 mm synlig spalte og ca. 5 mm not/fjær; utførelse etter kledningsalternativ |
+| Materiale | Malmfuru med grå jernvitriolbehandling, stående kledning med rette bordkanter |
+| Kledning | Alternativ I og IV har vekslende dobbelfals med rette kanter, ca. 5 mm synlig spalte og falsdybde lik halvparten av bordtykkelsen. Alternativ II og III har rette 23 × 48 mm bord med 10 mm spalte |
 | Høyde | 1,8 m over ferdig terreng |
 | Lengdealternativ | ☐ Alternativ 1 – til foten av skråningen ☐ Alternativ 2 – 1,0 m før foten |
 | Kledningsprinsipp | ☐ I helt tett på én side ☐ II spaltet ☐ III vekselvis på begge sider (anbefalt) ☐ IV helt tett på begge sider |

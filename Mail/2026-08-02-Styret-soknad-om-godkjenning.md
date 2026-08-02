@@ -47,7 +47,7 @@ Leveggene går østover fra husenes østfasade, i skillet mellom uteoppholdsarea
 
 | Forhold | Beskrivelse |
 |---------|-------------|
-| Materiale | Malmfuru med grå jernvitriolbehandling, montert stående med Z-frest profil og rette kanter, ca. 5 mm synlig spalte og ca. 5 mm not/fjær |
+| Materiale | Malmfuru med grå jernvitriolbehandling, montert stående. Alternativ I og IV har vekslende dobbelfals med rette kanter, ca. 5 mm synlig spalte og falsdybde lik halvparten av bordtykkelsen. Alternativ II og III har rette 23 × 48 mm bord med 10 mm spalte |
 | Kledning | Samme profil og bredde som husets kledning, montert stående |
 | Høyde | 1,8 m over ferdig terreng |
 | Lengde | 3,10–5,00 m per vegg, avhengig av lengdealternativ – se tabellen under |

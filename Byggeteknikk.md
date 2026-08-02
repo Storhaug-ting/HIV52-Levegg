@@ -69,26 +69,25 @@ leside, virvelen blir mye svakere, og le-sonen strekker seg vesentlig lenger bak
 | Utførelse | Åpningsgrad | Le-sone bak veggen | Turbulens |
 |-----------|-------------|--------------------|-----------|
 | Helt tett | 0 % | ca. 5–7 × høyden | Kraftig virvel, kastevind |
-| **Spaltet** | **30–40 %** | **ca. 10–15 × høyden** | Svak, jevn |
+| **Spaltet** | **ca. 17 %** | Lengre enn tett, men kortere enn ved 30–40 % åpning | Redusert |
 | Svært åpen | over 60 % | under 8 × høyden | Svak, men lite skjerming |
 
 Med veggens høyde på 1,8 m betyr det i praksis:
 
 - Tett vegg: merkbar le ut til om lag **9–13 m**
-- Spaltet vegg: merkbar le ut til om lag **18–27 m**
+- Spaltet vegg med 17 % åpning: merkbar le lenger enn ved tett vegg; nøyaktig le-sone må vurderes mot Byggforsk 517.551 før utførelse
 
 Tre andre forhold trekker i samme retning:
 
 | Forhold | Tett vegg | Spaltet vegg |
 |---------|-----------|--------------|
-| Vindlast på konstruksjonen | Formfaktor ca. 1,3–1,5 | Formfaktor ca. 0,7–0,9 – **omtrent halvparten** |
-| Snø | Markert fonn på lesiden, kan strekke seg 15–20 × høyden | Snøen fordeles jevnere, opptil 50–70 % mindre oppsamling |
+| Vindlast på konstruksjonen | Formfaktor ca. 1,3–1,5 | Redusert; nøyaktig formfaktor må verifiseres for 17 % åpning |
+| Snø | Markert fonn på lesiden, kan strekke seg 15–20 × høyden | Jevnere fordeling enn ved tett vegg |
 | Belastning på fundamenter | Tilsvarende høyere | Lavere |
 
 > [!IMPORTANT]
-> En tett vegg gir altså kortere le-sone, mer turbulens, mer snø på uteplassen og omtrent dobbelt
-> så høy vindlast som en spaltet vegg med samme høyde. I et åpent og vindutsatt område er en tett
-> vegg derfor et dårligere valg enn den intuitivt virker.
+> En tett vegg gir kortere le-sone, mer turbulens og mer snø på uteplassen enn en spaltet vegg med
+> samme høyde. Nøyaktig vindlastreduksjon ved 17 % åpning må verifiseres før utførelse.
 
 ## 3. Fire utførelser vurdert
 
@@ -97,14 +96,15 @@ samme uttrykk på avstand.
 
 ### Kledningsprofil
 
-I alternativ I, III og IV brukes Z-frest malmfuru med rette kanter. Bordene monteres med ca. 5 mm
-synlig spalte og ca. 5 mm not/fjær, slik at skjøten får et jevnt, smalt uttrykk uten gjennomgående
-åpning. Alternativ II beholder samme bordtype, men avviker ved at bordene ikke griper i hverandre:
-der brukes 40 mm gjennomgående spalte for å oppnå den åpne vindskjermingen.
+I alternativ I og IV brukes malmfuru med vekslende dobbelfals og rette kanter. Falsene er lange nok
+til å gå under nabobordet og overlapper vekselvis. Bordene monteres med ca. 5 mm synlig spalte, og
+falsdybden er lik halvparten av bordtykkelsen. Skjøten får dermed et jevnt, smalt uttrykk uten
+gjennomgående åpning. Alternativ II og III har rette kanter, 23 × 48 mm bord og 10 mm spalte.
 
 ### Alternativ I – helt tett kledning på én side
 
-Bordene monteres Z-frest med ca. 5 mm synlig spalte og ca. 5 mm not/fjær.
+Bordene monteres med vekslende dobbelfals og rette kanter. Falsene går under nabobordet, med ca.
+5 mm synlig spalte og en falsdybde lik halvparten av bordtykkelsen.
 
 | | |
 |---|---|
@@ -115,21 +115,21 @@ Bordene monteres Z-frest med ca. 5 mm synlig spalte og ca. 5 mm not/fjær.
 
 ### Alternativ II – spaltet kledning
 
-Bordene monteres med jevn, gjennomgående spalte. Spalte på om lag 0,4 × bordbredden gir ca. 29 %
-åpning; med 100 mm bord tilsvarer det 40 mm spalte. Z-fresen brukes ikke over den åpne spalten.
+Bordene er 23 × 48 mm med jevn, 10 mm gjennomgående spalte. Det gir ca. 17 % åpning. Bordene har
+rette kanter over den åpne spalten.
 
 | | |
 |---|---|
 | Innsynsskjerming | God fra skrå vinkler, men fri sikt rett gjennom vinkelrett på veggen |
-| Vindskjerming | Lang, jevn le-sone |
-| Vindlast | Om lag halvparten av tett vegg |
-| Snø | Minst oppsamling |
+| Vindskjerming | Jevnere enn tett vegg, men mindre enn ved 30–40 % åpning |
+| Vindlast | Lavere enn tett vegg; nøyaktig reduksjon må verifiseres for 17 % åpning |
+| Snø | Mindre oppsamling enn tett vegg |
 
 ### Alternativ III – vekselvis kledning på begge sider
 
-Bordene monteres Z-frest annenhver gang på hver side av rammeverket, med ca. 5 mm synlig spalte,
-ca. 5 mm not/fjær og overlapp slik at det ikke finnes noen rett siktlinje gjennom veggen. Luften
-slipper gjennom i sikksakk.
+Bordene er 23 × 48 mm med rette kanter og 10 mm spalte på hver side av rammeverket. Den ene siden
+forskyves 29 mm, som er halvparten av borddelingen på 58 mm. Overlappen gjør at det ikke finnes
+noen rett siktlinje gjennom veggen. Luften slipper gjennom i sikksakk.
 
 | | |
 |---|---|
@@ -151,9 +151,9 @@ slipper gjennom i sikksakk.
 
 ### Alternativ IV – helt tett kledning på begge sider
 
-Bordene monteres Z-frest med ca. 5 mm synlig spalte og ca. 5 mm not/fjær på begge sider av
-rammeverket. Løsningen gir samme ferdige uttrykk fra begge naboarealer, men ingen gjennomgående
-luftpassasje.
+Bordene monteres med vekslende dobbelfals og rette kanter på begge sider av rammeverket. Falsene
+går under nabobordet, med ca. 5 mm synlig spalte og falsdybde lik halvparten av bordtykkelsen.
+Løsningen gir samme ferdige uttrykk fra begge naboarealer, men ingen gjennomgående luftpassasje.
 
 | | |
 |---|---|
@@ -257,7 +257,7 @@ Utvendig kledning over terreng ligger i bruksklasse 3.1 etter NS-EN 335. Med god
 |-------|---------|
 | Kjøpe eller låne 517.551, 517.631 og 311.110 | Verifisere de konkrete dimensjonerings- og porøsitetstabellene |
 | Grunnforhold i fundamentlinjene | Avgjør fundamentdybde og behov for telesikring |
-| Bordbredde på husets eksisterende kledning | Bestemmer spaltebredden dersom spaltet utførelse velges |
+| Valgt dimensjon for spaltet kledning | Kontrollere at 23 × 48 mm malmfuru er tilgjengelig før bestilling |
 | Terrengfall langs hver trasé | Avgjør om veggen skal trappes |
 | Ledninger, rør og drenering i traseene | Fundamentene skal ikke skade infrastruktur |
 

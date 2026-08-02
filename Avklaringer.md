@@ -132,4 +132,4 @@ oppgitt målestokk 1:500 og er den mest presise av kildene som finnes på papir.
 | 5.5 | Om veggen trappes ned i terrenget eller følger fallet | 🔴 Avventer måling av terrengfall |
 | 5.6 | Om leveggen festes i husveggen eller står helt frittstående | 🔴 Ikke besluttet |
 | 5.7 | Om det skal settes av en luftespalte mot bakken av hensyn til råte | 🟢 Minst 200 mm – begrunnet i både trebeskyttelse og vindforhold |
-| 5.8 | Bordbredde på husets eksisterende kledning | 🔴 Ikke målt – bestemmer spaltebredden ved alternativ II og III |
+| 5.8 | Dimensjon for spaltet kledning | 🟢 23 × 48 mm bord med 10 mm spalte, avklart 2026-08-02 |

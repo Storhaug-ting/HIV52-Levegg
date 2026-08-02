@@ -94,8 +94,11 @@ gjelder utformingen, ikke tidspunktet.
 
 ### 3.1 Materialer og uttrykk
 
-Leveggen utføres i **malmfuru med grå jernvitriolbehandling**, montert **stående** med Z-frest profil
-og rette kanter. Kledningsbordene har ca. 5 mm synlig spalte og ca. 5 mm not/fjær.
+Leveggen utføres i **malmfuru med grå jernvitriolbehandling**, montert **stående** med rette
+bordkanter. I alternativ I og IV utføres bordene med vekslende dobbelfals og rette kanter. Falsene
+går under nabobordet og overlapper vekselvis. Kledningsbordene har ca. 5 mm synlig spalte, og
+falsdybden er lik halvparten av bordtykkelsen. Alternativ II og III bruker rette 23 × 48 mm bord med
+10 mm spalte.
 
 Det avgjørende for uttrykket er at leveggen leses som en forlengelse av huset og ikke som et
 tilført element. Materialet gråner likt med huset over tid, slik at fargeforskjellen som oppstår
@@ -105,7 +108,7 @@ i starten jevner seg ut av seg selv.
 |-----|-----------|
 | Stolper | 98 × 98 mm, c/c maks 0,80 m. Alle stolper står på eget betongfundament |
 | Rammeverk | Tre vannrette 48 × 98 mm sviller i topp, midt og bunn bak kledningen, med 48 × 98 mm skråbånd i begge endefag |
-| Kledning | Malmfuru, montert stående med Z-frest profil og rette kanter. Ca. 5 mm synlig spalte og ca. 5 mm not/fjær; utførelse etter kledningsalternativ |
+| Kledning | Malmfuru, montert stående. Alternativ I og IV har vekslende dobbelfals med rette kanter, ca. 5 mm synlig spalte og falsdybde lik halvparten av bordtykkelsen. Alternativ II og III har rette 23 × 48 mm bord med 10 mm spalte |
 | Overflatebehandling | Jernvitriol som gir grå patina, samme blanding og påføring som huset |
 | Toppavslutning | Gjennomgående dekkbord som beskytter endeved mot nedbør |
 | Innfesting | **A4 syrefaste** skruer og beslag – jernvitriol angriper sink og gir mørke renner på galvanisert stål |
@@ -128,11 +131,11 @@ valget den kan virke som:
 | Utførelse | Le-sone bak veggen | Turbulens | Vindlast på konstruksjonen | Snø på lesiden |
 |-----------|--------------------|-----------|----------------------------|----------------|
 | Helt tett | ca. 9–13 m | Kraftig virvel, kastevind | Høyest | Markert fonn |
-| Spaltet, 30–40 % åpning | ca. 18–27 m | Svak og jevn | Om lag halvparten | Vesentlig mindre |
+| Spaltet, ca. 17 % åpning | Lengre enn tett, men kortere enn ved 30–40 % åpning | Redusert | Lavere enn tett; må verifiseres | Jevnere enn tett |
 
 Luften som passerer over en tett vegg slår ned igjen et stykke bak den, og der kan vinden bli like
 sterk som før veggen – bare mer kastevis. En vegg som slipper gjennom noe luft demper
-trykkforskjellen, virvelen blir svakere, og le-sonen strekker seg mer enn dobbelt så langt bakover.
+trykkforskjellen, virvelen blir svakere, og le-sonen strekker seg lenger bakover.
 
 Fire utførelser er vurdert i [`Byggeteknikk.md`](Byggeteknikk.md) punkt 3. Alle bruker samme
 materiale og samme stående montering, og ser like ut på avstand:
@@ -356,7 +359,7 @@ Følgende må avklares før forslaget kan gjennomføres. Fullstendig liste med s
 | [`Tegninger/Plan-Alternativ-1.svg`](Tegninger/Plan-Alternativ-1.svg) | Planskisse, alternativ 1 |
 | [`Tegninger/Plan-Alternativ-2.svg`](Tegninger/Plan-Alternativ-2.svg) | Planskisse, alternativ 2 |
 | [`Tegninger/Oppriss.svg`](Tegninger/Oppriss.svg) | Oppriss med målsetting |
-| [`Tegninger/Kledningsprinsipp.svg`](Tegninger/Kledningsprinsipp.svg) | Horisontalsnitt – fire kledningsalternativer med Z-frest profil |
+| [`Tegninger/Kledningsprinsipp.svg`](Tegninger/Kledningsprinsipp.svg) | Horisontalsnitt – vekslende dobbelfals i alternativ I og IV, rette bordkanter i II og III |
 | [`Byggeteknikk.md`](Byggeteknikk.md) | Teknisk grunnlag med SINTEF-referanser: vindskjerming, konstruksjon, fundamentering, trebeskyttelse |
 | [`Regelverk.md`](Regelverk.md) | Rettslig grunnlag med kilder |
 | [`Kilder.md`](Kilder.md) | Samlet kildeliste med lenker |
