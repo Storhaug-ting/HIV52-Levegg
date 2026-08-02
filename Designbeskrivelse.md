@@ -106,13 +106,13 @@ i starten jevner seg ut av seg selv.
 
 | Del | Utførelse |
 |-----|-----------|
-| Stolper | 98 × 98 mm, c/c maks 0,80 m. Alle stolper står på eget betongfundament |
+| Stolper | 98 × 98 mm, c/c maks 0,80 m. Innerste endestolpe festes i husveggen; øvrige stolper står på eget betongfundament |
 | Rammeverk | Tre vannrette 48 × 98 mm sviller i topp, midt og bunn bak kledningen, med 48 × 98 mm skråbånd i begge endefag |
 | Kledning | Malmfuru, montert stående. Alternativ I og IV har vekslende dobbelfals med rette kanter, ca. 5 mm synlig spalte og falsdybde lik halvparten av bordtykkelsen. Alternativ II og III har rette 23 × 48 mm bord med 10 mm spalte |
 | Overflatebehandling | Jernvitriol som gir grå patina, samme blanding og påføring som huset |
-| Toppavslutning | Gjennomgående dekkbord som beskytter endeved mot nedbør |
+| Topp- og endeavslutning | Gjennomgående dekkbord på toppen og loddrett endebord på fri uteside for en rett, beskyttet avslutning |
 | Innfesting | **A4 syrefaste** skruer og beslag – jernvitriol angriper sink og gir mørke renner på galvanisert stål |
-| Fundament | Punktfundament i betong, diameter minst 250 mm, med stolpesko i A4, **under hver stolpe**. Dybde minst 1,0 m i drenert grunn, 1,2 m i telefarlig grunn |
+| Fundament | Punktfundament i betong, diameter minst 250 mm, med stolpesko i A4, **under hver frittstående stolpe**. Dybde minst 1,0 m i drenert grunn, 1,2 m i telefarlig grunn |
 | Avstand til bakken | **Minst 200 mm** fra ferdig terreng til nederste kledningsbord |
 
 > [!IMPORTANT]
@@ -166,7 +166,7 @@ materiale og samme stående montering, og ser like ut på avstand:
 | Høyde | 1,8 m over ferdig terreng | Maksimal høyde uten søknadsplikt, jf. SAK10 § 4-1 første ledd bokstav f. Gir reell skjerming for stående person. |
 | Lengde | 3,10–5,00 m, se punkt 4 | Fastsatt av avstanden til skråningen og 5,0 m-grensen. Alle vegger holder seg innenfor bokstav f nr. 2, som tillater plassering inntil nabogrensen. |
 | Stolpedimensjon | 98 × 98 mm | Alminnelig dimensjon for levegg på 1,8 m |
-| Stolpeavstand | c/c maks 0,80 m | Tett stolpeavstand gir god innfesting for den stående kledningen og en svært stiv vegg. Alle stolper føres til frostfritt betongfundament. |
+| Stolpeavstand | c/c maks 0,80 m | Tett stolpeavstand gir god innfesting for den stående kledningen og en svært stiv vegg. Alle frittstående stolper føres til frostfritt betongfundament. |
 | Avstand til bakken | Minst 200 mm | Forlenger levetiden på nederste bord, og demper samtidig undertrykket under veggen |
 
 ![Oppriss av leveggen](Tegninger/Oppriss.svg)

@@ -1,141 +1,935 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" width="297mm" height="210mm" preserveAspectRatio="xMidYMid meet" font-family="Segoe UI, Arial, Helvetica, sans-serif" role="img" aria-label="Oppriss av levegg med staaende graa kledning, 98 x 98 mm stolper, 48 x 98 mm sviller og skraabaand bak">
-  <title>Levegg – oppriss</title>
-  <desc>Oppriss sett fra siden. Høyde 1,8 m over ferdig terreng, stående malmfuru med rette bordkanter og ca. 5 mm synlig spalte, stolper c/c 0,80 m og vannrette sviller vist stiplet mellom kledningslagene.</desc>
-
-  <defs>
-    <pattern id="terreng" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
-      <line x1="0" y1="0" x2="0" y2="10" stroke="#a8a49b" stroke-width="1.6"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 900 700"
+   width="297mm"
+   height="210mm"
+   preserveAspectRatio="xMidYMid meet"
+   font-family="Segoe UI, Arial, Helvetica, sans-serif"
+   role="img"
+   aria-label="Oppriss av levegg med staaende graa kledning, 98 x 98 mm stolper, 48 x 98 mm sviller og skraabaand bak"
+   version="1.1"
+   id="svg89"
+   sodipodi:docname="Oppriss.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview89"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="913.58196"
+     inkscape:cy="311.48054"
+     inkscape:window-width="7680"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg89" />
+  <title
+     id="title1">Levegg – oppriss</title>
+  <desc
+     id="desc1">Oppriss sett fra siden. Høyde 1,8 m over ferdig terreng, stående malmfuru med rette bordkanter og ca. 5 mm synlig spalte. Innerste stolpe festes i husveggen, og frittstående stolper står c/c maksimalt 0,80 m. Et loddrett endebord gir en rett avslutning på den frie utesiden. Vannrette sviller er vist stiplet mellom kledningslagene.</desc>
+  <defs
+     id="defs3">
+    <pattern
+       inkscape:collect="always"
+       xlink:href="#husvegg"
+       id="pattern90"
+       patternTransform="matrix(0.70006248,-0.70712502,0.70006248,0.70712502,1.4980567,-0.00708465)" />
+    <pattern
+       id="terreng"
+       width="10"
+       height="10"
+       patternUnits="userSpaceOnUse"
+       patternTransform="rotate(45)">
+      <line
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="10"
+         stroke="#a8a49b"
+         stroke-width="1.6"
+         id="line1" />
     </pattern>
-    <pattern id="husvegg" width="9" height="9" patternUnits="userSpaceOnUse" patternTransform="rotate(-45)">
-      <line x1="0" y1="0" x2="0" y2="9" stroke="#b3b0a8" stroke-width="1.4"/>
+    <pattern
+       id="husvegg"
+       width="9"
+       height="9"
+       patternUnits="userSpaceOnUse"
+       patternTransform="rotate(-45)">
+      <line
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="9"
+         stroke="#b3b0a8"
+         stroke-width="1.4"
+         id="line2" />
     </pattern>
-    <marker id="pil" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto">
-      <path d="M0,0 L9,4.5 L0,9 z" fill="#333"/>
+    <marker
+       id="pil"
+       markerWidth="9"
+       markerHeight="9"
+       refX="8"
+       refY="4.5"
+       orient="auto">
+      <path
+         d="M0,0 L9,4.5 L0,9 z"
+         fill="#333"
+         id="path2" />
     </marker>
-    <marker id="pilStart" markerWidth="9" markerHeight="9" refX="1" refY="4.5" orient="auto">
-      <path d="M9,0 L0,4.5 L9,9 z" fill="#333"/>
+    <marker
+       id="pilStart"
+       markerWidth="9"
+       markerHeight="9"
+       refX="1"
+       refY="4.5"
+       orient="auto">
+      <path
+         d="M9,0 L0,4.5 L9,9 z"
+         fill="#333"
+         id="path3" />
     </marker>
   </defs>
-
-  <rect width="900" height="700" fill="#ffffff"/>
-
-  <text x="450" y="32" text-anchor="middle" font-size="19" font-weight="600" fill="#1a1a1a">Levegg – oppriss</text>
-  <text x="450" y="53" text-anchor="middle" font-size="12.5" fill="#555">Stående malmfuru med rette bordkanter og ca. 5 mm spalte. Skala 1 m = 120 px.</text>
-  <text x="450" y="71" text-anchor="middle" font-size="12.5" fill="#555">Stolper og sviller ligger mellom kledningslagene og er vist stiplet. Eksempel med L = 5,00 m.</text>
-
+  <rect
+     width="990.39935"
+     height="700"
+     fill="#ffffff"
+     id="rect3"
+     x="-44.979164"
+     y="0"
+     style="stroke-width:1.04902" />
+  <text
+     x="450"
+     y="32"
+     text-anchor="middle"
+     font-size="19"
+     font-weight="600"
+     fill="#1a1a1a"
+     id="text3">Levegg – oppriss</text>
+  <text
+     x="450"
+     y="53"
+     text-anchor="middle"
+     font-size="12.5px"
+     fill="#555555"
+     id="text4">Stående malmfuru tilsvarende kledning på huset.</text>
+  <text
+     x="450"
+     y="71"
+     text-anchor="middle"
+     font-size="12.5px"
+     fill="#555555"
+     id="text5"><tspan
+       sodipodi:role="line"
+       id="tspan90"
+       x="450"
+       y="71">Stolper og sviller ligger mellom kledningslagene og er vist stiplet.</tspan><tspan
+       sodipodi:role="line"
+       id="tspan91"
+       x="450"
+       y="86.625">Eksempel med L = 5,00 m.</tspan></text>
   <!-- Husvegg -->
-  <rect x="96" y="130" width="54" height="290" fill="url(#husvegg)" stroke="#8e8b83" stroke-width="1.5"/>
-  <text x="123" y="122" text-anchor="middle" font-size="12" fill="#6e6b64">Husvegg</text>
-
+  <rect
+     x="96.541695"
+     y="129.99626"
+     width="53.462044"
+     height="290.00748"
+     fill="url(#husvegg)"
+     stroke="#8e8b83"
+     stroke-width="1.49253"
+     id="rect5"
+     style="fill:url(#pattern90)" />
+  <text
+     x="123"
+     y="122"
+     text-anchor="middle"
+     font-size="12"
+     fill="#6e6b64"
+     id="text6">Husvegg</text>
   <!-- Terreng -->
-  <line x1="60" y1="420" x2="840" y2="420" stroke="#6e6b64" stroke-width="2.5"/>
-  <rect x="60" y="420" width="780" height="26" fill="url(#terreng)"/>
-  <text x="64" y="440" font-size="12" fill="#6e6b64">Ferdig terreng</text>
-
+  <line
+     x1="60"
+     y1="420"
+     x2="840"
+     y2="420"
+     stroke="#6e6b64"
+     stroke-width="2.5"
+     id="line6" />
+  <rect
+     x="60"
+     y="420"
+     width="780"
+     height="26"
+     fill="url(#terreng)"
+     id="rect6" />
+  <text
+     x="64"
+     y="440"
+     font-size="12"
+     fill="#6e6b64"
+     id="text7">Ferdig terreng</text>
   <!-- Innvendig, stående kledningssjikt på motsatt side av rammeverket -->
-  <rect x="150" y="214" width="600" height="182" fill="#75736d"/>
-  <g stroke="#605e59" stroke-width="1">
-    <line x1="165" y1="214" x2="165" y2="396"/><line x1="195" y1="214" x2="195" y2="396"/>
-    <line x1="225" y1="214" x2="225" y2="396"/><line x1="255" y1="214" x2="255" y2="396"/>
-    <line x1="285" y1="214" x2="285" y2="396"/><line x1="315" y1="214" x2="315" y2="396"/>
-    <line x1="345" y1="214" x2="345" y2="396"/><line x1="375" y1="214" x2="375" y2="396"/>
-    <line x1="405" y1="214" x2="405" y2="396"/><line x1="435" y1="214" x2="435" y2="396"/>
-    <line x1="465" y1="214" x2="465" y2="396"/><line x1="495" y1="214" x2="495" y2="396"/>
-    <line x1="525" y1="214" x2="525" y2="396"/><line x1="555" y1="214" x2="555" y2="396"/>
-    <line x1="585" y1="214" x2="585" y2="396"/><line x1="615" y1="214" x2="615" y2="396"/>
-    <line x1="645" y1="214" x2="645" y2="396"/><line x1="675" y1="214" x2="675" y2="396"/>
-    <line x1="705" y1="214" x2="705" y2="396"/><line x1="735" y1="214" x2="735" y2="396"/>
+  <rect
+     x="150"
+     y="214"
+     width="587.27271"
+     height="202.92287"
+     fill="#75736d"
+     id="rect7"
+     style="stroke-width:1.04466" />
+  <g
+     stroke="#605e59"
+     stroke-width="1"
+     id="g26">
+    <line
+       x1="165"
+       y1="214"
+       x2="165"
+       y2="396"
+       id="line7" />
+    <line
+       x1="195"
+       y1="214"
+       x2="195"
+       y2="396"
+       id="line8" />
+    <line
+       x1="225"
+       y1="214"
+       x2="225"
+       y2="396"
+       id="line9" />
+    <line
+       x1="255"
+       y1="214"
+       x2="255"
+       y2="396"
+       id="line10" />
+    <line
+       x1="285"
+       y1="214"
+       x2="285"
+       y2="396"
+       id="line11" />
+    <line
+       x1="315"
+       y1="214"
+       x2="315"
+       y2="396"
+       id="line12" />
+    <line
+       x1="345"
+       y1="214"
+       x2="345"
+       y2="396"
+       id="line13" />
+    <line
+       x1="375"
+       y1="214"
+       x2="375"
+       y2="396"
+       id="line14" />
+    <line
+       x1="405"
+       y1="214"
+       x2="405"
+       y2="396"
+       id="line15" />
+    <line
+       x1="435"
+       y1="214"
+       x2="435"
+       y2="396"
+       id="line16" />
+    <line
+       x1="465"
+       y1="214"
+       x2="465"
+       y2="396"
+       id="line17" />
+    <line
+       x1="495"
+       y1="214"
+       x2="495"
+       y2="396"
+       id="line18" />
+    <line
+       x1="525"
+       y1="214"
+       x2="525"
+       y2="396"
+       id="line19" />
+    <line
+       x1="555"
+       y1="214"
+       x2="555"
+       y2="396"
+       id="line20" />
+    <line
+       x1="585"
+       y1="214"
+       x2="585"
+       y2="396"
+       id="line21" />
+    <line
+       x1="615"
+       y1="214"
+       x2="615"
+       y2="396"
+       id="line22" />
+    <line
+       x1="645"
+       y1="214"
+       x2="645"
+       y2="396"
+       id="line23" />
+    <line
+       x1="675"
+       y1="214"
+       x2="675"
+       y2="396"
+       id="line24" />
+    <line
+       x1="705"
+       y1="214"
+       x2="705"
+       y2="396"
+       id="line25" />
+    <line
+       x1="735"
+       y1="214"
+       x2="735"
+       y2="396"
+       id="line26" />
   </g>
-
   <!-- Synlig stående ytterkledning, samme profil som husets kledning -->
-  <g fill="#9e9c94" stroke="#6e6b64" stroke-width="0.9">
-    <rect x="150" y="214" width="18" height="182"/><rect x="180" y="214" width="18" height="182"/>
-    <rect x="210" y="214" width="18" height="182"/><rect x="240" y="214" width="18" height="182"/>
-    <rect x="270" y="214" width="18" height="182"/><rect x="300" y="214" width="18" height="182"/>
-    <rect x="330" y="214" width="18" height="182"/><rect x="360" y="214" width="18" height="182"/>
-    <rect x="390" y="214" width="18" height="182"/><rect x="420" y="214" width="18" height="182"/>
-    <rect x="450" y="214" width="18" height="182"/><rect x="480" y="214" width="18" height="182"/>
-    <rect x="510" y="214" width="18" height="182"/><rect x="540" y="214" width="18" height="182"/>
-    <rect x="570" y="214" width="18" height="182"/><rect x="600" y="214" width="18" height="182"/>
-    <rect x="630" y="214" width="18" height="182"/><rect x="660" y="214" width="18" height="182"/>
-    <rect x="690" y="214" width="18" height="182"/><rect x="720" y="214" width="18" height="182"/>
+  <g
+     fill="#9e9c94"
+     stroke="#6e6b64"
+     stroke-width="0.9"
+     id="g45"
+     transform="matrix(0.99991583,0,0,1.1130995,0.03737138,-24.178556)"
+     style="stroke-width:1.57979241;stroke-dasharray:none">
+    <rect
+       x="150"
+       y="214"
+       width="18"
+       height="182"
+       id="rect26"
+       style="stroke-width:1.57979241;stroke-dasharray:none" />
+    <rect
+       x="180"
+       y="214"
+       width="18"
+       height="182"
+       id="rect27"
+       style="stroke-width:1.57979241;stroke-dasharray:none" />
+    <rect
+       x="210"
+       y="214"
+       width="18"
+       height="182"
+       id="rect28"
+       style="stroke-width:1.57979241;stroke-dasharray:none" />
+    <rect
+       x="240"
+       y="214"
+       width="18"
+       height="182"
+       id="rect29"
+       style="stroke-width:1.57979241;stroke-dasharray:none" />
+    <rect
+       x="270"
+       y="214"
+       width="18"
+       height="182"
+       id="rect30"
+       style="stroke-width:1.57979241;stroke-dasharray:none" />
+    <rect
+       x="300"
+       y="214"
+       width="18"
+       height="182"
+       id="rect31"
+       style="stroke-width:1.57979241;stroke-dasharray:none" />
+    <rect
+       x="330"
+       y="214"
+       width="18"
+       height="182"
+       id="rect32"
+       style="stroke-width:1.57979241;stroke-dasharray:none" />
+    <rect
+       x="360"
+       y="214"
+       width="18"
+       height="182"
+       id="rect33"
+       style="stroke-width:1.57979241;stroke-dasharray:none" />
+    <rect
+       x="390"
+       y="214"
+       width="18"
+       height="182"
+       id="rect34"
+       style="stroke-width:1.57979241;stroke-dasharray:none" />
+    <rect
+       x="420"
+       y="214"
+       width="18"
+       height="182"
+       id="rect35"
+       style="stroke-width:1.57979241;stroke-dasharray:none" />
+    <rect
+       x="450"
+       y="214"
+       width="18"
+       height="182"
+       id="rect36"
+       style="stroke-width:1.57979241;stroke-dasharray:none" />
+    <rect
+       x="480"
+       y="214"
+       width="18"
+       height="182"
+       id="rect37"
+       style="stroke-width:1.57979241;stroke-dasharray:none" />
+    <rect
+       x="510"
+       y="214"
+       width="18"
+       height="182"
+       id="rect38"
+       style="stroke-width:1.57979241;stroke-dasharray:none" />
+    <rect
+       x="540"
+       y="214"
+       width="18"
+       height="182"
+       id="rect39"
+       style="stroke-width:1.57979241;stroke-dasharray:none" />
+    <rect
+       x="570"
+       y="214"
+       width="18"
+       height="182"
+       id="rect40"
+       style="stroke-width:1.57979241;stroke-dasharray:none" />
+    <rect
+       x="600"
+       y="214"
+       width="18"
+       height="182"
+       id="rect41"
+       style="stroke-width:1.57979241;stroke-dasharray:none" />
+    <rect
+       x="630"
+       y="214"
+       width="18"
+       height="182"
+       id="rect42"
+       style="stroke-width:1.57979241;stroke-dasharray:none" />
+    <rect
+       x="660"
+       y="214"
+       width="18"
+       height="182"
+       id="rect43"
+       style="stroke-width:1.57979241;stroke-dasharray:none" />
+    <rect
+       x="690"
+       y="214"
+       width="18"
+       height="182"
+       id="rect44"
+       style="stroke-width:1.57979241;stroke-dasharray:none" />
+    <rect
+       x="720"
+       y="214"
+       width="18"
+       height="182"
+       id="rect45"
+       style="stroke-width:1.57979241;stroke-dasharray:none" />
   </g>
-
+  <!-- Loddrett endebord gir en rett avslutning på den frie utesiden -->
+  <rect
+     x="738.18347"
+     y="214.23909"
+     width="5.1994615"
+     height="203.15639"
+     fill="#8a887f"
+     stroke="#5f5d57"
+     stroke-width="0.973634"
+     id="rect46" />
+  <text
+     x="743.54651"
+     y="246.45442"
+     font-size="11.5px"
+     fill="#5f5d57"
+     id="text46">Endebord</text>
   <!-- Dekkbord -->
-  <rect x="144" y="203" width="612" height="11" fill="#8a887f" stroke="#5f5d57" stroke-width="1.4"/>
-  <text x="764" y="212" font-size="11.5" fill="#5f5d57">Dekkbord</text>
-
+  <rect
+     x="149.65971"
+     y="208.57503"
+     width="595.90814"
+     height="5.6802902"
+     fill="#8a887f"
+     stroke="#5f5d57"
+     stroke-width="0.992729"
+     id="rect47" />
+  <text
+     x="675.36816"
+     y="196.72806"
+     font-size="11.5px"
+     fill="#5f5d57"
+     id="text47">Dekkbord</text>
   <!-- Stolper og sviller bak kledningen, vist stiplet -->
-  <g stroke="#33322f" stroke-width="1.7" stroke-dasharray="9 5" fill="none">
-    <rect x="144" y="204" width="12" height="216"/>
-    <rect x="230" y="204" width="12" height="216"/>
-    <rect x="315" y="204" width="12" height="216"/>
-    <rect x="401" y="204" width="12" height="216"/>
-    <rect x="487" y="204" width="12" height="216"/>
-    <rect x="572" y="204" width="12" height="216"/>
-    <rect x="658" y="204" width="12" height="216"/>
-    <rect x="744" y="204" width="12" height="216"/>
+  <rect
+     x="149.99524"
+     y="225.1503"
+     width="12.13554"
+     height="178.59315"
+     id="rect48"
+     style="fill:none;stroke:#33322f;stroke-width:1.66666663;stroke-dasharray:8.82351246,4.90195469;stroke-dashoffset:0" />
+  <rect
+     x="239.9272"
+     y="225.07651"
+     width="12.145597"
+     height="178.88916"
+     id="rect49"
+     style="fill:none;stroke:#33322f;stroke-width:1.66666663;stroke-dasharray:8.8234963,4.90194826;stroke-dashoffset:0" />
+  <rect
+     x="335.927"
+     y="225.08395"
+     width="12.146007"
+     height="178.79071"
+     id="rect50"
+     style="fill:none;stroke:#33322f;stroke-width:1.66666663;stroke-dasharray:8.82356275,4.90197472;stroke-dashoffset:0" />
+  <rect
+     x="431.92719"
+     y="225.09108"
+     width="12.145651"
+     height="178.8316"
+     id="rect51"
+     style="fill:none;stroke:#33322f;stroke-width:1.66666663;stroke-dasharray:8.82355965,4.90197981;stroke-dashoffset:0" />
+  <rect
+     x="149.96558"
+     y="215.58865"
+     width="582.07947"
+     height="9.5213251"
+     id="rect51-9"
+     style="fill:none;stroke:#33322f;stroke-width:1.66666663;stroke-dasharray:8.82356036,4.90197216;stroke-dashoffset:0" />
+  <rect
+     x="636.07611"
+     y="309.6098"
+     width="83.856384"
+     height="10.510062"
+     id="rect51-9-8"
+     style="fill:none;stroke:#33322f;stroke-width:1.66752;stroke-dasharray:8.82806, 4.90449;stroke-dashoffset:0" />
+  <rect
+     x="540.07184"
+     y="309.58749"
+     width="83.858734"
+     height="10.510039"
+     id="rect51-9-8-3"
+     style="fill:none;stroke:#33322f;stroke-width:1.66753;stroke-dasharray:8.82818, 4.90455;stroke-dashoffset:0" />
+  <rect
+     x="444.07751"
+     y="309.64047"
+     width="83.849998"
+     height="10.51012"
+     id="rect51-9-8-5"
+     style="fill:none;stroke:#33322f;stroke-width:1.66746;stroke-dasharray:8.82775, 4.90431;stroke-dashoffset:0" />
+  <rect
+     x="348.07184"
+     y="309.63702"
+     width="83.846588"
+     height="10.510152"
+     id="rect51-9-8-5-2"
+     style="fill:none;stroke:#33322f;stroke-width:1.66743;stroke-dasharray:8.82758, 4.90422;stroke-dashoffset:0" />
+  <rect
+     x="252.0844"
+     y="309.63831"
+     width="83.849998"
+     height="10.51012"
+     id="rect51-9-8-5-3"
+     style="fill:none;stroke:#33322f;stroke-width:1.66746;stroke-dasharray:8.82775, 4.90431;stroke-dashoffset:0" />
+  <rect
+     x="156.08252"
+     y="309.61862"
+     width="83.849998"
+     height="10.51012"
+     id="rect51-9-8-5-1"
+     style="fill:none;stroke:#33322f;stroke-width:1.66746;stroke-dasharray:8.82775, 4.90431;stroke-dashoffset:0" />
+  <rect
+     x="150.18437"
+     y="403.8681"
+     width="582.07947"
+     height="9.5213251"
+     id="rect51-9-8-2"
+     style="fill:none;stroke:#33322f;stroke-width:1.66667;stroke-dasharray:8.82356, 4.90197;stroke-dashoffset:0" />
+  <rect
+     x="527.92712"
+     y="225.1875"
+     width="12.145847"
+     height="178.78349"
+     id="rect52"
+     style="fill:none;stroke:#33322f;stroke-width:1.66666663;stroke-dasharray:8.82356883,4.90198412;stroke-dashoffset:0" />
+  <rect
+     x="623.92706"
+     y="225.04579"
+     width="12.145852"
+     height="178.82878"
+     id="rect53"
+     style="fill:none;stroke:#33322f;stroke-width:1.66666663;stroke-dasharray:8.82354098,4.90197311;stroke-dashoffset:0" />
+  <rect
+     x="719.92682"
+     y="225.1082"
+     width="12.146327"
+     height="178.7184"
+     id="rect54"
+     style="fill:none;stroke:#33322f;stroke-width:1.66633;stroke-dasharray:8.82176, 4.90099;stroke-dashoffset:0" />
+  <!-- Veggfestet innerste stolpe -->
+  <path
+     d="M 148.98481,234.88455 111.28683,204.11591"
+     fill="none"
+     stroke="#33322f"
+     stroke-width="1.30605"
+     id="path59" />
+  <text
+     x="108"
+     y="184"
+     text-anchor="middle"
+     font-size="10.5"
+     fill="#33322f"
+     id="text59">Innerste stolpe</text>
+  <text
+     x="108"
+     y="197"
+     text-anchor="middle"
+     font-size="10.5"
+     fill="#33322f"
+     id="text60">festes i husvegg</text>
+  <!-- Punktfundament i betong under alle frittstående stolper -->
+  <rect
+     x="733.97778"
+     y="215.85924"
+     width="2.6172726"
+     height="294.52499"
+     id="rect64-5-11-7-4-2-6-3"
+     style="fill:#d2d0cb;stroke:#8b8983;stroke-width:2.20181;stroke-dasharray:none" />
+  <g
+     id="g93"
+     transform="translate(-47.625002)">
+    <rect
+       x="718.32764"
+       y="402.79288"
+       width="16.091661"
+       height="14.228936"
+       id="rect64-5-11-7-4-2-6"
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.2;stroke-dasharray:none" />
+    <rect
+       x="725.34076"
+       y="417.02719"
+       width="1.6274133"
+       height="15.036635"
+       id="rect64-5-1-5-6-2-2-8"
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.2;stroke-dasharray:none" />
+    <rect
+       x="714"
+       y="420"
+       width="24"
+       height="40"
+       id="rect69"
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.2" />
+    <rect
+       x="703.10742"
+       y="447.33044"
+       width="46.312382"
+       height="22.496233"
+       id="rect69-1"
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.25012" />
   </g>
-  <g stroke="#33322f" stroke-width="1.3" stroke-dasharray="8 5" fill="none">
-    <line x1="150" y1="228" x2="750" y2="228"/>
-    <line x1="150" y1="305" x2="750" y2="305"/>
-    <line x1="150" y1="382" x2="750" y2="382"/>
+  <g
+     id="g92"
+     transform="translate(-47.625002)">
+    <rect
+       x="525.7298"
+       y="402.79291"
+       width="16.091661"
+       height="14.228936"
+       id="rect64-5-11-7-4"
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.2;stroke-dasharray:none" />
+    <rect
+       x="532.74292"
+       y="417.02722"
+       width="1.6274133"
+       height="15.036635"
+       id="rect64-5-1-5-6-2"
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.2;stroke-dasharray:none" />
+    <rect
+       x="522"
+       y="420"
+       width="24"
+       height="40"
+       id="rect67"
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.2" />
+    <rect
+       x="511.44037"
+       y="447.56094"
+       width="46.312382"
+       height="22.496233"
+       id="rect69-1-9"
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.25012" />
   </g>
-  <g stroke="#33322f" stroke-width="1.5" stroke-dasharray="8 5" fill="none">
-    <line x1="156" y1="382" x2="230" y2="228"/>
-    <line x1="744" y1="382" x2="670" y2="228"/>
+  <g
+     id="g91"
+     transform="translate(-47.625002)">
+    <rect
+       x="334.15485"
+       y="402.95892"
+       width="16.091661"
+       height="14.228936"
+       id="rect64-5-11"
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.2;stroke-dasharray:none" />
+    <rect
+       x="341.16797"
+       y="417.19324"
+       width="1.6274133"
+       height="15.036635"
+       id="rect64-5-1-5"
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.2;stroke-dasharray:none" />
+    <rect
+       x="330"
+       y="420"
+       width="24"
+       height="40"
+       id="rect65"
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.2" />
+    <rect
+       x="318.78336"
+       y="447.12048"
+       width="46.312382"
+       height="22.496233"
+       id="rect69-1-9-7"
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.25012" />
   </g>
-
-  <!-- Punktfundament i betong under hver stolpe -->
-  <g fill="#d2d0cb" stroke="#8b8983" stroke-width="1.2">
-    <rect x="138" y="420" width="24" height="40"/><rect x="224" y="420" width="24" height="40"/>
-    <rect x="309" y="420" width="24" height="40"/><rect x="395" y="420" width="24" height="40"/>
-    <rect x="481" y="420" width="24" height="40"/><rect x="566" y="420" width="24" height="40"/>
-    <rect x="652" y="420" width="24" height="40"/><rect x="738" y="420" width="24" height="40"/>
-  </g>
-  <text x="450" y="478" text-anchor="middle" font-size="12" fill="#555">Punktfundament i betong med stolpesko under hver stolpe, ført til frostfri dybde</text>
-
+  <text
+     x="432.36115"
+     y="492.11108"
+     text-anchor="middle"
+     font-size="12px"
+     fill="#555555"
+     id="text70"><tspan
+       sodipodi:role="line"
+       id="tspan94"
+       x="432.36115"
+       y="492.11108">Punktfundament i betong med stolpesko under bunnsville (2x 48x98),</tspan><tspan
+       sodipodi:role="line"
+       id="tspan95"
+       x="432.36115"
+       y="507.11108">ført til frostfri dybde ca 60 cm med ekstra støtte i bunn</tspan></text>
+  <text
+     x="796.146"
+     y="463.81696"
+     text-anchor="middle"
+     font-size="12px"
+     fill="#555555"
+     id="text70-7"><tspan
+       sodipodi:role="line"
+       id="tspan95-2"
+       x="796.146"
+       y="463.81696">Endestolpestøtte i</tspan><tspan
+       sodipodi:role="line"
+       x="796.146"
+       y="478.81696"
+       id="tspan96">metall for avstiving</tspan></text>
   <!-- Målsetting: høyde -->
-  <line x1="80" y1="203" x2="80" y2="420" stroke="#333" stroke-width="1.2" marker-start="url(#pilStart)" marker-end="url(#pil)"/>
-  <line x1="72" y1="203" x2="150" y2="203" stroke="#333" stroke-width="0.7" stroke-dasharray="3 3"/>
-  <line x1="72" y1="420" x2="150" y2="420" stroke="#333" stroke-width="0.7" stroke-dasharray="3 3"/>
-  <text x="70" y="312" text-anchor="middle" font-size="14" font-weight="600" fill="#1a1a1a" transform="rotate(-90 70 312)">1,8 m</text>
-
+  <line
+     x1="80"
+     y1="210.32298"
+     x2="80"
+     y2="420.04028"
+     stroke="#333333"
+     stroke-width="1.2"
+     marker-start="url(#pilStart)"
+     marker-end="url(#pil)"
+     id="line70" />
+  <line
+     x1="72"
+     y1="208.29166"
+     x2="150"
+     y2="208.29166"
+     stroke="#333333"
+     stroke-width="0.7"
+     stroke-dasharray="3, 3"
+     id="line71" />
+  <line
+     x1="72"
+     y1="420"
+     x2="150"
+     y2="420"
+     stroke="#333"
+     stroke-width="0.7"
+     stroke-dasharray="3 3"
+     id="line72" />
+  <text
+     x="70"
+     y="312"
+     text-anchor="middle"
+     font-size="14px"
+     font-weight="600"
+     fill="#1a1a1a"
+     transform="rotate(-90,70,312)"
+     id="text72">180 cm</text>
   <!-- Målsetting: luftespalte -->
-  <line x1="790" y1="396" x2="790" y2="420" stroke="#1f4e79" stroke-width="1.2"/>
-  <line x1="784" y1="396" x2="796" y2="396" stroke="#1f4e79" stroke-width="1"/>
-  <line x1="784" y1="420" x2="796" y2="420" stroke="#1f4e79" stroke-width="1"/>
-  <line x1="750" y1="396" x2="790" y2="396" stroke="#1f4e79" stroke-width="0.8" stroke-dasharray="3 3"/>
-  <text x="800" y="412" font-size="11" fill="#1f4e79">≥ 200 mm</text>
-
   <!-- Målsetting: stolpeavstand -->
-  <line x1="150" y1="180" x2="236" y2="180" stroke="#333" stroke-width="1.1" marker-start="url(#pilStart)" marker-end="url(#pil)"/>
-  <line x1="150" y1="172" x2="150" y2="204" stroke="#333" stroke-width="0.7"/>
-  <line x1="236" y1="172" x2="236" y2="204" stroke="#333" stroke-width="0.7"/>
-  <text x="193" y="168" text-anchor="middle" font-size="12" fill="#1a1a1a">c/c 0,72 m</text>
-  <text x="330" y="168" font-size="12" fill="#555">Stolper c/c maks 0,80 m. Alle står på eget betongfundament.</text>
-
+  <line
+     x1="157.01326"
+     y1="180"
+     x2="244.908"
+     y2="180"
+     stroke="#333333"
+     stroke-width="1.09648"
+     marker-start="url(#pilStart)"
+     marker-end="url(#pil)"
+     id="line77" />
+  <line
+     x1="155.78513"
+     y1="171.61432"
+     x2="155.78513"
+     y2="203.61432"
+     stroke="#333333"
+     stroke-width="0.7"
+     id="line78" />
+  <line
+     x1="246"
+     y1="172"
+     x2="246"
+     y2="204"
+     stroke="#333"
+     stroke-width="0.7"
+     id="line79" />
+  <text
+     x="198"
+     y="168"
+     text-anchor="middle"
+     font-size="12px"
+     fill="#1a1a1a"
+     id="text79">c/c 60 cm</text>
   <!-- Målsetting: lengde -->
-  <line x1="150" y1="516" x2="750" y2="516" stroke="#333" stroke-width="1.2" marker-start="url(#pilStart)" marker-end="url(#pil)"/>
-  <line x1="150" y1="486" x2="150" y2="524" stroke="#333" stroke-width="0.7" stroke-dasharray="3 3"/>
-  <line x1="750" y1="486" x2="750" y2="524" stroke="#333" stroke-width="0.7" stroke-dasharray="3 3"/>
-  <text x="450" y="510" text-anchor="middle" font-size="14" font-weight="600" fill="#1a1a1a">L = 3,10–5,00 m, se planskisse</text>
-
+  <line
+     x1="151.37656"
+     y1="537.16699"
+     x2="738.10443"
+     y2="537.16699"
+     stroke="#333333"
+     stroke-width="1.18665"
+     marker-start="url(#pilStart)"
+     marker-end="url(#pil)"
+     id="line80" />
+  <line
+     x1="150"
+     y1="421.27942"
+     x2="150"
+     y2="541.63916"
+     stroke="#333333"
+     stroke-width="1.24579"
+     stroke-dasharray="3, 3"
+     id="line81"
+     style="stroke-width:0.66666665;stroke-dasharray:1.60540697,1.60540697;stroke-dashoffset:0" />
+  <line
+     x1="739.4165"
+     y1="419.09772"
+     x2="739.4165"
+     y2="541.63916"
+     stroke="#333333"
+     stroke-width="1.25703"
+     stroke-dasharray="3, 3"
+     id="line82"
+     style="stroke-width:0.66666665;stroke-dasharray:1.59105187,1.59105187;stroke-dashoffset:0" />
+  <text
+     x="450"
+     y="531.16693"
+     text-anchor="middle"
+     font-size="14px"
+     font-weight="600"
+     fill="#1a1a1a"
+     id="text82">L = 310–500 cm, se planskisse</text>
   <!-- Tegnforklaring -->
-  <rect x="60" y="540" width="780" height="138" fill="#f4f3f0" stroke="#c6c3bc" stroke-width="1"/>
-  <g font-size="12.5" fill="#333">
-    <rect x="76" y="552" width="26" height="12" fill="#9e9c94" stroke="#6e6b64" stroke-width="0.9"/>
-    <text x="112" y="562">Stående malmfuru med rette bordkanter og ca. 5 mm synlig spalte</text>
-    <rect x="76" y="572" width="26" height="12" fill="#75736d"/>
-    <text x="112" y="582">Stående innvendig kledning på motsatt side av rammeverket – vekselvis med utvendige bord</text>
-    <rect x="76" y="592" width="26" height="12" fill="none" stroke="#33322f" stroke-width="1.7" stroke-dasharray="9 5"/>
-    <text x="112" y="602">98 × 98 mm stolper c/c maks 0,80 m – mellom kledningslagene, vist stiplet</text>
-    <line x1="76" y1="618" x2="102" y2="618" stroke="#33322f" stroke-width="1.3" stroke-dasharray="8 5"/>
-    <text x="112" y="622">Tre 48 × 98 mm sviller: topp-, midt- og bunnsvill</text>
-    <line x1="76" y1="638" x2="102" y2="626" stroke="#33322f" stroke-width="1.5" stroke-dasharray="8 5"/>
-    <text x="112" y="642">48 × 98 mm skråbånd i begge endefag</text>
-    <rect x="76" y="652" width="26" height="12" fill="#d2d0cb" stroke="#8b8983" stroke-width="1.2"/>
-    <text x="112" y="662">Betongfundament med stolpesko under hver stolpe, ført til frostfri dybde</text>
-  </g>
-  <text x="76" y="688" font-size="11.5" fill="#666">Høyden 1,8 m måles fra ferdig terreng. Innfesting med A4 syrefaste skruer.</text>
+  <rect
+     x="59.867985"
+     y="603.41022"
+     width="780.26404"
+     height="74.721825"
+     fill="#f4f3f0"
+     stroke="#c6c3bc"
+     stroke-width="0.735966"
+     id="rect82" />
+  <rect
+     x="74.363716"
+     y="615.26947"
+     width="26"
+     height="12"
+     fill="#9e9c94"
+     stroke="#6e6b64"
+     stroke-width="0.9"
+     id="rect83"
+     style="font-size:12.5px" />
+  <text
+     x="110.36372"
+     y="625.26947"
+     id="text83"
+     style="font-size:12.5px;fill:#333333">Stående malmfuru tilsvarende kledning på huset</text>
+  <rect
+     x="86.908531"
+     y="615.08868"
+     width="13.455186"
+     height="12"
+     fill="#75736d"
+     id="rect84"
+     style="font-size:12.5px;stroke-width:0.71938" />
+  <rect
+     x="74.636429"
+     y="633.7251"
+     width="26"
+     height="12"
+     fill="none"
+     stroke="#33322f"
+     stroke-width="1.7"
+     stroke-dasharray="9, 5"
+     id="rect85"
+     style="font-size:12.5px" />
+  <text
+     x="110.63643"
+     y="643.7251"
+     id="text85"
+     style="font-size:12.5px;fill:#333333">48 × 98 mm CU imp – innerste festes i husvegg, øvrige c/c maks 60 cm</text>
+  <rect
+     x="74.091003"
+     y="652.81812"
+     width="26"
+     height="12"
+     fill="#d2d0cb"
+     stroke="#8b8983"
+     stroke-width="1.2"
+     id="rect87"
+     style="font-size:12.5px" />
+  <text
+     x="110.091"
+     y="662.81812"
+     id="text88"
+     style="font-size:12.5px;fill:#333333">Betongfundament med stolpestøtte under frittstående stolper, ført til frostfri dybde ca 60 cm</text>
 </svg>

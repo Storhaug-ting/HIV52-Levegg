@@ -176,21 +176,21 @@ SINTEF-anvisningenes fulltekst. Endelig kontroll bør skje mot 517.551 og 517.63
 |-----|------------|
 | Stolper | 98 × 98 mm. Kjerneved eller trykkimpregnert virke, kledd inn der de er synlige |
 | Senteravstand | **c/c maks 0,80 m.** Alminnelig praksis for en levegg på 1,8 m er 2,0–2,5 m mellom bærende stolper, så dette er vesentlig tettere enn nødvendig av hensyn til vindlast. Til gjengjeld gir det god innfesting for den stående kledningen og en svært stiv vegg |
-| Fundamentering | Alle stolper føres til frostfritt betongfundament, se punkt 5 |
+| Fundamentering | Alle frittstående stolper føres til frostfritt betongfundament, se punkt 5 |
 | Rammeverk | Tre 48 × 98 mm sviller mellom stolpene: topp-, midt- og bunnsvill. Stående kledning skrus til svillene med A4 syrefaste skruer |
 | Avstivning | Ett 48 × 98 mm skråbånd i hvert endefag, fra bunnsvill til toppsvill. Skråbåndene ligger mellom kledningslagene og er ikke synlige i fasaden |
-| Endefeste | Veggen dimensjoneres som selvbærende. Innfesting i husveggen kan brukes kun når prosjekterende har vurdert fasaden og fuktsikringen |
+| Endefeste | Innerste endestolpe festes i husveggen med A4-festemidler i bærende konstruksjon. Fasade og fuktsikring må vurderes før montering |
 
 Vindlast dimensjoneres etter [NS-EN 1991-1-4](https://www.standard.no) med nasjonalt tillegg.
 Spydeberg ligger i innlandet på Østlandet, med terrengkategori II–III.
 
 ## 5. Fundamentering
 
-Punktfundament av betong med stolpesko under **hver** stolpe, slik at trevirket står klar av bakken.
+Punktfundament av betong med stolpesko under **hver frittstående stolpe**, slik at trevirket står klar av bakken. Den innerste endestolpen festes i husveggen og har ikke eget punktfundament.
 
 | Forhold | Anbefaling |
 |---------|------------|
-| Antall | Ett fundament per stolpe, altså c/c maks 0,80 m |
+| Antall | Ett fundament per frittstående stolpe; den veggfestede endestolpen har ikke eget fundament |
 | Diameter | Minst 250–300 mm |
 | Dybde, godt drenert pukk/grus | Minst 1,0 m til underkant |
 | Dybde, telefarlig grunn (silt, leire) | Minst 1,2 m, eller telesikring etter 521.811 |
@@ -200,7 +200,7 @@ Alternativt kan skruefundament benyttes, forutsatt at det føres til frostfri dy
 trestolpe frarådes: overgangen mellom jord og luft er der trevirke råtner først.
 
 > [!NOTE]
-> Med stolper c/c 0,80 m blir det 5–8 fundamenter per vegg, altså rundt 26 fundamenter for hele
+> Med stolper c/c 0,80 m blir det 4–7 fundamenter per vegg, altså rundt 22 fundamenter for hele
 > rekka. Det er mer enn vindlasten krever, men gir en vegg som står støtt og som ikke beveger seg
 > ved telehiv. Graving til frostfri dybde er den enkeltposten som koster mest arbeid, og den er
 > ikke til å komme utenom – en levegg som løftes skjevt av telen første vinter må uansett gjøres
@@ -234,7 +234,7 @@ virker i samme retning.
 | Detalj | Anbefaling |
 |--------|------------|
 | Avstand underkant kledning til ferdig terreng | **Minst 200 mm.** Jernvitriol beskytter ikke, og nederste bord er mest utsatt |
-| Toppavslutning | Gjennomgående dekkbord, eventuelt beslag i rustfritt stål eller aluminium |
+| Topp- og endeavslutning | Gjennomgående dekkbord, eventuelt beslag i rustfritt stål eller aluminium, og loddrett endebord på fri uteside |
 | Endeved | Kappes skrått eller beskyttes, slik at vann renner av framfor å trekke inn |
 | Lufting | Kledningen skal kunne tørke fra begge sider |
 

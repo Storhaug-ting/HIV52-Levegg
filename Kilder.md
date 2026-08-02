@@ -41,6 +41,7 @@ Bestemmelsene som er brukt aktivt:
 | Kilde | Lenke |
 |-------|-------|
 | Direktoratet for byggkvalitet – veiledning til SAK10 § 4-1 | <https://www.dibk.no/regelverk/sak/2/4/4-1/> |
+| Direktoratet for byggkvalitet – Bygg mer uten å søke | <https://www.dibk.no/bygge-eller-endre/bygg-mer-uten-a-soke> |
 | Indre Østfold kommune – Skal du bygge, rive eller endre? | <https://www.io.kommune.no/tjenester/byggesak-og-eiendom/skal-du-bygge-rive-eller-endre/> |
 | Indre Østfold kommune – byggesak, kontakt | byggesak@io.kommune.no · tlf. 69 68 10 00, man–tor 10–14 (unntatt 11.30–12) |
 
@@ -151,6 +152,15 @@ Bestemmelser som er brukt aktivt:
 | Byggforvaltning 742.301 Vedlikehold av utvendig trekledning | <https://www.byggforsk.no/dokument/713/vedlikehold_av_utvendig_trekledning> |
 | Jernsulfater – Store norske leksikon | <https://snl.no/jernsulfater> |
 | Standard Norge – NS-EN 1991-1-4, NS-EN 335, NS-EN 350 | <https://www.standard.no> |
+
+## Praktisk inspirasjon
+
+Denne kilden er praktisk inspirasjon og erstatter ikke regelverk, prosjektets tekniske grunnlag eller
+faglig prosjektering.
+
+| Kilde | Lenke |
+|-------|-------|
+| YouTube – Hvordan bygge en levegg mot naboen | <https://www.youtube.com/watch?v=sxuT3Jt-Dbo> |
 
 ## Saken i repoet
 

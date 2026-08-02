@@ -59,6 +59,10 @@ Unntaket fra søknadsplikt er betinget. Innledningen til § 4-1 første ledd er 
 > byggesaksbehandling, dersom tiltaket **ikke er i strid med lovens bestemmelser med tilhørende
 > forskrifter, kommuneplanens arealdel og reguleringsplan, tillatelser eller annet regelverk**»
 
+[Direktoratet for byggkvalitets oversikt «Bygg mer uten å søke»](https://www.dibk.no/bygge-eller-endre/bygg-mer-uten-a-soke)
+understreker samme kontrollpunkt: Tiltak uten søknad må ikke stride mot gjeldende arealplan, og
+kommunen bør kontaktes for å avklare lokale planbestemmelser før planleggingen starter.
+
 Følgende gjelder derfor uansett:
 
 | Forhold | Hva det innebærer |
@@ -400,6 +404,7 @@ Ferdig e-postutkast ligger i
 |-------|-------|
 | Byggesaksforskriften (SAK10) § 4-1 | <https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1> |
 | DiBK – veiledning til SAK10 § 4-1 | <https://www.dibk.no/regelverk/sak/2/4/4-1/> |
+| DiBK – Bygg mer uten å søke | <https://www.dibk.no/bygge-eller-endre/bygg-mer-uten-a-soke> |
 | Plan- og bygningsloven | <https://lovdata.no/lov/2008-06-27-71> |
 | Grannelova | <https://lovdata.no/lov/1961-06-16-15> |
 | Grannegjerdelova | <https://lovdata.no/lov/1961-05-05> |

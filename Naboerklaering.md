@@ -39,7 +39,7 @@ Levegg mellom de to seksjonenes uteoppholdsarealer, utført i samsvar med design
 | Lengdealternativ | ☐ Alternativ 1 – til foten av skråningen ☐ Alternativ 2 – 1,0 m før foten |
 | Kledningsprinsipp | ☐ I helt tett på én side ☐ II spaltet ☐ III vekselvis på begge sider (anbefalt) ☐ IV helt tett på begge sider |
 | Lengde for denne veggen | ______ m |
-| Konstruksjon | Stolper c/c maks 0,80 m, alle på eget betongfundament med stolpesko, dekkbord på toppen, luftespalte ≥ 200 mm mot bakken |
+| Konstruksjon | Innerste endestolpe festes i husveggen; øvrige stolper c/c maks 0,80 m står på eget betongfundament med stolpesko. Dekkbord på toppen, endebord på fri uteside og luftespalte ≥ 200 mm mot bakken |
 | Plassering | I grenselinjen mellom seksjonenes enerettsarealer, østover fra østfasaden |
 
 Designbeskrivelse og målsatte tegninger:

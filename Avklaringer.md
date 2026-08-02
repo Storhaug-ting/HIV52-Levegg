@@ -128,8 +128,8 @@ oppgitt målestokk 1:500 og er den mest presise av kildene som finnes på papir.
 | 5.1 | Høyde på leveggen | 🟢 1,8 m over ferdig terreng |
 | 5.2 | Tett, spaltet eller vekselvis kledning | 🟡 Vekselvis (alternativ III) anbefalt i `Byggeteknikk.md`. Må velges sammen med naboene |
 | 5.3 | Vertikal eller horisontal kledning på leveggen | 🟢 Stående, lik husets kledning |
-| 5.4 | Fundamentering – nedgravde stolper, stolpesko på punktfundament, eller skruefundament | 🟢 Betongfundament med stolpesko i A4 under hver stolpe, minst 1,0 m dybde |
+| 5.4 | Fundamentering – nedgravde stolper, stolpesko på punktfundament, eller skruefundament | 🟢 Betongfundament med stolpesko i A4 under hver frittstående stolpe, minst 1,0 m dybde |
 | 5.5 | Om veggen trappes ned i terrenget eller følger fallet | 🔴 Avventer måling av terrengfall |
-| 5.6 | Om leveggen festes i husveggen eller står helt frittstående | 🔴 Ikke besluttet |
+| 5.6 | Om leveggen festes i husveggen eller står helt frittstående | 🟢 Innerste endestolpe festes i husveggen med A4-festemidler i bærende konstruksjon. Fasade og fuktsikring vurderes før montering |
 | 5.7 | Om det skal settes av en luftespalte mot bakken av hensyn til råte | 🟢 Minst 200 mm – begrunnet i både trebeskyttelse og vindforhold |
 | 5.8 | Dimensjon for spaltet kledning | 🟢 23 × 48 mm bord med 10 mm spalte, avklart 2026-08-02 |
