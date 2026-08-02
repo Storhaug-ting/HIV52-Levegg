@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 760" width="900" height="760" font-family="Segoe UI, Arial, Helvetica, sans-serif" role="img" aria-label="Horisontalsnitt gjennom leveggen som viser tre kledningsprinsipper: tett, spaltet og vekselvis">
+  <title>Levegg – kledningsprinsipp, horisontalsnitt</title>
+  <desc>Horisontalsnitt sett ovenfra gjennom leveggen. Viser tre utførelser av stående kledning: helt tett, spaltet, og vekselvis kledning på begge sider av rammeverket.</desc>
+
+  <defs>
+    <marker id="pilRod" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto">
+      <path d="M0,0 L9,4.5 L0,9 z" fill="#b03a2e"/>
+    </marker>
+    <marker id="pilBla" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto">
+      <path d="M0,0 L9,4.5 L0,9 z" fill="#1f4e79"/>
+    </marker>
+  </defs>
+
+  <rect width="900" height="760" fill="#ffffff"/>
+
+  <text x="450" y="34" text-anchor="middle" font-size="19" font-weight="600" fill="#1a1a1a">Kledningsprinsipp – horisontalsnitt gjennom leveggen</text>
+  <text x="450" y="56" text-anchor="middle" font-size="12.5" fill="#555">Sett ovenfra. Bordbredde og spalter i målestokk 1 mm = 0,3 px. Bordtykkelse er overdrevet for lesbarhet.</text>
+  <text x="450" y="74" text-anchor="middle" font-size="12.5" fill="#555">Alle tre utførelser bruker samme materiale: malmfuru med grå jernvitriolbehandling, montert stående.</text>
+
+  <!-- ============ I – HELT TETT ============ -->
+  <text x="40" y="176" font-size="15" font-weight="600" fill="#1a1a1a">I – Helt tett</text>
+  <text x="40" y="196" font-size="12" fill="#555">Bord kant i kant</text>
+  <text x="40" y="216" font-size="12" fill="#555">på én side</text>
+
+  <line x1="260" y1="180" x2="820" y2="180" stroke="#8a7f6a" stroke-width="14"/>
+  <text x="828" y="184" font-size="11" fill="#6b6250">Rammeverk</text>
+  <g fill="#b07a45" stroke="#5c3714" stroke-width="1">
+    <rect x="260" y="187" width="30" height="13"/><rect x="290" y="187" width="30" height="13"/>
+    <rect x="320" y="187" width="30" height="13"/><rect x="350" y="187" width="30" height="13"/>
+    <rect x="380" y="187" width="30" height="13"/><rect x="410" y="187" width="30" height="13"/>
+    <rect x="440" y="187" width="30" height="13"/><rect x="470" y="187" width="30" height="13"/>
+    <rect x="500" y="187" width="30" height="13"/><rect x="530" y="187" width="30" height="13"/>
+    <rect x="560" y="187" width="30" height="13"/><rect x="590" y="187" width="30" height="13"/>
+    <rect x="620" y="187" width="30" height="13"/><rect x="650" y="187" width="30" height="13"/>
+    <rect x="680" y="187" width="30" height="13"/><rect x="710" y="187" width="30" height="13"/>
+    <rect x="740" y="187" width="30" height="13"/><rect x="770" y="187" width="30" height="13"/>
+    <rect x="800" y="187" width="20" height="13"/>
+  </g>
+  <line x1="470" y1="240" x2="470" y2="204" stroke="#b03a2e" stroke-width="1.6" stroke-dasharray="5 3" marker-end="url(#pilRod)"/>
+  <text x="478" y="234" font-size="11" fill="#b03a2e">Siktlinje blokkert</text>
+  <line x1="600" y1="240" x2="600" y2="204" stroke="#1f4e79" stroke-width="1.6" stroke-dasharray="5 3"/>
+  <circle cx="600" cy="200" r="6" fill="none" stroke="#b03a2e" stroke-width="1.6"/>
+  <line x1="596" y1="196" x2="604" y2="204" stroke="#b03a2e" stroke-width="1.6"/>
+  <text x="612" y="234" font-size="11" fill="#b03a2e">Ingen luftgjennomgang</text>
+
+  <!-- ============ II – SPALTET ============ -->
+  <text x="40" y="396" font-size="15" font-weight="600" fill="#1a1a1a">II – Spaltet</text>
+  <text x="40" y="416" font-size="12" fill="#555">100 mm bord,</text>
+  <text x="40" y="436" font-size="12" fill="#555">40 mm spalte</text>
+  <text x="40" y="456" font-size="12" fill="#555">≈ 29 % åpning</text>
+
+  <line x1="260" y1="400" x2="820" y2="400" stroke="#8a7f6a" stroke-width="14"/>
+  <g fill="#b07a45" stroke="#5c3714" stroke-width="1">
+    <rect x="260" y="407" width="30" height="13"/><rect x="302" y="407" width="30" height="13"/>
+    <rect x="344" y="407" width="30" height="13"/><rect x="386" y="407" width="30" height="13"/>
+    <rect x="428" y="407" width="30" height="13"/><rect x="470" y="407" width="30" height="13"/>
+    <rect x="512" y="407" width="30" height="13"/><rect x="554" y="407" width="30" height="13"/>
+    <rect x="596" y="407" width="30" height="13"/><rect x="638" y="407" width="30" height="13"/>
+    <rect x="680" y="407" width="30" height="13"/><rect x="722" y="407" width="30" height="13"/>
+    <rect x="764" y="407" width="30" height="13"/><rect x="806" y="407" width="14" height="13"/>
+  </g>
+  <line x1="290" y1="460" x2="290" y2="344" stroke="#b03a2e" stroke-width="1.6" stroke-dasharray="5 3" marker-end="url(#pilRod)"/>
+  <text x="298" y="454" font-size="11" fill="#b03a2e">Fri sikt gjennom spalten</text>
+  <line x1="500" y1="460" x2="500" y2="344" stroke="#1f4e79" stroke-width="1.8" marker-end="url(#pilBla)"/>
+  <text x="508" y="454" font-size="11" fill="#1f4e79">Luft passerer rett gjennom</text>
+  <line x1="344" y1="376" x2="344" y2="393" stroke="#333" stroke-width="0.8"/>
+  <line x1="374" y1="376" x2="374" y2="393" stroke="#333" stroke-width="0.8"/>
+  <line x1="386" y1="376" x2="386" y2="393" stroke="#333" stroke-width="0.8"/>
+  <text x="359" y="372" text-anchor="middle" font-size="10" fill="#333">100</text>
+  <text x="392" y="372" text-anchor="middle" font-size="10" fill="#333">40</text>
+
+  <!-- ============ III – VEKSELVIS ============ -->
+  <text x="40" y="616" font-size="15" font-weight="600" fill="#1a1a1a">III – Vekselvis</text>
+  <text x="40" y="636" font-size="12" font-weight="600" fill="#2e6b34">Anbefalt</text>
+  <text x="40" y="658" font-size="12" fill="#555">Bord annenhver gang</text>
+  <text x="40" y="678" font-size="12" fill="#555">på hver side, med</text>
+  <text x="40" y="698" font-size="12" fill="#555">overlapp</text>
+
+  <line x1="260" y1="620" x2="820" y2="620" stroke="#8a7f6a" stroke-width="14"/>
+  <!-- Bord på nordsiden (over rammeverket i snittet) -->
+  <g fill="#c68d55" stroke="#5c3714" stroke-width="1">
+    <rect x="285" y="600" width="30" height="13"/><rect x="335" y="600" width="30" height="13"/>
+    <rect x="385" y="600" width="30" height="13"/><rect x="435" y="600" width="30" height="13"/>
+    <rect x="485" y="600" width="30" height="13"/><rect x="535" y="600" width="30" height="13"/>
+    <rect x="585" y="600" width="30" height="13"/><rect x="635" y="600" width="30" height="13"/>
+    <rect x="685" y="600" width="30" height="13"/><rect x="735" y="600" width="30" height="13"/>
+    <rect x="785" y="600" width="30" height="13"/>
+  </g>
+  <!-- Bord på sørsiden -->
+  <g fill="#b07a45" stroke="#5c3714" stroke-width="1">
+    <rect x="260" y="627" width="30" height="13"/><rect x="310" y="627" width="30" height="13"/>
+    <rect x="360" y="627" width="30" height="13"/><rect x="410" y="627" width="30" height="13"/>
+    <rect x="460" y="627" width="30" height="13"/><rect x="510" y="627" width="30" height="13"/>
+    <rect x="560" y="627" width="30" height="13"/><rect x="610" y="627" width="30" height="13"/>
+    <rect x="660" y="627" width="30" height="13"/><rect x="710" y="627" width="30" height="13"/>
+    <rect x="760" y="627" width="30" height="13"/><rect x="810" y="627" width="10" height="13"/>
+  </g>
+  <line x1="300" y1="690" x2="300" y2="656" stroke="#b03a2e" stroke-width="1.6" stroke-dasharray="5 3" marker-end="url(#pilRod)"/>
+  <text x="308" y="684" font-size="11" fill="#b03a2e">Siktlinje blokkert av bordet bak</text>
+  <path d="M560,690 L560,655 L545,640 L545,620 L560,605 L560,572" fill="none" stroke="#1f4e79" stroke-width="1.8" marker-end="url(#pilBla)"/>
+  <text x="572" y="570" font-size="11" fill="#1f4e79">Luft passerer i sikksakk</text>
+
+  <!-- Forklaring -->
+  <rect x="40" y="716" width="820" height="34" fill="#f7f4ec" stroke="#c9bfa6" stroke-width="1"/>
+  <text x="56" y="738" font-size="12.5" fill="#333">En tett vegg (I) gir kort le-sone og kraftig turbulens. En spaltet vegg (II) gir lengst le, men fri sikt. Vekselvis kledning (III) forener de to.</text>
+</svg>
