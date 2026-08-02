@@ -40,7 +40,7 @@ Rekka går nord–sør, uteoppholdsarealene ligger på østsiden, og leveggene g
 | [`Regelverk.md`](Regelverk.md) | Rettslig grunnlag – SAK10, reguleringsplan, kommuneplan, grannelova, eierseksjonsloven, sameiets vedtekter og trivsels- og ordensregler |
 | [`Naboerklaering.md`](Naboerklaering.md) | Mal for skriftlig samtykke fra berørte naboer, én per vegg |
 | [`Avklaringer.md`](Avklaringer.md) | Åpne punkter, målebehov og spørsmål som må besvares før saken er komplett |
-| [`Tegninger/`](Tegninger/) | Målsatte skisser – planskisse og oppriss for begge alternativer |
+| [`Tegninger/`](Tegninger/) | Målsatte A4-skisser – planskisse og oppriss for begge alternativer |
 | [`Mail/`](Mail/) | E-postkorrespondanse med naboer, styret og kommunen |
 
 ## E-poster

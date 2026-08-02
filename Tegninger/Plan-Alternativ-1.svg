@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 1650" width="820" height="1650" font-family="Segoe UI, Arial, Helvetica, sans-serif" role="img" aria-label="Planskisse alternativ 1 med forskjovne hus og maalte lengder for de fire leveggene">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 1650" width="210mm" height="297mm" preserveAspectRatio="xMidYMid meet" font-family="Segoe UI, Arial, Helvetica, sans-serif" role="img" aria-label="Planskisse alternativ 1 med forskjovne hus og maalte lengder for de fire leveggene">
   <title>Levegger rekka HIV 50–58 – planskisse alternativ 1</title>
   <desc>Plan med nord opp. Husene er plassert med sin observerte innbyrdes forskyvning, og rekka er dreid ca. 2° i forhold til nord. Hver levegg føres til foten av skråningen, begrenset til 5,0 m.</desc>
 
@@ -14,7 +14,7 @@
     </marker>
   </defs>
 
-  <rect width="820" height="1400" fill="#ffffff"/>
+  <rect width="820" height="1650" fill="#ffffff"/>
 
   <text x="410" y="32" text-anchor="middle" font-size="19" font-weight="600" fill="#1a1a1a">Alternativ 1 – levegg til foten av skråningen, maks 5,0 m</text>
   <text x="410" y="54" text-anchor="middle" font-size="12.5" fill="#555">Plan, rekka Helge Ingstads vei 50–58 (hus B, seksjon 6–10), Griniskogen Vest. Nord opp.</text>
