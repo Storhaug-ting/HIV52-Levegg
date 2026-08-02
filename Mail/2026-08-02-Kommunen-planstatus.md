@@ -21,7 +21,7 @@ uteoppholdsarealene. Alle fem boligene ligger på samme matrikkelenhet, som er s
 | Lengde | 4,10 m, 5,00 m, 4,10 m og 5,00 m – alle innenfor 5,0 m |
 | Plassering | I grenselinjen mellom seksjonenes utearealer, østover fra østfasaden. Ikke mot vei eller avkjørsel |
 | Innbyrdes avstand | Veggene står vinkelrett ut fra husrekka, med et helt uteoppholdsareal mellom hver vegg. De berører ikke hverandre |
-| Materiale | Malmfuru med grå jernvitriolbehandling, stående kledning – samme materiale, profil og behandling som husets eksisterende kledning |
+| Materiale | Malmfuru med grå jernvitriolbehandling, stående Z-frest kledning med rette kanter, ca. 5 mm synlig spalte og ca. 5 mm not/fjær |
 | Konstruksjon | Stolper c/c maks 0,80 m på betongfundament med stolpesko, stående og vekselvis kledning på begge sider, dekkbord på toppen, luftespalte mot bakken |
 
 ## Vår forståelse av regelverket
@@ -39,7 +39,7 @@ ligger innenfor formålet B1 boligbebyggelse. Vi legger til grunn at:
 - Planen ikke forbyr levegger.
 - **§ 4.3** gjelder, og krever at «gjerder/avskjerming» skal gis en estetisk utforming som
   harmonerer med den arkitektoniske utformingen til boligbebyggelsen. Materialvalget – samme
-  kledning og behandling som husene – er valgt nettopp for å oppfylle dette.
+  kledning og behandling som husene – er satt sammen nettopp for å oppfylle dette.
 - **§ 4.1** tillater at mindre frittstående installasjoner/anlegg plasseres over byggegrensene, og
   at en levegg omfattes av dette.
 - Leveggene skal holdes innenfor B1 og ikke føres inn i vegetasjonsskjermen (V1/V2) langs østsiden

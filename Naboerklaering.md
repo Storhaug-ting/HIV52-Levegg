@@ -33,11 +33,11 @@ Levegg mellom de to seksjonenes uteoppholdsarealer, utført i samsvar med design
 
 | Forhold | Verdi |
 |---------|-------|
-| Materiale | Malmfuru med grå jernvitriolbehandling, stående kledning – samme materiale og behandling som husets kledning |
-| Kledning | Stående, samme profil og bredde som husets kledning |
+| Materiale | Malmfuru med grå jernvitriolbehandling, stående Z-frest kledning med rette kanter |
+| Kledning | Ca. 5 mm synlig spalte og ca. 5 mm not/fjær; utførelse etter kledningsalternativ |
 | Høyde | 1,8 m over ferdig terreng |
-| Valgt alternativ | ☐ Alternativ 1 – til foten av skråningen ☐ Alternativ 2 – 1,0 m før foten |
-| Kledningsprinsipp | ☐ I helt tett ☐ II spaltet ☐ III vekselvis på begge sider (anbefalt) |
+| Lengdealternativ | ☐ Alternativ 1 – til foten av skråningen ☐ Alternativ 2 – 1,0 m før foten |
+| Kledningsprinsipp | ☐ I helt tett på én side ☐ II spaltet ☐ III vekselvis på begge sider (anbefalt) ☐ IV helt tett på begge sider |
 | Lengde for denne veggen | ______ m |
 | Konstruksjon | Stolper c/c maks 0,80 m, alle på eget betongfundament med stolpesko, dekkbord på toppen, luftespalte ≥ 200 mm mot bakken |
 | Plassering | I grenselinjen mellom seksjonenes enerettsarealer, østover fra østfasaden |

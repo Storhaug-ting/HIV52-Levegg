@@ -47,10 +47,10 @@ Leveggene går østover fra husenes østfasade, i skillet mellom uteoppholdsarea
 
 | Forhold | Beskrivelse |
 |---------|-------------|
-| Materiale | Malmfuru med grå jernvitriolbehandling, montert stående – samme materiale og behandling som husets kledning |
+| Materiale | Malmfuru med grå jernvitriolbehandling, montert stående med Z-frest profil og rette kanter, ca. 5 mm synlig spalte og ca. 5 mm not/fjær |
 | Kledning | Samme profil og bredde som husets kledning, montert stående |
 | Høyde | 1,8 m over ferdig terreng |
-| Lengde | 3,10–5,00 m per vegg, avhengig av valgt alternativ – se tabellen under |
+| Lengde | 3,10–5,00 m per vegg, avhengig av lengdealternativ – se tabellen under |
 | Konstruksjon | Stolper 98 × 98 mm c/c maks 0,80 m, alle på eget betongfundament med stolpesko, dekkbord på toppen, minst 200 mm luftespalte mot bakken |
 | Kledningsprinsipp | Vekselvis bord på begge sider av rammeverket foreslås, slik at veggen skjermer for innsyn og samtidig slipper gjennom luft. Se byggeteknisk grunnlag |
 | Innfesting | A4 syrefaste skruer, siden jernvitriol angriper sink og gir mørke renner på galvanisert stål |
@@ -185,4 +185,3 @@ Seksjon 7, Helge Ingstads vei 52
 [byggeteknikk]: https://github.com/Storhaug-ting/HIV52/blob/main/Levegger/Byggeteknikk.md
 [naboerklaering]: https://github.com/Storhaug-ting/HIV52/blob/main/Levegger/Naboerklaering.md
 [kilder]: https://github.com/Storhaug-ting/HIV52/blob/main/Levegger/Kilder.md
-

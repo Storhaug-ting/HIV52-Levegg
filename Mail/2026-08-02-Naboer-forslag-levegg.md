@@ -33,10 +33,10 @@ plass framfor å måtte ta saken opp på nytt.
 
 ## Hvordan vi ser for oss det
 
-Leveggen bygges i **malmfuru med grå jernvitriolbehandling**, montert stående – samme materiale og samme behandling som
-kledningen på husene. Kledningsbordene får samme profil og bredde som huset og monteres stående.
-Poenget er at veggen skal leses som en forlengelse av huset, ikke som noe som er satt inntil. Den
-gråner likt med huset over tid.
+Leveggen bygges i **malmfuru med grå jernvitriolbehandling**, montert stående med Z-frest profil
+og rette kanter. Bordene får ca. 5 mm synlig spalte og ca. 5 mm not/fjær. Poenget er at veggen skal
+leses som en forlengelse av huset, ikke som noe som er satt inntil. Den gråner likt med huset over
+tid.
 
 - Høyde 1,8 m over ferdig terreng
 - Lengde 3,10–5,00 m østover fra østfasaden, avhengig av hvilket alternativ som velges – se under
@@ -101,13 +101,14 @@ tett vegg rekker bare 9–13 meter. En vegg som slipper gjennom litt luft gir je
 rekker mer enn dobbelt så langt. I tillegg blir vindlasten omtrent halvert, og det samler seg mindre
 snø på lesiden.
 
-Vi har derfor sett på tre utførelser – alle med samme materiale og stående montering:
+Vi har derfor sett på fire utførelser – alle med samme materiale og stående montering:
 
 | | Innsyn | Vind |
 |---|---|---|
-| **I – helt tett** | Skjermer fullstendig | Kort le, mye turbulens |
+| **I – helt tett på én side** | Skjermer fullstendig | Kort le, mye turbulens |
 | **II – spaltet** (40 mm mellom bordene) | Fri sikt rett gjennom forfra | Best |
 | **III – vekselvis på begge sider** | Skjermer fullstendig | Bedre enn tett |
+| **IV – helt tett på begge sider** | Skjermer fullstendig | Kort le, mye turbulens |
 
 Vi heller mot **alternativ III**: bordene monteres annenhver gang på hver side av rammeverket, med
 overlapp, slik at man ikke ser gjennom, men luften slipper gjennom i sikksakk. En fin bieffekt er at
@@ -123,7 +124,7 @@ enkelt enige om fordelingen. Sameiet belastes ikke.
 
 1. Er dere positive til at det settes opp levegger mellom boligene i rekka?
 2. Hvilket alternativ foretrekker dere for lengden – helt fram til bakken, eller passasje på 1,0 m?
-3. Hva mener dere om kledningen – helt tett, spaltet, eller vekselvis på begge sider?
+3. Hva mener dere om kledningen – tett på én side, spaltet, vekselvis på begge sider, eller tett på begge sider?
 4. Har dere andre innvendinger mot utformingen slik den er beskrevet over?
 5. Hvem av dere er aktuelle for å gå i gang først, og når?
 6. Er dere villige til å signere naboerklæringen for den eller de veggene dere er part i?
@@ -161,4 +162,3 @@ Hele designgrunnlaget med tegninger ligger her:
 [naboerklaering]: https://github.com/Storhaug-ting/HIV52/blob/main/Levegger/Naboerklaering.md
 [regplan]: https://www.arealplaner.no/indreostfold3118/arealplaner/
 [byggforsk]: https://www.byggforsk.no
-

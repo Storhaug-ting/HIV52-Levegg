@@ -57,8 +57,9 @@ Filnavn følger mønsteret `ÅÅÅÅ-MM-DD-Mottaker-emne.md`.
 
 Utearealene er fellesareal med enerett for den enkelte seksjonen i inntil 30 år, jf. sameiets
 vedtekter pkt. 2.4. Uteplassene er i dag uskjermet mot hverandre. Forslaget er å sette opp levegger
-i **malmfuru med grå jernvitriolbehandling**, montert stående, samme materiale og behandling som husets kledning, slik at
-leveggene fremstår som en forlengelse av byggets arkitektur.
+i **malmfuru med grå jernvitriolbehandling**, montert stående med Z-frest profil og rette kanter.
+Kledningsbordene har ca. 5 mm synlig spalte og ca. 5 mm not/fjær, slik at leveggene fremstår som
+en forlengelse av byggets arkitektur.
 
 To alternative utstrekninger legges fram:
 

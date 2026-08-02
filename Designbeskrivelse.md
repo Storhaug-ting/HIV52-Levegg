@@ -94,8 +94,8 @@ gjelder utformingen, ikke tidspunktet.
 
 ### 3.1 Materialer og uttrykk
 
-Leveggen utføres i **malmfuru med grå jernvitriolbehandling**, montert **stående** – samme materiale,
-samme profil og samme overflatebehandling som husets kledning.
+Leveggen utføres i **malmfuru med grå jernvitriolbehandling**, montert **stående** med Z-frest profil
+og rette kanter. Kledningsbordene har ca. 5 mm synlig spalte og ca. 5 mm not/fjær.
 
 Det avgjørende for uttrykket er at leveggen leses som en forlengelse av huset og ikke som et
 tilført element. Materialet gråner likt med huset over tid, slik at fargeforskjellen som oppstår
@@ -104,8 +104,8 @@ i starten jevner seg ut av seg selv.
 | Del | Utførelse |
 |-----|-----------|
 | Stolper | 98 × 98 mm, c/c maks 0,80 m. Alle stolper står på eget betongfundament |
-| Rammeverk | Vannrette sviller i topp, midt og bunn, bak kledningen |
-| Kledning | Malmfuru, montert **stående og vekselvis på begge sider**, samme profil og bredde som husets kledning |
+| Rammeverk | Tre vannrette 48 × 98 mm sviller i topp, midt og bunn bak kledningen, med 48 × 98 mm skråbånd i begge endefag |
+| Kledning | Malmfuru, montert stående med Z-frest profil og rette kanter. Ca. 5 mm synlig spalte og ca. 5 mm not/fjær; utførelse etter kledningsalternativ |
 | Overflatebehandling | Jernvitriol som gir grå patina, samme blanding og påføring som huset |
 | Toppavslutning | Gjennomgående dekkbord som beskytter endeved mot nedbør |
 | Innfesting | **A4 syrefaste** skruer og beslag – jernvitriol angriper sink og gir mørke renner på galvanisert stål |
@@ -113,7 +113,7 @@ i starten jevner seg ut av seg selv.
 | Avstand til bakken | **Minst 200 mm** fra ferdig terreng til nederste kledningsbord |
 
 > [!IMPORTANT]
-> Stolpesko framfor nedgravd stolpe er valgt bevisst. Nedgravd trevirke råtner i overgangen mellom
+> Stolpesko framfor nedgravd stolpe brukes bevisst. Nedgravd trevirke råtner i overgangen mellom
 > jord og luft, og en levegg som må skiftes om ti år er en dårligere løsning for sameiet enn en som
 > står i tretti.
 >
@@ -134,14 +134,15 @@ Luften som passerer over en tett vegg slår ned igjen et stykke bak den, og der 
 sterk som før veggen – bare mer kastevis. En vegg som slipper gjennom noe luft demper
 trykkforskjellen, virvelen blir svakere, og le-sonen strekker seg mer enn dobbelt så langt bakover.
 
-Tre utførelser er vurdert i [`Byggeteknikk.md`](Byggeteknikk.md) punkt 3. Alle bruker samme
+Fire utførelser er vurdert i [`Byggeteknikk.md`](Byggeteknikk.md) punkt 3. Alle bruker samme
 materiale og samme stående montering, og ser like ut på avstand:
 
 | | Innsynsskjerming | Vindskjerming |
 |---|---|---|
-| **I – helt tett** | Fullstendig | Kort le-sone, mye turbulens |
+| **I – helt tett på én side** | Fullstendig | Kort le-sone, mye turbulens |
 | **II – spaltet** | Fri sikt rett gjennom vinkelrett på veggen | Best |
 | **III – vekselvis kledning på begge sider** | Fullstendig, ingen gjennomgående siktlinje | Bedre enn tett, ikke like god som spaltet |
+| **IV – helt tett på begge sider** | Fullstendig | Som I – kort le-sone, mye turbulens |
 
 ![Kledningsprinsipp – horisontalsnitt](Tegninger/Kledningsprinsipp.svg)
 
@@ -152,7 +153,7 @@ materiale og samme stående montering, og ser like ut på avstand:
 > helt tett vegg. Veggen ser dessuten identisk ut fra begge sider, noe som er en praktisk fordel når
 > den står i grenselinjen mellom to seksjoner – ingen får «baksiden».
 >
-> Gevinsten er reell, men mindre enn ved en ren spaltet vegg. Valget mellom I, II og III bør tas
+> Gevinsten er reell, men mindre enn ved en ren spaltet vegg. Valget mellom I, II, III og IV bør tas
 > sammen med naboene.
 
 ### 3.3 Mål
@@ -355,7 +356,7 @@ Følgende må avklares før forslaget kan gjennomføres. Fullstendig liste med s
 | [`Tegninger/Plan-Alternativ-1.svg`](Tegninger/Plan-Alternativ-1.svg) | Planskisse, alternativ 1 |
 | [`Tegninger/Plan-Alternativ-2.svg`](Tegninger/Plan-Alternativ-2.svg) | Planskisse, alternativ 2 |
 | [`Tegninger/Oppriss.svg`](Tegninger/Oppriss.svg) | Oppriss med målsetting |
-| [`Tegninger/Kledningsprinsipp.svg`](Tegninger/Kledningsprinsipp.svg) | Horisontalsnitt – tett, spaltet og vekselvis kledning |
+| [`Tegninger/Kledningsprinsipp.svg`](Tegninger/Kledningsprinsipp.svg) | Horisontalsnitt – fire kledningsalternativer med Z-frest profil |
 | [`Byggeteknikk.md`](Byggeteknikk.md) | Teknisk grunnlag med SINTEF-referanser: vindskjerming, konstruksjon, fundamentering, trebeskyttelse |
 | [`Regelverk.md`](Regelverk.md) | Rettslig grunnlag med kilder |
 | [`Kilder.md`](Kilder.md) | Samlet kildeliste med lenker |

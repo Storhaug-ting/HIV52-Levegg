@@ -90,14 +90,21 @@ Tre andre forhold trekker i samme retning:
 > så høy vindlast som en spaltet vegg med samme høyde. I et åpent og vindutsatt område er en tett
 > vegg derfor et dårligere valg enn den intuitivt virker.
 
-## 3. Tre utførelser vurdert
+## 3. Fire utførelser vurdert
 
-Alle tre bruker samme materiale – malmfuru med grå jernvitriolbehandling, montert stående – og gir
+Alle fire bruker samme materiale – malmfuru med grå jernvitriolbehandling, montert stående – og gir
 samme uttrykk på avstand.
 
-### Alternativ I – helt tett kledning
+### Kledningsprofil
 
-Bordene monteres kant i kant uten spalte.
+I alternativ I, III og IV brukes Z-frest malmfuru med rette kanter. Bordene monteres med ca. 5 mm
+synlig spalte og ca. 5 mm not/fjær, slik at skjøten får et jevnt, smalt uttrykk uten gjennomgående
+åpning. Alternativ II beholder samme bordtype, men avviker ved at bordene ikke griper i hverandre:
+der brukes 40 mm gjennomgående spalte for å oppnå den åpne vindskjermingen.
+
+### Alternativ I – helt tett kledning på én side
+
+Bordene monteres Z-frest med ca. 5 mm synlig spalte og ca. 5 mm not/fjær.
 
 | | |
 |---|---|
@@ -108,8 +115,8 @@ Bordene monteres kant i kant uten spalte.
 
 ### Alternativ II – spaltet kledning
 
-Bordene monteres med jevn spalte. Spalte på om lag 0,4 × bordbredden gir ca. 29 % åpning; med
-100 mm bord tilsvarer det 40 mm spalte.
+Bordene monteres med jevn, gjennomgående spalte. Spalte på om lag 0,4 × bordbredden gir ca. 29 %
+åpning; med 100 mm bord tilsvarer det 40 mm spalte. Z-fresen brukes ikke over den åpne spalten.
 
 | | |
 |---|---|
@@ -120,8 +127,9 @@ Bordene monteres med jevn spalte. Spalte på om lag 0,4 × bordbredden gir ca. 2
 
 ### Alternativ III – vekselvis kledning på begge sider
 
-Bordene monteres annenhver gang på hver side av rammeverket, med overlapp slik at det ikke finnes
-noen rett siktlinje gjennom veggen. Luften slipper gjennom i sikksakk.
+Bordene monteres Z-frest annenhver gang på hver side av rammeverket, med ca. 5 mm synlig spalte,
+ca. 5 mm not/fjær og overlapp slik at det ikke finnes noen rett siktlinje gjennom veggen. Luften
+slipper gjennom i sikksakk.
 
 | | |
 |---|---|
@@ -141,6 +149,24 @@ noen rett siktlinje gjennom veggen. Luften slipper gjennom i sikksakk.
 > Forbeholdet er ærlig: den aerodynamiske gevinsten er reell, men mindre enn ved en ren spaltet
 > vegg. Nøyaktig hvor mye er ikke tallfestet i kildene som er brukt her.
 
+### Alternativ IV – helt tett kledning på begge sider
+
+Bordene monteres Z-frest med ca. 5 mm synlig spalte og ca. 5 mm not/fjær på begge sider av
+rammeverket. Løsningen gir samme ferdige uttrykk fra begge naboarealer, men ingen gjennomgående
+luftpassasje.
+
+| | |
+|---|---|
+| Innsynsskjerming | Fullstendig |
+| Vindskjerming | Som alternativ I – kort le-sone og kraftig turbulens bak veggen |
+| Vindlast | Høyest |
+| Snø | Mest oppsamling |
+| Uttrykk | Identisk fra begge sider |
+| Materialforbruk | Om lag dobbelt av alternativ I |
+
+Alternativ IV er et aktuelt estetisk alternativ når likt uttrykk på begge sider er viktigere enn
+luftpassasje. I den vindutsatte plasseringen anbefales likevel alternativ III.
+
 ## 4. Konstruksjon
 
 *[Dimensjonene under er alminnelig norsk praksis for levegger på 1,8 m, ikke lest ut av
@@ -151,8 +177,9 @@ SINTEF-anvisningenes fulltekst. Endelig kontroll bør skje mot 517.551 og 517.63
 | Stolper | 98 × 98 mm. Kjerneved eller trykkimpregnert virke, kledd inn der de er synlige |
 | Senteravstand | **c/c maks 0,80 m.** Alminnelig praksis for en levegg på 1,8 m er 2,0–2,5 m mellom bærende stolper, så dette er vesentlig tettere enn nødvendig av hensyn til vindlast. Til gjengjeld gir det god innfesting for den stående kledningen og en svært stiv vegg |
 | Fundamentering | Alle stolper føres til frostfritt betongfundament, se punkt 5 |
-| Rammeverk | Topp-, midt- og bunnsviller mellom stolpene, bak kledningen |
-| Avstivning | Ikke nødvendig ved riktig dimensjonerte fundamenter. Der leveggen festes i husveggen i den ene enden, tar bygningen opp en vesentlig del av lasten |
+| Rammeverk | Tre 48 × 98 mm sviller mellom stolpene: topp-, midt- og bunnsvill. Stående kledning skrus til svillene med A4 syrefaste skruer |
+| Avstivning | Ett 48 × 98 mm skråbånd i hvert endefag, fra bunnsvill til toppsvill. Skråbåndene ligger mellom kledningslagene og er ikke synlige i fasaden |
+| Endefeste | Veggen dimensjoneres som selvbærende. Innfesting i husveggen kan brukes kun når prosjekterende har vurdert fasaden og fuktsikringen |
 
 Vindlast dimensjoneres etter [NS-EN 1991-1-4](https://www.standard.no) med nasjonalt tillegg.
 Spydeberg ligger i innlandet på Østlandet, med terrengkategori II–III.
