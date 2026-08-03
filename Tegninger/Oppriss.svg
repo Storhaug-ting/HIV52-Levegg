@@ -28,25 +28,28 @@
      inkscape:document-units="mm"
      showguides="true"
      inkscape:zoom="1.4142136"
-     inkscape:cx="913.58196"
-     inkscape:cy="311.48054"
-     inkscape:window-width="7680"
-     inkscape:window-height="2054"
-     inkscape:window-x="-11"
-     inkscape:window-y="-11"
-     inkscape:window-maximized="1"
+     inkscape:cx="383.60542"
+     inkscape:cy="311.48053"
+     inkscape:window-width="1987"
+     inkscape:window-height="1240"
+     inkscape:window-x="3463"
+     inkscape:window-y="502"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg89" />
   <title
      id="title1">Levegg – oppriss</title>
   <desc
-     id="desc1">Oppriss sett fra siden. Høyde 1,8 m over ferdig terreng, stående malmfuru med rette bordkanter og ca. 5 mm synlig spalte. Innerste stolpe festes i husveggen, og frittstående stolper står c/c maksimalt 0,80 m. Et loddrett endebord gir en rett avslutning på den frie utesiden. Vannrette sviller er vist stiplet mellom kledningslagene.</desc>
+     id="desc1">Oppriss sett fra siden. Høyde 1,8 m over ferdig terreng, med stående malmfuru i henhold til det valgte kledningsprinsippet. Innerste stolpe festes i husveggen, og frittstående stolper står c/c maksimalt 0,60 m. Et loddrett endebord gir en rett avslutning på den frie utesiden. Vannrette sviller er vist stiplet mellom kledningslagene.</desc>
   <defs
      id="defs3">
     <pattern
        inkscape:collect="always"
        xlink:href="#husvegg"
        id="pattern90"
-       patternTransform="matrix(0.70006248,-0.70712502,0.70006248,0.70712502,1.4980567,-0.00708465)" />
+       patternTransform="rotate(-45,0.74047642,-1.8118567)"
+       x="0"
+       y="0"
+       preserveAspectRatio="none" />
     <pattern
        id="terreng"
        width="10"
@@ -67,7 +70,8 @@
        width="9"
        height="9"
        patternUnits="userSpaceOnUse"
-       patternTransform="rotate(-45)">
+       patternTransform="rotate(-45)"
+       inkscape:label="husvegg">
       <line
          x1="0"
          y1="0"
@@ -150,7 +154,7 @@
      stroke="#8e8b83"
      stroke-width="1.49253"
      id="rect5"
-     style="fill:url(#pattern90)" />
+     style="fill:url(#pattern90);stroke-width:1.66666663;stroke-dasharray:none" />
   <text
      x="123"
      y="122"

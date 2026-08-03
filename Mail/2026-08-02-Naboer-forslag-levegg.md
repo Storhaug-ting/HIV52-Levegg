@@ -34,9 +34,9 @@ plass framfor å måtte ta saken opp på nytt.
 ## Hvordan vi ser for oss det
 
 Leveggen bygges i **malmfuru med grå jernvitriolbehandling**, montert stående med rette
-bordkanter. I alternativ I og IV har bordene vekslende dobbelfals med rette kanter og ca. 5 mm
+bordkanter. I alternativ 3 og 4 har bordene vekslende dobbelfals med rette kanter og ca. 5 mm
 synlig spalte; falsene går under nabobordet og falsdybden er lik halvparten av bordtykkelsen.
-Alternativ II og III har rette 23 × 48 mm bord med 10 mm spalte. Poenget er at veggen skal leses som
+Alternativ 1 og 2 har rette 23 × 48 mm bord med 10 mm spalte. Poenget er at veggen skal leses som
 en forlengelse av huset, ikke som noe som er satt inntil. Den gråner likt med huset over tid.
 
 - Høyde 1,8 m over ferdig terreng
@@ -106,12 +106,12 @@ Vi har derfor sett på fire utførelser – alle med samme materiale og stående
 
 | | Innsyn | Vind |
 |---|---|---|
-| **I – helt tett på én side** | Skjermer fullstendig | Kort le, mye turbulens |
-| **II – spaltet** (10 mm mellom 23 × 48 mm-bordene) | Fri sikt rett gjennom forfra | Best |
-| **III – vekselvis på begge sider** | Skjermer fullstendig | Bedre enn tett |
-| **IV – helt tett på begge sider** | Skjermer fullstendig | Kort le, mye turbulens |
+| **1 – spaltet** (10 mm mellom 23 × 48 mm-bordene) | Fri sikt rett gjennom forfra | Best |
+| **2 – vekselvis på begge sider** | Skjermer fullstendig | Bedre enn tett |
+| **3 – helt tett på én side** | Skjermer fullstendig | Kort le, mye turbulens |
+| **4 – helt tett på begge sider** | Skjermer fullstendig | Kort le, mye turbulens |
 
-Vi heller mot **alternativ III**: bordene monteres annenhver gang på hver side av rammeverket, med
+Vi heller mot **alternativ 2**: bordene monteres annenhver gang på hver side av rammeverket, med
 overlapp, slik at man ikke ser gjennom, men luften slipper gjennom i sikksakk. En fin bieffekt er at
 veggen da ser helt lik ut fra begge sider – ingen får «baksiden».
 

@@ -126,7 +126,7 @@ oppgitt målestokk 1:500 og er den mest presise av kildene som finnes på papir.
 | # | Valg | Status |
 |---|------|--------|
 | 5.1 | Høyde på leveggen | 🟢 1,8 m over ferdig terreng |
-| 5.2 | Tett, spaltet eller vekselvis kledning | 🟡 Vekselvis (alternativ III) anbefalt i `Byggeteknikk.md`. Må velges sammen med naboene |
+| 5.2 | Tett, spaltet eller vekselvis kledning | 🟡 Vekselvis (alternativ 2) anbefalt i `Byggeteknikk.md`. Må velges sammen med naboene |
 | 5.3 | Vertikal eller horisontal kledning på leveggen | 🟢 Stående, lik husets kledning |
 | 5.4 | Fundamentering – nedgravde stolper, stolpesko på punktfundament, eller skruefundament | 🟢 Betongfundament med stolpesko i A4 under hver frittstående stolpe, minst 1,0 m dybde |
 | 5.5 | Om veggen trappes ned i terrenget eller følger fallet | 🔴 Avventer måling av terrengfall |

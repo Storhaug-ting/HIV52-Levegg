@@ -95,9 +95,9 @@ gjelder utformingen, ikke tidspunktet.
 ### 3.1 Materialer og uttrykk
 
 Leveggen utføres i **malmfuru med grå jernvitriolbehandling**, montert **stående** med rette
-bordkanter. I alternativ I og IV utføres bordene med vekslende dobbelfals og rette kanter. Falsene
+bordkanter. I alternativ 3 og 4 utføres bordene med vekslende dobbelfals og rette kanter. Falsene
 går under nabobordet og overlapper vekselvis. Kledningsbordene har ca. 5 mm synlig spalte, og
-falsdybden er lik halvparten av bordtykkelsen. Alternativ II og III bruker rette 23 × 48 mm bord med
+falsdybden er lik halvparten av bordtykkelsen. Alternativ 1 og 2 bruker rette 23 × 48 mm bord med
 10 mm spalte.
 
 Det avgjørende for uttrykket er at leveggen leses som en forlengelse av huset og ikke som et
@@ -108,7 +108,7 @@ i starten jevner seg ut av seg selv.
 |-----|-----------|
 | Stolper | 98 × 98 mm, c/c maks 0,80 m. Innerste endestolpe festes i husveggen; øvrige stolper står på eget betongfundament |
 | Rammeverk | Tre vannrette 48 × 98 mm sviller i topp, midt og bunn bak kledningen, med 48 × 98 mm skråbånd i begge endefag |
-| Kledning | Malmfuru, montert stående. Alternativ I og IV har vekslende dobbelfals med rette kanter, ca. 5 mm synlig spalte og falsdybde lik halvparten av bordtykkelsen. Alternativ II og III har rette 23 × 48 mm bord med 10 mm spalte |
+| Kledning | Malmfuru, montert stående. Alternativ 3 og 4 har vekslende dobbelfals med rette kanter, ca. 5 mm synlig spalte og falsdybde lik halvparten av bordtykkelsen. Alternativ 1 og 2 har rette 23 × 48 mm bord med 10 mm spalte |
 | Overflatebehandling | Jernvitriol som gir grå patina, samme blanding og påføring som huset |
 | Topp- og endeavslutning | Gjennomgående dekkbord på toppen og loddrett endebord på fri uteside for en rett, beskyttet avslutning |
 | Innfesting | **A4 syrefaste** skruer og beslag – jernvitriol angriper sink og gir mørke renner på galvanisert stål |
@@ -128,7 +128,7 @@ i starten jevner seg ut av seg selv.
 Uteoppholdsarealene ligger åpent og vindutsatt til. En helt tett vegg er da ikke det opplagte
 valget den kan virke som:
 
-| Utførelse | Le-sone bak veggen | Turbulens | Vindlast på konstruksjonen | Snø på lesiden |
+| Kledningsalternativ | Le-sone bak veggen | Turbulens | Vindlast på konstruksjonen | Snø på lesiden |
 |-----------|--------------------|-----------|----------------------------|----------------|
 | Helt tett | ca. 9–13 m | Kraftig virvel, kastevind | Høyest | Markert fonn |
 | Spaltet, ca. 17 % åpning | Lengre enn tett, men kortere enn ved 30–40 % åpning | Redusert | Lavere enn tett; må verifiseres | Jevnere enn tett |
@@ -137,26 +137,27 @@ Luften som passerer over en tett vegg slår ned igjen et stykke bak den, og der 
 sterk som før veggen – bare mer kastevis. En vegg som slipper gjennom noe luft demper
 trykkforskjellen, virvelen blir svakere, og le-sonen strekker seg lenger bakover.
 
-Fire utførelser er vurdert i [`Byggeteknikk.md`](Byggeteknikk.md) punkt 3. Alle bruker samme
+Fire kledningsalternativer er vurdert i [`Byggeteknikk.md`](Byggeteknikk.md) punkt 3. Alle bruker samme
 materiale og samme stående montering, og ser like ut på avstand:
 
 | | Innsynsskjerming | Vindskjerming |
 |---|---|---|
-| **I – helt tett på én side** | Fullstendig | Kort le-sone, mye turbulens |
-| **II – spaltet** | Fri sikt rett gjennom vinkelrett på veggen | Best |
-| **III – vekselvis kledning på begge sider** | Fullstendig, ingen gjennomgående siktlinje | Bedre enn tett, ikke like god som spaltet |
-| **IV – helt tett på begge sider** | Fullstendig | Som I – kort le-sone, mye turbulens |
+| **Alternativ 1 – spaltet** | Fri sikt rett gjennom vinkelrett på veggen | Best |
+| **Alternativ 2 – vekselvis kledning på begge sider** | Fullstendig, ingen gjennomgående siktlinje | Bedre enn tett, ikke like god som spaltet |
+| **Alternativ 3 – helt tett på én side** | Fullstendig | Kort le-sone, mye turbulens |
+| **Alternativ 4 – helt tett på begge sider** | Fullstendig | Som alternativ 3 – kort le-sone, mye turbulens |
 
 ![Kledningsprinsipp – horisontalsnitt](Tegninger/Kledningsprinsipp.svg)
 
 > [!TIP]
-> **Alternativ III anbefales.** Bordene monteres annenhver gang på hver side av rammeverket, med
+> **Alternativ 2 anbefales.** Bordene monteres annenhver gang på hver side av rammeverket, med
 > overlapp slik at det ikke finnes noen rett siktlinje gjennom veggen, mens luften slipper gjennom i
 > sikksakk. Det gir full innsynsskjerming og samtidig mindre turbulens og lavere vindlast enn en
 > helt tett vegg. Veggen ser dessuten identisk ut fra begge sider, noe som er en praktisk fordel når
 > den står i grenselinjen mellom to seksjoner – ingen får «baksiden».
 >
-> Gevinsten er reell, men mindre enn ved en ren spaltet vegg. Valget mellom I, II, III og IV bør tas
+> Gevinsten er reell, men mindre enn ved en ren spaltet vegg. Valget mellom kledningsalternativ 1,
+> 2, 3 og 4 bør tas
 > sammen med naboene.
 
 ### 3.3 Mål
@@ -359,7 +360,7 @@ Følgende må avklares før forslaget kan gjennomføres. Fullstendig liste med s
 | [`Tegninger/Plan-Alternativ-1.svg`](Tegninger/Plan-Alternativ-1.svg) | Planskisse, alternativ 1 |
 | [`Tegninger/Plan-Alternativ-2.svg`](Tegninger/Plan-Alternativ-2.svg) | Planskisse, alternativ 2 |
 | [`Tegninger/Oppriss.svg`](Tegninger/Oppriss.svg) | Oppriss med målsetting |
-| [`Tegninger/Kledningsprinsipp.svg`](Tegninger/Kledningsprinsipp.svg) | Horisontalsnitt – vekslende dobbelfals i alternativ I og IV, rette bordkanter i II og III |
+| [`Tegninger/Kledningsprinsipp.svg`](Tegninger/Kledningsprinsipp.svg) | Horisontalsnitt – rette bordkanter i alternativ 1 og 2, vekslende dobbelfals i 3 og 4 |
 | [`Byggeteknikk.md`](Byggeteknikk.md) | Teknisk grunnlag med SINTEF-referanser: vindskjerming, konstruksjon, fundamentering, trebeskyttelse |
 | [`Regelverk.md`](Regelverk.md) | Rettslig grunnlag med kilder |
 | [`Kilder.md`](Kilder.md) | Samlet kildeliste med lenker |

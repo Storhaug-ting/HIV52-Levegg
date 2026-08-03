@@ -66,7 +66,7 @@ oppleves ofte som mer ubehagelig enn jevn vind, fordi turbulensen er kastevis.
 En **delvis åpen** skjerm slipper gjennom noe luft. Det demper trykkforskjellen mellom lo- og
 leside, virvelen blir mye svakere, og le-sonen strekker seg vesentlig lenger bakover.
 
-| Utførelse | Åpningsgrad | Le-sone bak veggen | Turbulens |
+| Kledningsalternativ | Åpningsgrad | Le-sone bak veggen | Turbulens |
 |-----------|-------------|--------------------|-----------|
 | Helt tett | 0 % | ca. 5–7 × høyden | Kraftig virvel, kastevind |
 | **Spaltet** | **ca. 17 %** | Lengre enn tett, men kortere enn ved 30–40 % åpning | Redusert |
@@ -89,31 +89,19 @@ Tre andre forhold trekker i samme retning:
 > En tett vegg gir kortere le-sone, mer turbulens og mer snø på uteplassen enn en spaltet vegg med
 > samme høyde. Nøyaktig vindlastreduksjon ved 17 % åpning må verifiseres før utførelse.
 
-## 3. Fire utførelser vurdert
+## 3. Fire kledningsalternativer vurdert
 
 Alle fire bruker samme materiale – malmfuru med grå jernvitriolbehandling, montert stående – og gir
 samme uttrykk på avstand.
 
 ### Kledningsprofil
 
-I alternativ I og IV brukes malmfuru med vekslende dobbelfals og rette kanter. Falsene er lange nok
+I alternativ 3 og 4 brukes malmfuru med vekslende dobbelfals og rette kanter. Falsene er lange nok
 til å gå under nabobordet og overlapper vekselvis. Bordene monteres med ca. 5 mm synlig spalte, og
 falsdybden er lik halvparten av bordtykkelsen. Skjøten får dermed et jevnt, smalt uttrykk uten
-gjennomgående åpning. Alternativ II og III har rette kanter, 23 × 48 mm bord og 10 mm spalte.
+gjennomgående åpning. Alternativ 1 og 2 har rette kanter, 23 × 48 mm bord og 10 mm spalte.
 
-### Alternativ I – helt tett kledning på én side
-
-Bordene monteres med vekslende dobbelfals og rette kanter. Falsene går under nabobordet, med ca.
-5 mm synlig spalte og en falsdybde lik halvparten av bordtykkelsen.
-
-| | |
-|---|---|
-| Innsynsskjerming | Fullstendig |
-| Vindskjerming | Kort le-sone, kraftig turbulens bak veggen |
-| Vindlast | Høyest |
-| Snø | Mest oppsamling |
-
-### Alternativ II – spaltet kledning
+### Alternativ 1 – spaltet kledning
 
 Bordene er 23 × 48 mm med jevn, 10 mm gjennomgående spalte. Det gir ca. 17 % åpning. Bordene har
 rette kanter over den åpne spalten.
@@ -125,7 +113,7 @@ rette kanter over den åpne spalten.
 | Vindlast | Lavere enn tett vegg; nøyaktig reduksjon må verifiseres for 17 % åpning |
 | Snø | Mindre oppsamling enn tett vegg |
 
-### Alternativ III – vekselvis kledning på begge sider
+### Alternativ 2 – vekselvis kledning på begge sider
 
 Bordene er 23 × 48 mm med rette kanter og 10 mm spalte på hver side av rammeverket. Den ene siden
 forskyves 29 mm, som er halvparten av borddelingen på 58 mm. Overlappen gjør at det ikke finnes
@@ -141,7 +129,7 @@ noen rett siktlinje gjennom veggen. Luften slipper gjennom i sikksakk.
 | Materialforbruk | Om lag 15–25 % høyere enn tett vegg |
 
 > [!TIP]
-> Alternativ III er den utførelsen som best forener de to formålene. Den gir full
+> Alternativ 2 er den løsningen som best forener de to formålene. Den gir full
 > innsynsskjerming som en tett vegg, men slipper gjennom luft og reduserer virvelen på lesiden. At
 > veggen ser helt lik ut fra begge sider er dessuten en praktisk fordel når den står i grenselinjen
 > mellom to seksjoner – ingen får «baksiden».
@@ -149,7 +137,19 @@ noen rett siktlinje gjennom veggen. Luften slipper gjennom i sikksakk.
 > Forbeholdet er ærlig: den aerodynamiske gevinsten er reell, men mindre enn ved en ren spaltet
 > vegg. Nøyaktig hvor mye er ikke tallfestet i kildene som er brukt her.
 
-### Alternativ IV – helt tett kledning på begge sider
+### Alternativ 3 – helt tett kledning på én side
+
+Bordene monteres med vekslende dobbelfals og rette kanter. Falsene går under nabobordet, med ca.
+5 mm synlig spalte og en falsdybde lik halvparten av bordtykkelsen.
+
+| | |
+|---|---|
+| Innsynsskjerming | Fullstendig |
+| Vindskjerming | Kort le-sone, kraftig turbulens bak veggen |
+| Vindlast | Høyest |
+| Snø | Mest oppsamling |
+
+### Alternativ 4 – helt tett kledning på begge sider
 
 Bordene monteres med vekslende dobbelfals og rette kanter på begge sider av rammeverket. Falsene
 går under nabobordet, med ca. 5 mm synlig spalte og falsdybde lik halvparten av bordtykkelsen.
@@ -158,14 +158,14 @@ Løsningen gir samme ferdige uttrykk fra begge naboarealer, men ingen gjennomgå
 | | |
 |---|---|
 | Innsynsskjerming | Fullstendig |
-| Vindskjerming | Som alternativ I – kort le-sone og kraftig turbulens bak veggen |
+| Vindskjerming | Som alternativ 3 – kort le-sone og kraftig turbulens bak veggen |
 | Vindlast | Høyest |
 | Snø | Mest oppsamling |
 | Uttrykk | Identisk fra begge sider |
-| Materialforbruk | Om lag dobbelt av alternativ I |
+| Materialforbruk | Om lag dobbelt av alternativ 3 |
 
-Alternativ IV er et aktuelt estetisk alternativ når likt uttrykk på begge sider er viktigere enn
-luftpassasje. I den vindutsatte plasseringen anbefales likevel alternativ III.
+Alternativ 4 er aktuelt når likt uttrykk på begge sider er viktigere enn luftpassasje. I den
+vindutsatte plasseringen anbefales likevel alternativ 2.
 
 ## 4. Konstruksjon
 

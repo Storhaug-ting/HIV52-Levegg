@@ -47,12 +47,12 @@ Leveggene går østover fra husenes østfasade, i skillet mellom uteoppholdsarea
 
 | Forhold | Beskrivelse |
 |---------|-------------|
-| Materiale | Malmfuru med grå jernvitriolbehandling, montert stående. Alternativ I og IV har vekslende dobbelfals med rette kanter, ca. 5 mm synlig spalte og falsdybde lik halvparten av bordtykkelsen. Alternativ II og III har rette 23 × 48 mm bord med 10 mm spalte |
+| Materiale | Malmfuru med grå jernvitriolbehandling, montert stående. Alternativ 3 og 4 har vekslende dobbelfals med rette kanter, ca. 5 mm synlig spalte og falsdybde lik halvparten av bordtykkelsen. Alternativ 1 og 2 har rette 23 × 48 mm bord med 10 mm spalte |
 | Kledning | Samme profil og bredde som husets kledning, montert stående |
 | Høyde | 1,8 m over ferdig terreng |
 | Lengde | 3,10–5,00 m per vegg, avhengig av lengdealternativ – se tabellen under |
 | Konstruksjon | Stolper 98 × 98 mm c/c maks 0,80 m, alle på eget betongfundament med stolpesko, dekkbord på toppen, minst 200 mm luftespalte mot bakken |
-| Kledningsprinsipp | Vekselvis bord på begge sider av rammeverket foreslås, slik at veggen skjermer for innsyn og samtidig slipper gjennom luft. Se byggeteknisk grunnlag |
+| Kledningsprinsipp | Alternativ 2: vekselvis bord på begge sider av rammeverket foreslås, slik at veggen skjermer for innsyn og samtidig slipper gjennom luft. Se byggeteknisk grunnlag |
 | Innfesting | A4 syrefaste skruer, siden jernvitriol angriper sink og gir mørke renner på galvanisert stål |
 | Kostnad for sameiet | Ingen. Kostnaden bæres av de to partene til hver enkelt vegg. |
 

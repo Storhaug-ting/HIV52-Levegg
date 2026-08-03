@@ -1,146 +1,1160 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 980" width="210mm" height="297mm" preserveAspectRatio="xMidYMid meet" font-family="Segoe UI, Arial, Helvetica, sans-serif" role="img" aria-label="Horisontalsnitt gjennom leveggen som viser fire kledningsprinsipper: tett på én side, spaltet, vekselvis og tett på begge sider">
-  <title>Levegg – kledningsprinsipp, horisontalsnitt</title>
-  <desc>Horisontalsnitt sett ovenfra gjennom leveggen. Tegningen viser fire alternative utførelser av stående kledning.</desc>
-
-  <defs>
-    <marker id="pilRod" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto">
-      <path d="M0,0 L9,4.5 L0,9 z" fill="#b03a2e"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 900 980"
+   width="210mm"
+   height="297mm"
+   preserveAspectRatio="xMidYMid meet"
+   font-family="Segoe UI, Arial, Helvetica, sans-serif"
+   role="img"
+   aria-label="Horisontalsnitt gjennom leveggen som viser fire kledningsalternativer: spaltet, vekselvis på begge sider, tett på én side og tett på begge sider"
+   version="1.1"
+   id="svg126"
+   sodipodi:docname="Kledningsprinsipp.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview126"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="1"
+     inkscape:cx="338"
+     inkscape:cy="498.5"
+     inkscape:window-width="2008"
+     inkscape:window-height="1240"
+     inkscape:window-x="1447"
+     inkscape:window-y="647"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg126" />
+  <title
+     id="title1">Levegg – kledningsprinsipp, horisontalsnitt</title>
+  <desc
+     id="desc1">Horisontalsnitt sett ovenfra gjennom leveggen. Tegningen viser fire kledningsalternativer med stående kledning.</desc>
+  <defs
+     id="defs2">
+    <marker
+       id="pilRod"
+       markerWidth="9"
+       markerHeight="9"
+       refX="8"
+       refY="4.5"
+       orient="auto">
+      <path
+         d="M0,0 L9,4.5 L0,9 z"
+         fill="#b03a2e"
+         id="path1" />
     </marker>
-    <marker id="pilGron" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto">
-      <path d="M0,0 L9,4.5 L0,9 z" fill="#2e7d32"/>
+    <marker
+       id="pilGron"
+       markerWidth="9"
+       markerHeight="9"
+       refX="8"
+       refY="4.5"
+       orient="auto">
+      <path
+         d="M0,0 L9,4.5 L0,9 z"
+         fill="#2e7d32"
+         id="path2" />
     </marker>
     <!-- Dobbelfals med kort synlig fuge og sammenhengende underfals under nabobordet. -->
-    <path id="bordMedDobbelfals" d="M0,0 H30 V6 H37 V13 H4 V6 H0 Z"/>
+    <path
+       id="bordMedDobbelfals"
+       d="M0,0 H30 V6 H37 V13 H4 V6 H0 Z" />
+    <marker
+       id="pilGron-9"
+       markerWidth="9"
+       markerHeight="9"
+       refX="8"
+       refY="4.5"
+       orient="auto">
+      <path
+         d="M 0,0 9,4.5 0,9 Z"
+         fill="#2e7d32"
+         id="path2-0" />
+    </marker>
+    <pattern
+       id="husvegg"
+       width="9"
+       height="9"
+       patternUnits="userSpaceOnUse"
+       patternTransform="rotate(-45)"
+       inkscape:label="husvegg">
+      <line
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="9"
+         stroke="#b3b0a8"
+         stroke-width="1.4"
+         id="line2" />
+    </pattern>
+    <marker
+       id="pilGron-1"
+       markerWidth="9"
+       markerHeight="9"
+       refX="8"
+       refY="4.5"
+       orient="auto">
+      <path
+         d="M 0,0 9,4.5 0,9 Z"
+         fill="#2e7d32"
+         id="path2-4" />
+    </marker>
   </defs>
-
-  <rect width="900" height="980" fill="#ffffff"/>
-
-  <text x="450" y="34" text-anchor="middle" font-size="19" font-weight="600" fill="#1a1a1a">Kledningsprinsipp – horisontalsnitt gjennom leveggen</text>
-
-  <!-- ============ 1 – SPALTET ============ -->
-  <text x="710" y="146" text-anchor="middle" font-size="10.5" fill="#b03a2e">Et hus får stygg side</text>
-  <text x="710" y="160" text-anchor="middle" font-size="10.5" fill="#b03a2e">med reisverk mot seg.</text>
-  <text x="40" y="176" font-size="15" font-weight="600" fill="#1a1a1a">1 – Spaltet</text>
-  <text x="40" y="196" font-size="12" fill="#555">23 × 48 mm bord,</text>
-  <text x="40" y="216" font-size="12" fill="#555">10 mm gjennomgående spalte</text>
-  <text x="40" y="236" font-size="12" fill="#555">≈ 17 % åpning</text>
-
-  <line x1="260" y1="180" x2="820" y2="180" stroke="#8a7f6a" stroke-width="14"/>
-  <g fill="#9e9c94" stroke="#6e6b64" stroke-width="1">
-    <rect x="260" y="187" width="27" height="13"/><rect x="293" y="187" width="27" height="13"/>
-    <rect x="326" y="187" width="27" height="13"/><rect x="359" y="187" width="27" height="13"/>
-    <rect x="392" y="187" width="27" height="13"/><rect x="425" y="187" width="27" height="13"/>
-    <rect x="458" y="187" width="27" height="13"/><rect x="491" y="187" width="27" height="13"/>
-    <rect x="524" y="187" width="27" height="13"/><rect x="557" y="187" width="27" height="13"/>
-    <rect x="590" y="187" width="27" height="13"/><rect x="623" y="187" width="27" height="13"/>
-    <rect x="656" y="187" width="27" height="13"/><rect x="689" y="187" width="27" height="13"/>
-    <rect x="722" y="187" width="27" height="13"/><rect x="755" y="187" width="27" height="13"/>
-    <rect x="788" y="187" width="27" height="13"/>
+  <rect
+     width="900"
+     height="1273.061"
+     fill="#ffffff"
+     id="rect2"
+     x="-0.077483289"
+     y="-146.33006"
+     style="stroke-width:1.13975" />
+  <line
+     x1="260"
+     y1="840"
+     x2="820"
+     y2="840"
+     stroke="#8a7f6a"
+     stroke-width="14"
+     id="line91" />
+  <text
+     x="450"
+     y="34"
+     text-anchor="middle"
+     font-size="19px"
+     font-weight="600"
+     fill="#1a1a1a"
+     id="text2"><tspan
+       sodipodi:role="line"
+       id="tspan132"
+       x="450"
+       y="34">Kledning</tspan><tspan
+       sodipodi:role="line"
+       id="tspan133"
+       x="450"
+       y="57.75">horisontalsnitt gjennom leveggen</tspan></text>
+  <!-- ============ ALTERNATIV 1 – SPALTET ============ -->
+  <text
+     x="735.16492"
+     y="143.61925"
+     text-anchor="middle"
+     font-size="10.5px"
+     fill="#b03a2e"
+     id="text63-2"><tspan
+       sodipodi:role="line"
+       id="tspan126-8"
+       x="735.16492"
+       y="143.61925">Et hus får stygg side</tspan><tspan
+       sodipodi:role="line"
+       id="tspan127-6"
+       x="735.16492"
+       y="156.74425">med reisverk mot seg.</tspan></text>
+  <g
+     id="g132"
+     transform="translate(0,-11.622767)">
+    <text
+       x="40"
+       y="176"
+       font-size="15px"
+       font-weight="600"
+       fill="#1a1a1a"
+       id="text5">Alternativ 1 – Spaltet</text>
+    <text
+       x="40"
+       y="196"
+       font-size="12px"
+       fill="#555555"
+       id="text6">23 × 48 mm spiler,</text>
+    <text
+       x="40"
+       y="216"
+       font-size="12px"
+       fill="#555555"
+       id="text7">10 mm gjennomgående spalte</text>
   </g>
-  <line x1="290" y1="240" x2="290" y2="124" stroke="#b03a2e" stroke-width="1.6" stroke-dasharray="5 3" marker-end="url(#pilRod)"/>
-  <text x="298" y="234" font-size="11" fill="#b03a2e">Fri sikt gjennom spalten</text>
-  <line x1="500" y1="240" x2="500" y2="124" stroke="#2e7d32" stroke-width="1.8" marker-end="url(#pilGron)"/>
-  <text x="508" y="234" font-size="11" fill="#2e7d32">Luft passerer rett gjennom</text>
-
-  <!-- ============ 2 – VEKSELVIS ============ -->
-  <text x="40" y="396" font-size="15" font-weight="600" fill="#1a1a1a">2 – Vekselvis på begge sider</text>
-  <text x="40" y="416" font-size="12" fill="#555">23 × 48 mm bord med 10 mm</text>
-  <text x="40" y="438" font-size="12" fill="#555">spalte. Andre side forskjøvet</text>
-  <text x="40" y="458" font-size="12" fill="#555">29 mm (halv borddeling).</text>
-
-  <line x1="260" y1="400" x2="820" y2="400" stroke="#8a7f6a" stroke-width="14"/>
+  <text
+     x="40"
+     y="236"
+     font-size="12px"
+     fill="#555555"
+     id="text8" />
+  <line
+     x1="260"
+     y1="180"
+     x2="820"
+     y2="180"
+     stroke="#8a7f6a"
+     stroke-width="14"
+     id="line8" />
+  <rect
+     x="260.49173"
+     y="186.99564"
+     width="26.51264"
+     height="13.008734"
+     id="rect8"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:0.9985714;stroke-dasharray:none" />
+  <rect
+     x="293"
+     y="187"
+     width="27"
+     height="13"
+     id="rect9"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="326"
+     y="187"
+     width="27"
+     height="13"
+     id="rect10"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="359"
+     y="187"
+     width="27"
+     height="13"
+     id="rect11"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="392"
+     y="187"
+     width="27"
+     height="13"
+     id="rect12"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="425"
+     y="187"
+     width="27"
+     height="13"
+     id="rect13"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="458"
+     y="187"
+     width="27"
+     height="13"
+     id="rect14"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="491"
+     y="187"
+     width="27"
+     height="13"
+     id="rect15"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="524"
+     y="187"
+     width="27"
+     height="13"
+     id="rect16"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="557"
+     y="187"
+     width="27"
+     height="13"
+     id="rect17"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="590"
+     y="187"
+     width="27"
+     height="13"
+     id="rect18"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="623"
+     y="187"
+     width="27"
+     height="13"
+     id="rect19"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="656"
+     y="187"
+     width="27"
+     height="13"
+     id="rect20"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="689"
+     y="187"
+     width="27"
+     height="13"
+     id="rect21"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="722"
+     y="187"
+     width="27"
+     height="13"
+     id="rect22"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="755"
+     y="187"
+     width="27"
+     height="13"
+     id="rect23"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="788"
+     y="187"
+     width="27"
+     height="13"
+     id="rect24"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <line
+     x1="290"
+     y1="240"
+     x2="290"
+     y2="124"
+     stroke="#b03a2e"
+     stroke-width="1.6"
+     stroke-dasharray="5 3"
+     marker-end="url(#pilRod)"
+     id="line24" />
+  <text
+     x="298"
+     y="234"
+     font-size="11"
+     fill="#b03a2e"
+     id="text24">Fri sikt gjennom spalten</text>
+  <line
+     x1="488.09857"
+     y1="240.4959"
+     x2="488.09857"
+     y2="124.4959"
+     stroke="#2e7d32"
+     stroke-width="1.8"
+     marker-end="url(#pilGron)"
+     id="line25" />
+  <text
+     x="508"
+     y="234"
+     font-size="11"
+     fill="#2e7d32"
+     id="text25">Luft passerer rett gjennom</text>
+  <!-- ============ ALTERNATIV 2 – VEKSELVIS ============ -->
+  <text
+     x="40.449543"
+     y="373.41177"
+     font-size="15px"
+     font-weight="600"
+     fill="#1a1a1a"
+     id="text26">Alternativ 2 – Vekselvis på begge sider</text>
+  <text
+     x="40.449543"
+     y="393.41177"
+     font-size="12px"
+     fill="#555555"
+     id="text27">23 × 48 mm spiler med 10 mm</text>
+  <text
+     x="40.449543"
+     y="415.41177"
+     font-size="12px"
+     fill="#555555"
+     id="text28">spalte. Andre side forskjøvet</text>
+  <text
+     x="40.449543"
+     y="435.41177"
+     font-size="12px"
+     fill="#555555"
+     id="text29">29 mm (halv borddeling).</text>
+  <line
+     x1="260"
+     y1="400"
+     x2="820.15033"
+     y2="400"
+     stroke="#8a7f6a"
+     stroke-width="14.0019"
+     id="line29" />
   <!-- Bord på nordsiden -->
-  <g fill="#b3b0a8" stroke="#6e6b64" stroke-width="1">
-    <rect x="276.5" y="380" width="27" height="13"/><rect x="309.5" y="380" width="27" height="13"/>
-    <rect x="342.5" y="380" width="27" height="13"/><rect x="375.5" y="380" width="27" height="13"/>
-    <rect x="408.5" y="380" width="27" height="13"/><rect x="441.5" y="380" width="27" height="13"/>
-    <rect x="474.5" y="380" width="27" height="13"/><rect x="507.5" y="380" width="27" height="13"/>
-    <rect x="540.5" y="380" width="27" height="13"/><rect x="573.5" y="380" width="27" height="13"/>
-    <rect x="606.5" y="380" width="27" height="13"/><rect x="639.5" y="380" width="27" height="13"/>
-    <rect x="672.5" y="380" width="27" height="13"/><rect x="705.5" y="380" width="27" height="13"/>
-    <rect x="738.5" y="380" width="27" height="13"/><rect x="771.5" y="380" width="27" height="13"/>
+  <g
+     fill="#b3b0a8"
+     stroke="#6e6b64"
+     stroke-width="1"
+     id="g44">
+    <rect
+       x="276.5"
+       y="380"
+       width="27"
+       height="13"
+       id="rect29" />
+    <rect
+       x="309.5"
+       y="380"
+       width="27"
+       height="13"
+       id="rect30" />
+    <rect
+       x="342.5"
+       y="380"
+       width="27"
+       height="13"
+       id="rect31" />
+    <rect
+       x="375.5"
+       y="380"
+       width="27"
+       height="13"
+       id="rect32" />
+    <rect
+       x="408.5"
+       y="380"
+       width="27"
+       height="13"
+       id="rect33" />
+    <rect
+       x="441.5"
+       y="380"
+       width="27"
+       height="13"
+       id="rect34" />
+    <rect
+       x="474.5"
+       y="380"
+       width="27"
+       height="13"
+       id="rect35" />
+    <rect
+       x="507.5"
+       y="380"
+       width="27"
+       height="13"
+       id="rect36" />
+    <rect
+       x="540.5"
+       y="380"
+       width="27"
+       height="13"
+       id="rect37" />
+    <rect
+       x="573.5"
+       y="380"
+       width="27"
+       height="13"
+       id="rect38" />
+    <rect
+       x="606.5"
+       y="380"
+       width="27"
+       height="13"
+       id="rect39" />
+    <rect
+       x="639.5"
+       y="380"
+       width="27"
+       height="13"
+       id="rect40" />
+    <rect
+       x="672.5"
+       y="380"
+       width="27"
+       height="13"
+       id="rect41" />
+    <rect
+       x="705.5"
+       y="380"
+       width="27"
+       height="13"
+       id="rect42" />
+    <rect
+       x="738.5"
+       y="380"
+       width="27"
+       height="13"
+       id="rect43" />
+    <rect
+       x="771.5"
+       y="380"
+       width="27"
+       height="13"
+       id="rect44" />
+  </g>
+  <rect
+     x="804.43176"
+     y="379.93222"
+     width="16.075491"
+     height="13.150473"
+     id="rect30-1"
+     style="fill:#b3b0a8;stroke:#6e6b64;stroke-width:0.9985714;stroke-dasharray:none" />
+  <rect
+     x="260.26721"
+     y="380.13696"
+     width="11.223355"
+     height="13.30964"
+     id="rect30-1-2"
+     style="fill:#b3b0a8;stroke:#6e6b64;stroke-width:0.839403;stroke-dasharray:none" />
+  <!-- Bord på sørsiden -->
+  <rect
+     x="260.39737"
+     y="406.99646"
+     width="26.606148"
+     height="13.007051"
+     id="rect45"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:0.9985714;stroke-dasharray:none" />
+  <rect
+     x="293"
+     y="407"
+     width="27"
+     height="13"
+     id="rect46"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="326"
+     y="407"
+     width="27"
+     height="13"
+     id="rect47"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="359"
+     y="407"
+     width="27"
+     height="13"
+     id="rect48"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="392"
+     y="407"
+     width="27"
+     height="13"
+     id="rect49"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="425"
+     y="407"
+     width="27"
+     height="13"
+     id="rect50"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="458"
+     y="407"
+     width="27"
+     height="13"
+     id="rect51"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="491"
+     y="407"
+     width="27"
+     height="13"
+     id="rect52"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="524"
+     y="407"
+     width="27"
+     height="13"
+     id="rect53"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="557"
+     y="407"
+     width="27"
+     height="13"
+     id="rect54"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="590"
+     y="407"
+     width="27"
+     height="13"
+     id="rect55"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="623"
+     y="407"
+     width="27"
+     height="13"
+     id="rect56"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="656"
+     y="407"
+     width="27"
+     height="13"
+     id="rect57"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="689"
+     y="407"
+     width="27"
+     height="13"
+     id="rect58"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="722"
+     y="407"
+     width="27"
+     height="13"
+     id="rect59"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="755"
+     y="407"
+     width="27"
+     height="13"
+     id="rect60"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <rect
+     x="788"
+     y="407"
+     width="27"
+     height="13"
+     id="rect61"
+     style="fill:#9e9c94;stroke:#6e6b64;stroke-width:1" />
+  <path
+     d="m 504.10863,476.85192 v -34.94707 l -16.35806,-14.97732 v -19.96976 l 16.35806,-14.97731 v -32.9501"
+     fill="none"
+     stroke="#2e7d32"
+     stroke-width="1.8783"
+     marker-end="url(#pilGron)"
+     id="path61" />
+  <text
+     x="516.95892"
+     y="463.06363"
+     font-size="11px"
+     fill="#2e7d32"
+     id="text62">Luft passerer i sikksakk</text>
+  <!-- ============ ALTERNATIV 3 – HELT TETT PÅ ÉN SIDE ============ -->
+  <text
+     x="735.1153"
+     y="583.63312"
+     text-anchor="middle"
+     font-size="10.5px"
+     fill="#b03a2e"
+     id="text63"><tspan
+       sodipodi:role="line"
+       id="tspan126"
+       x="735.1153"
+       y="583.63312">Et hus får stygg side</tspan><tspan
+       sodipodi:role="line"
+       id="tspan127"
+       x="735.1153"
+       y="596.75812">med reisverk mot seg.</tspan></text>
+  <text
+     x="735.22302"
+     y="792.16852"
+     text-anchor="middle"
+     font-size="10.5px"
+     fill="#b03a2e"
+     id="text63-8"><tspan
+       sodipodi:role="line"
+       id="tspan127-3"
+       x="735.22302"
+       y="792.16852"
+       style="fill:#008000">Begge hus får</tspan><tspan
+       sodipodi:role="line"
+       x="735.22302"
+       y="805.29352"
+       id="tspan128"
+       style="fill:#008000">stilren utførelse</tspan></text>
+  <text
+     x="735.26971"
+     y="352.13336"
+     text-anchor="middle"
+     font-size="10.5px"
+     fill="#b03a2e"
+     id="text63-8-4"><tspan
+       sodipodi:role="line"
+       id="tspan127-3-6"
+       x="735.26971"
+       y="352.13336"
+       style="fill:#008000">Begge hus får</tspan><tspan
+       sodipodi:role="line"
+       x="735.26971"
+       y="365.25836"
+       id="tspan128-0"
+       style="fill:#008000">stilren utførelse</tspan></text>
+  <text
+     x="710"
+     y="600"
+     text-anchor="middle"
+     font-size="10.5px"
+     fill="#b03a2e"
+     id="text64" />
+  <text
+     x="40"
+     y="593.88837"
+     font-size="15px"
+     font-weight="600"
+     fill="#1a1a1a"
+     id="text65">Alternativ 3 – Helt tett på én side</text>
+  <text
+     x="40"
+     y="613.88837"
+     font-size="12px"
+     fill="#555555"
+     id="text66">Dobbelfals med rette kanter,</text>
+  <text
+     x="40"
+     y="633.88837"
+     font-size="12px"
+     fill="#555555"
+     id="text67">vekslende overlapp og ca. 5 mm</text>
+  <text
+     x="40"
+     y="653.88837"
+     font-size="12px"
+     fill="#555555"
+     id="text68">spalte. Fals under nabobord.</text>
+  <line
+     x1="260"
+     y1="620"
+     x2="820"
+     y2="620"
+     stroke="#8a7f6a"
+     stroke-width="14"
+     id="line68" />
+  <g
+     fill="#9e9c94"
+     stroke="#6e6b64"
+     stroke-width="1"
+     transform="translate(0 1267) scale(1 -1)"
+     id="g84">
+    <use
+       href="#bordMedDobbelfals"
+       x="260"
+       y="627"
+       id="use68" />
+    <use
+       href="#bordMedDobbelfals"
+       x="293"
+       y="627"
+       id="use69" />
+    <use
+       href="#bordMedDobbelfals"
+       x="326"
+       y="627"
+       id="use70" />
+    <use
+       href="#bordMedDobbelfals"
+       x="359"
+       y="627"
+       id="use71" />
+    <use
+       href="#bordMedDobbelfals"
+       x="392"
+       y="627"
+       id="use72" />
+    <use
+       href="#bordMedDobbelfals"
+       x="425"
+       y="627"
+       id="use73" />
+    <use
+       href="#bordMedDobbelfals"
+       x="458"
+       y="627"
+       id="use74" />
+    <use
+       href="#bordMedDobbelfals"
+       x="491"
+       y="627"
+       id="use75" />
+    <use
+       href="#bordMedDobbelfals"
+       x="524"
+       y="627"
+       id="use76" />
+    <use
+       href="#bordMedDobbelfals"
+       x="557"
+       y="627"
+       id="use77" />
+    <use
+       href="#bordMedDobbelfals"
+       x="590"
+       y="627"
+       id="use78" />
+    <use
+       href="#bordMedDobbelfals"
+       x="623"
+       y="627"
+       id="use79" />
+    <use
+       href="#bordMedDobbelfals"
+       x="656"
+       y="627"
+       id="use80" />
+    <use
+       href="#bordMedDobbelfals"
+       x="689"
+       y="627"
+       id="use81" />
+    <use
+       href="#bordMedDobbelfals"
+       x="722"
+       y="627"
+       id="use82" />
+    <use
+       href="#bordMedDobbelfals"
+       x="755"
+       y="627"
+       id="use83" />
+    <use
+       href="#bordMedDobbelfals"
+       x="788"
+       y="627"
+       id="use84" />
+  </g>
+  <line
+     x1="300.06198"
+     y1="678.07843"
+     x2="300.06198"
+     y2="642.07843"
+     stroke="#2e7d32"
+     stroke-width="1.6"
+     stroke-dasharray="5, 3"
+     marker-end="url(#pilGron)"
+     id="line84" />
+  <text
+     x="308.06198"
+     y="672.07843"
+     font-size="11px"
+     fill="#2e7d32"
+     id="text84">Siktlinje blokkert</text>
+  <line
+     x1="300.05627"
+     y1="458.00998"
+     x2="300.05627"
+     y2="422.00998"
+     stroke="#2e7d32"
+     stroke-width="1.6"
+     stroke-dasharray="5, 3"
+     marker-end="url(#pilGron-1)"
+     id="line84-0"
+     style="marker-end:url(#pilGron-1)" />
+  <text
+     x="308.05627"
+     y="452.00998"
+     font-size="11px"
+     fill="#2e7d32"
+     id="text84-7">Siktlinje blokkert</text>
+  <g
+     id="g128">
+    <line
+       x1="500"
+       y1="680"
+       x2="500"
+       y2="644"
+       stroke="#b03a2e"
+       stroke-width="1.6"
+       stroke-dasharray="5 3"
+       id="line85" />
+    <circle
+       cx="500"
+       cy="640"
+       r="6"
+       fill="none"
+       stroke="#b03a2e"
+       stroke-width="1.6"
+       id="circle85" />
+    <line
+       x1="496"
+       y1="636"
+       x2="504"
+       y2="644"
+       stroke="#b03a2e"
+       stroke-width="1.6"
+       id="line86" />
+    <text
+       x="512"
+       y="674"
+       font-size="11"
+       fill="#b03a2e"
+       id="text86">Ingen luftgjennomgang</text>
+  </g>
+  <!-- ============ ALTERNATIV 4 – TETT PÅ BEGGE SIDER ============ -->
+  <text
+     x="40.283482"
+     y="804.25"
+     font-size="15px"
+     font-weight="600"
+     fill="#1a1a1a"
+     id="text87">Alternativ 4 – Helt tett på begge sider</text>
+  <text
+     x="40.283482"
+     y="824.25"
+     font-size="12px"
+     fill="#555555"
+     id="text88">Dobbelfals med rette kanter,</text>
+  <text
+     x="40.283482"
+     y="844.25"
+     font-size="12px"
+     fill="#555555"
+     id="text89">dybde 1/2 bordtykkelse</text>
+  <text
+     x="40.283482"
+     y="864.25"
+     font-size="12px"
+     fill="#555555"
+     id="text90">vekslende overlapp og ca. 5 mm</text>
+  <text
+     x="40.283482"
+     y="884.25"
+     font-size="12px"
+     fill="#555555"
+     id="text91">spalte. Fals under nabobord.</text>
+  <!-- Bord på nordsiden -->
+  <g
+     fill="#b3b0a8"
+     stroke="#6e6b64"
+     stroke-width="1"
+     id="g107">
+    <use
+       href="#bordMedDobbelfals"
+       x="260"
+       y="820"
+       id="use91" />
+    <use
+       href="#bordMedDobbelfals"
+       x="293"
+       y="820"
+       id="use92" />
+    <use
+       href="#bordMedDobbelfals"
+       x="326"
+       y="820"
+       id="use93" />
+    <use
+       href="#bordMedDobbelfals"
+       x="359"
+       y="820"
+       id="use94" />
+    <use
+       href="#bordMedDobbelfals"
+       x="392"
+       y="820"
+       id="use95" />
+    <use
+       href="#bordMedDobbelfals"
+       x="425"
+       y="820"
+       id="use96" />
+    <use
+       href="#bordMedDobbelfals"
+       x="458"
+       y="820"
+       id="use97" />
+    <use
+       href="#bordMedDobbelfals"
+       x="491"
+       y="820"
+       id="use98" />
+    <use
+       href="#bordMedDobbelfals"
+       x="524"
+       y="820"
+       id="use99" />
+    <use
+       href="#bordMedDobbelfals"
+       x="557"
+       y="820"
+       id="use100" />
+    <use
+       href="#bordMedDobbelfals"
+       x="590"
+       y="820"
+       id="use101" />
+    <use
+       href="#bordMedDobbelfals"
+       x="623"
+       y="820"
+       id="use102" />
+    <use
+       href="#bordMedDobbelfals"
+       x="656"
+       y="820"
+       id="use103" />
+    <use
+       href="#bordMedDobbelfals"
+       x="689"
+       y="820"
+       id="use104" />
+    <use
+       href="#bordMedDobbelfals"
+       x="722"
+       y="820"
+       id="use105" />
+    <use
+       href="#bordMedDobbelfals"
+       x="755"
+       y="820"
+       id="use106" />
+    <use
+       href="#bordMedDobbelfals"
+       x="788"
+       y="820"
+       id="use107" />
   </g>
   <!-- Bord på sørsiden -->
-  <g fill="#9e9c94" stroke="#6e6b64" stroke-width="1">
-    <rect x="260" y="407" width="27" height="13"/><rect x="293" y="407" width="27" height="13"/>
-    <rect x="326" y="407" width="27" height="13"/><rect x="359" y="407" width="27" height="13"/>
-    <rect x="392" y="407" width="27" height="13"/><rect x="425" y="407" width="27" height="13"/>
-    <rect x="458" y="407" width="27" height="13"/><rect x="491" y="407" width="27" height="13"/>
-    <rect x="524" y="407" width="27" height="13"/><rect x="557" y="407" width="27" height="13"/>
-    <rect x="590" y="407" width="27" height="13"/><rect x="623" y="407" width="27" height="13"/>
-    <rect x="656" y="407" width="27" height="13"/><rect x="689" y="407" width="27" height="13"/>
-    <rect x="722" y="407" width="27" height="13"/><rect x="755" y="407" width="27" height="13"/>
-    <rect x="788" y="407" width="27" height="13"/>
+  <g
+     fill="#9e9c94"
+     stroke="#6e6b64"
+     stroke-width="1"
+     id="g124">
+    <use
+       href="#bordMedDobbelfals"
+       transform="translate(260 860) scale(1 -1)"
+       id="use108" />
+    <use
+       href="#bordMedDobbelfals"
+       transform="translate(293 860) scale(1 -1)"
+       id="use109" />
+    <use
+       href="#bordMedDobbelfals"
+       transform="translate(326 860) scale(1 -1)"
+       id="use110" />
+    <use
+       href="#bordMedDobbelfals"
+       transform="translate(359 860) scale(1 -1)"
+       id="use111" />
+    <use
+       href="#bordMedDobbelfals"
+       transform="translate(392 860) scale(1 -1)"
+       id="use112" />
+    <use
+       href="#bordMedDobbelfals"
+       transform="translate(425 860) scale(1 -1)"
+       id="use113" />
+    <use
+       href="#bordMedDobbelfals"
+       transform="translate(458 860) scale(1 -1)"
+       id="use114" />
+    <use
+       href="#bordMedDobbelfals"
+       transform="translate(491 860) scale(1 -1)"
+       id="use115" />
+    <use
+       href="#bordMedDobbelfals"
+       transform="translate(524 860) scale(1 -1)"
+       id="use116" />
+    <use
+       href="#bordMedDobbelfals"
+       transform="translate(557 860) scale(1 -1)"
+       id="use117" />
+    <use
+       href="#bordMedDobbelfals"
+       transform="translate(590 860) scale(1 -1)"
+       id="use118" />
+    <use
+       href="#bordMedDobbelfals"
+       transform="translate(623 860) scale(1 -1)"
+       id="use119" />
+    <use
+       href="#bordMedDobbelfals"
+       transform="translate(656 860) scale(1 -1)"
+       id="use120" />
+    <use
+       href="#bordMedDobbelfals"
+       transform="translate(689 860) scale(1 -1)"
+       id="use121" />
+    <use
+       href="#bordMedDobbelfals"
+       transform="translate(722 860) scale(1 -1)"
+       id="use122" />
+    <use
+       href="#bordMedDobbelfals"
+       transform="translate(755 860) scale(1 -1)"
+       id="use123" />
+    <use
+       href="#bordMedDobbelfals"
+       transform="translate(788 860) scale(1 -1)"
+       id="use124" />
   </g>
-  <line x1="300" y1="470" x2="300" y2="436" stroke="#2e7d32" stroke-width="1.6" stroke-dasharray="5 3" marker-end="url(#pilGron)"/>
-  <text x="308" y="464" font-size="11" fill="#2e7d32">Siktlinje blokkert av bordet bak</text>
-  <path d="M500,470 L500,435 L485,420 L485,400 L500,385 L500,352" fill="none" stroke="#2e7d32" stroke-width="1.8" marker-end="url(#pilGron)"/>
-  <text x="512" y="350" font-size="11" fill="#2e7d32">Luft passerer i sikksakk</text>
-
-  <!-- ============ 3 – HELT TETT PÅ ÉN SIDE ============ -->
-  <text x="710" y="586" text-anchor="middle" font-size="10.5" fill="#b03a2e">Et hus får stygg side</text>
-  <text x="710" y="600" text-anchor="middle" font-size="10.5" fill="#b03a2e">med reisverk mot seg.</text>
-  <text x="40" y="616" font-size="15" font-weight="600" fill="#1a1a1a">3 – Helt tett på én side</text>
-  <text x="40" y="636" font-size="12" fill="#555">Dobbelfals med rette kanter,</text>
-  <text x="40" y="656" font-size="12" fill="#555">vekslende overlapp og ca. 5 mm</text>
-  <text x="40" y="676" font-size="12" fill="#555">spalte. Fals under nabobord.</text>
-
-  <line x1="260" y1="620" x2="820" y2="620" stroke="#8a7f6a" stroke-width="14"/>
-  <g fill="#9e9c94" stroke="#6e6b64" stroke-width="1" transform="translate(0 1267) scale(1 -1)">
-    <use href="#bordMedDobbelfals" x="260" y="627"/><use href="#bordMedDobbelfals" x="293" y="627"/>
-    <use href="#bordMedDobbelfals" x="326" y="627"/><use href="#bordMedDobbelfals" x="359" y="627"/>
-    <use href="#bordMedDobbelfals" x="392" y="627"/><use href="#bordMedDobbelfals" x="425" y="627"/>
-    <use href="#bordMedDobbelfals" x="458" y="627"/><use href="#bordMedDobbelfals" x="491" y="627"/>
-    <use href="#bordMedDobbelfals" x="524" y="627"/><use href="#bordMedDobbelfals" x="557" y="627"/>
-    <use href="#bordMedDobbelfals" x="590" y="627"/><use href="#bordMedDobbelfals" x="623" y="627"/>
-    <use href="#bordMedDobbelfals" x="656" y="627"/><use href="#bordMedDobbelfals" x="689" y="627"/>
-    <use href="#bordMedDobbelfals" x="722" y="627"/><use href="#bordMedDobbelfals" x="755" y="627"/>
-    <use href="#bordMedDobbelfals" x="788" y="627"/>
+  <rect
+     x="820.49615"
+     y="820.06964"
+     width="11.603956"
+     height="39.840736"
+     id="rect44-8"
+     style="fill:#b3b0a8;stroke:#6e6b64;stroke-width:0.998571;stroke-dasharray:none" />
+  <rect
+     x="820.58661"
+     y="379.8533"
+     width="11.603956"
+     height="39.840736"
+     id="rect44-8-54"
+     style="fill:#b3b0a8;stroke:#6e6b64;stroke-width:0.998571;stroke-dasharray:none" />
+  <rect
+     x="820.38013"
+     y="613.45221"
+     width="11.806146"
+     height="26.57633"
+     id="rect44-8-5"
+     style="fill:#b3b0a8;stroke:#6e6b64;stroke-width:0.9985714;stroke-dasharray:none" />
+  <rect
+     x="820.34705"
+     y="173.51691"
+     width="11.806146"
+     height="26.57633"
+     id="rect44-8-5-0"
+     style="fill:#b3b0a8;stroke:#6e6b64;stroke-width:0.998571;stroke-dasharray:none" />
+  <g
+     id="g127"
+     transform="translate(0.24042629,-31.935041)">
+    <line
+       x1="499.63519"
+       y1="931.94122"
+       x2="499.63519"
+       y2="895.94122"
+       stroke="#b03a2e"
+       stroke-width="1.6"
+       stroke-dasharray="5, 3"
+       id="line85-8" />
+    <circle
+       cx="499.63519"
+       cy="891.94122"
+       r="6"
+       fill="none"
+       stroke="#b03a2e"
+       stroke-width="1.6"
+       id="circle85-6" />
+    <line
+       x1="495.63519"
+       y1="887.94122"
+       x2="503.63519"
+       y2="895.94122"
+       stroke="#b03a2e"
+       stroke-width="1.6"
+       id="line86-5" />
+    <text
+       x="511.63519"
+       y="925.94122"
+       font-size="11px"
+       fill="#b03a2e"
+       id="text86-0">Ingen luftgjennomgang</text>
   </g>
-  <line x1="300" y1="680" x2="300" y2="644" stroke="#2e7d32" stroke-width="1.6" stroke-dasharray="5 3" marker-end="url(#pilGron)"/>
-  <text x="308" y="674" font-size="11" fill="#2e7d32">Siktlinje blokkert</text>
-  <line x1="500" y1="680" x2="500" y2="644" stroke="#b03a2e" stroke-width="1.6" stroke-dasharray="5 3"/>
-  <circle cx="500" cy="640" r="6" fill="none" stroke="#b03a2e" stroke-width="1.6"/>
-  <line x1="496" y1="636" x2="504" y2="644" stroke="#b03a2e" stroke-width="1.6"/>
-  <text x="512" y="674" font-size="11" fill="#b03a2e">Ingen luftgjennomgang</text>
-
-  <!-- ============ 4 – TETT PÅ BEGGE SIDER ============ -->
-  <text x="40" y="836" font-size="15" font-weight="600" fill="#1a1a1a">4 – Helt tett på begge sider</text>
-  <text x="40" y="856" font-size="12" fill="#555">Dobbelfals med rette kanter,</text>
-  <text x="40" y="876" font-size="12" fill="#555">dybde 1/2 bordtykkelse</text>
-  <text x="40" y="896" font-size="12" fill="#555">vekslende overlapp og ca. 5 mm</text>
-  <text x="40" y="916" font-size="12" fill="#555">spalte. Fals under nabobord.</text>
-
-  <line x1="260" y1="840" x2="820" y2="840" stroke="#8a7f6a" stroke-width="14"/>
-  <!-- Bord på nordsiden -->
-  <g fill="#b3b0a8" stroke="#6e6b64" stroke-width="1">
-    <use href="#bordMedDobbelfals" x="260" y="820"/><use href="#bordMedDobbelfals" x="293" y="820"/>
-    <use href="#bordMedDobbelfals" x="326" y="820"/><use href="#bordMedDobbelfals" x="359" y="820"/>
-    <use href="#bordMedDobbelfals" x="392" y="820"/><use href="#bordMedDobbelfals" x="425" y="820"/>
-    <use href="#bordMedDobbelfals" x="458" y="820"/><use href="#bordMedDobbelfals" x="491" y="820"/>
-    <use href="#bordMedDobbelfals" x="524" y="820"/><use href="#bordMedDobbelfals" x="557" y="820"/>
-    <use href="#bordMedDobbelfals" x="590" y="820"/><use href="#bordMedDobbelfals" x="623" y="820"/>
-    <use href="#bordMedDobbelfals" x="656" y="820"/><use href="#bordMedDobbelfals" x="689" y="820"/>
-    <use href="#bordMedDobbelfals" x="722" y="820"/><use href="#bordMedDobbelfals" x="755" y="820"/>
-    <use href="#bordMedDobbelfals" x="788" y="820"/>
-  </g>
-  <!-- Bord på sørsiden -->
-  <g fill="#9e9c94" stroke="#6e6b64" stroke-width="1">
-    <use href="#bordMedDobbelfals" transform="translate(260 860) scale(1 -1)"/><use href="#bordMedDobbelfals" transform="translate(293 860) scale(1 -1)"/>
-    <use href="#bordMedDobbelfals" transform="translate(326 860) scale(1 -1)"/><use href="#bordMedDobbelfals" transform="translate(359 860) scale(1 -1)"/>
-    <use href="#bordMedDobbelfals" transform="translate(392 860) scale(1 -1)"/><use href="#bordMedDobbelfals" transform="translate(425 860) scale(1 -1)"/>
-    <use href="#bordMedDobbelfals" transform="translate(458 860) scale(1 -1)"/><use href="#bordMedDobbelfals" transform="translate(491 860) scale(1 -1)"/>
-    <use href="#bordMedDobbelfals" transform="translate(524 860) scale(1 -1)"/><use href="#bordMedDobbelfals" transform="translate(557 860) scale(1 -1)"/>
-    <use href="#bordMedDobbelfals" transform="translate(590 860) scale(1 -1)"/><use href="#bordMedDobbelfals" transform="translate(623 860) scale(1 -1)"/>
-    <use href="#bordMedDobbelfals" transform="translate(656 860) scale(1 -1)"/><use href="#bordMedDobbelfals" transform="translate(689 860) scale(1 -1)"/>
-    <use href="#bordMedDobbelfals" transform="translate(722 860) scale(1 -1)"/><use href="#bordMedDobbelfals" transform="translate(755 860) scale(1 -1)"/>
-    <use href="#bordMedDobbelfals" transform="translate(788 860) scale(1 -1)"/>
-  </g>
-  <line x1="300" y1="920" x2="300" y2="864" stroke="#2e7d32" stroke-width="1.6" stroke-dasharray="5 3" marker-end="url(#pilGron)"/>
-  <text x="308" y="914" font-size="11" fill="#2e7d32">Siktlinje blokkert</text>
-  <line x1="500" y1="920" x2="500" y2="864" stroke="#b03a2e" stroke-width="1.6" stroke-dasharray="5 3"/>
-  <circle cx="500" cy="860" r="6" fill="none" stroke="#b03a2e" stroke-width="1.6"/>
-  <line x1="496" y1="856" x2="504" y2="864" stroke="#b03a2e" stroke-width="1.6"/>
-  <text x="512" y="914" font-size="11" fill="#b03a2e">Ingen luftgjennomgang</text>
-
+  <line
+     x1="300.04745"
+     y1="898.05518"
+     x2="300.04745"
+     y2="862.05518"
+     stroke="#2e7d32"
+     stroke-width="1.6"
+     stroke-dasharray="5, 3"
+     marker-end="url(#pilGron-9)"
+     id="line84-6"
+     style="marker-end:url(#pilGron-9)" />
+  <text
+     x="308.04745"
+     y="892.05518"
+     font-size="11px"
+     fill="#2e7d32"
+     id="text84-1">Siktlinje blokkert</text>
 </svg>

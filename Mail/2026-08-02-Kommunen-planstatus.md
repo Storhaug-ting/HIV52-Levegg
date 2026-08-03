@@ -21,8 +21,8 @@ uteoppholdsarealene. Alle fem boligene ligger på samme matrikkelenhet, som er s
 | Lengde | 4,10 m, 5,00 m, 4,10 m og 5,00 m – alle innenfor 5,0 m |
 | Plassering | I grenselinjen mellom seksjonenes utearealer, østover fra østfasaden. Ikke mot vei eller avkjørsel |
 | Innbyrdes avstand | Veggene står vinkelrett ut fra husrekka, med et helt uteoppholdsareal mellom hver vegg. De berører ikke hverandre |
-| Materiale | Malmfuru med grå jernvitriolbehandling, stående kledning. Alternativ I og IV har vekslende dobbelfals med rette kanter, ca. 5 mm synlig spalte og falsdybde lik halvparten av bordtykkelsen. Alternativ II og III har rette 23 × 48 mm bord med 10 mm spalte |
-| Konstruksjon | Stolper c/c maks 0,80 m på betongfundament med stolpesko, stående og vekselvis kledning på begge sider, dekkbord på toppen, luftespalte mot bakken |
+| Materiale | Malmfuru med grå jernvitriolbehandling, stående kledning. Alternativ 3 og 4 har vekslende dobbelfals med rette kanter, ca. 5 mm synlig spalte og falsdybde lik halvparten av bordtykkelsen. Alternativ 1 og 2 har rette 23 × 48 mm bord med 10 mm spalte |
+| Konstruksjon | Stolper c/c maks 0,80 m på betongfundament med stolpesko, stående vekselvis kledning på begge sider (alternativ 2), dekkbord på toppen, luftespalte mot bakken |
 
 ## Vår forståelse av regelverket
 

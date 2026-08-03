@@ -58,8 +58,8 @@ Filnavn følger mønsteret `ÅÅÅÅ-MM-DD-Mottaker-emne.md`.
 Utearealene er fellesareal med enerett for den enkelte seksjonen i inntil 30 år, jf. sameiets
 vedtekter pkt. 2.4. Uteplassene er i dag uskjermet mot hverandre. Forslaget er å sette opp levegger
 i **malmfuru med grå jernvitriolbehandling**, montert stående med rette bordkanter.
-Alternativ I og IV har vekslende dobbelfals med rette kanter og ca. 5 mm synlig spalte, der falsene
-går under nabobordet. Falsdybden er lik halvparten av bordtykkelsen. Alternativ II og III har rette
+Alternativ 3 og 4 har vekslende dobbelfals med rette kanter og ca. 5 mm synlig spalte, der falsene
+går under nabobordet. Falsdybden er lik halvparten av bordtykkelsen. Alternativ 1 og 2 har rette
 23 × 48 mm bord med 10 mm spalte. Slik fremstår leveggene som en forlengelse av byggets arkitektur.
 
 To alternative utstrekninger legges fram:
