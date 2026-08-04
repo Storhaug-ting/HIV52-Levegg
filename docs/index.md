@@ -1,45 +1,37 @@
 # Levegger – rekka Helge Ingstads vei 50–58
 
-Designgrunnlag for levegger mellom boligene i rekka HIV 50–58 (hus B, seksjon 6–10), til behandling
-i styret for Boligsameiet Griniskogen Vest.
-
-## Hvorfor denne saken
-
-**Problemet.** Uteoppholdsarealene mellom de fem boligene i rekka er i dag helt uskjermet.
+Uteoppholdsarealene mellom de fem boligene i rekka er i dag helt uskjermet.
 Uteplassene ligger rett ved siden av hverandre på østsiden av husene, uten noen form for skille.
 Innsynet er fritt begge veier, og bruken av egen uteplass foregår i praksis i naboens synsfelt. Det
 begrenser bruken av arealene mer enn nødvendig – for alle parter, i begge retninger. Rekka ligger
 dessuten åpent til, og uteplassene er utsatt for vind.
 
-**Hvorfor nå, og hvorfor for hele rekka.** Behovet for skjerming er felles, men initiativet kommer
-naturlig fra én seksjon om gangen. Settes det opp én vegg nå, én om to år og én om fem, ender rekka
-lett opp med fire ulike løsninger i samme fasadeflate. Sameiets trivsels- og ordensregler punkt 3
-sier at «det bør tilstrebes å finne felles løsninger for å opprettholde et enhetlig og moderne
-uttrykk på boenhetene», og vedtektene punkt 5.3 forutsetter at utvendige endringer skjer etter «en
-samlet plan». Derfor legges saken fram som ett ferdig designgrunnlag for alle fire skillene, slik at
-styret kan ta stilling til utformingen én gang – og den enkelte veggen kan settes opp når det passer
-for de to som deler den.
+Behovet for skjerming er felles, men initiativet kommer naturlig fra én seksjon om gangen.
+Settes det opp én vegg nå, én om to år og én om fem, ender rekka lett opp med fire ulike løsninger
+i samme fasadeflate. Sameiets trivsels- og ordensregler punkt 3 sier at «det bør tilstrebes å finne
+felles løsninger for å opprettholde et enhetlig og moderne uttrykk på boenhetene», og vedtektene
+punkt 5.3 forutsetter at utvendige endringer skjer etter «en samlet plan». Derfor legges saken fram
+som ett ferdig designgrunnlag for alle fire skillene, slik at styret kan ta stilling til utformingen
+én gang – og den enkelte veggen kan settes opp når det passer for de to som deler den.
 
-**Hva som må avklares.** Sameiets regler krever skriftlig søknad til styret med beskrivelse og
-tegninger, tekniske undersøkelser bekostet av søker, og **skriftlig samtykke fra berørte naboer**.
-Selve tiltaket er unntatt søknadsplikt etter SAK10 § 4-1 så lenge veggen er inntil 1,8 m høy og
-inntil 5,0 m lang. Det som gjenstår er derfor ikke det offentlige regelverket, men enigheten internt
-i rekka: felles utforming, valg av lengdealternativ og signerte naboerklæringer.
+Sameiets regler krever skriftlig søknad til styret med beskrivelse og tegninger, tekniske
+undersøkelser bekostet av søker, og **skriftlig samtykke fra berørte naboer**. Selve tiltaket er
+unntatt søknadsplikt etter SAK10 § 4-1 så lenge veggen er inntil 1,8 m høy og inntil 5,0 m lang fra
+husvegg. Det som gjenstår er derfor ikke det offentlige regelverket, men enigheten internt
+i rekka: felles utforming og valg av lengdealternativ.
 
-**Hva saken ikke er.** Tiltaket endrer ikke rekkas utvendige inntrykk sett fra vei eller
-fellesareal, det berører ikke bærende konstruksjoner, og sameiet belastes ingen kostnader.
-Kostnadene avtales direkte mellom de to eierne som deler hver vegg.
+Sameiet kan ikke belastes noen kostnader. Kostnadene avtales direkte mellom de to eierne som deler
+hver vegg.
 
 ## Rekka og de fire veggene
 
-![Måleplan – avstander fra hus til skråningsfot](Tegninger/Plan-Maaling-Skraaning.svg)
-
-*Måleplan uten foreslåtte levegger. Stiplede målelinjer viser de oppmålte avstandene fra yttervegg
-til skråningsfot for fire plasseringer mellom HIV 50 og HIV 58.*
+![Bygnings oversikt – avstander fra hus til skråningsfot](Tegninger/Plan-Maaling-Skraaning.svg)
 
 Rekka går nord–sør, uteoppholdsarealene ligger på østsiden, og leveggene går østover fra husenes
-østfasade. Husene står forskjøvet i forhold til hverandre: HIV 50 er 3,8 m lenger vest enn HIV 52 og
-54, som igjen er 1,8 m lenger vest enn HIV 56 og 58. Forslaget omfatter fire vegger:
+østfasade. Husene står forskjøvet i forhold til hverandre: HIV 50 er ca 4 m lenger vest enn HIV 52 og
+54, som igjen er ca 2 m lenger vest enn HIV 56 og 58.
+
+Forslaget omfatter fire vegger:
 
 | Vegg | Mellom | Seksjoner | A (målt) | Parter |
 |------|--------|-----------|----------|--------|
@@ -47,71 +39,3 @@ Rekka går nord–sør, uteoppholdsarealene ligger på østsiden, og leveggene g
 | B | HIV 52 og HIV 54 | 7 og 8 | 5,30 m | Storhaug · Wilhelmsen/Hagen |
 | C | HIV 54 og HIV 56 | 8 og 9 | 4,10 m | Wilhelmsen/Hagen · Trekanten AS (usolgt) |
 | D | HIV 56 og HIV 58 | 9 og 10 | 5,00 m | Trekanten AS (usolgt) · Takvam/Vikeby |
-
-`A` er målt avstand fra østfasaden til foten av skråningen, 2. august 2026.
-
-## Status
-
-| Steg | Status |
-|------|--------|
-| Rettslig grunnlag kartlagt | 🟢 Ferdig – se [`Regelverk.md`](Regelverk.md) |
-| Reguleringsplan kontrollert | 🟢 «Griniskogen nordvest», PlanID 3014_012320120011 – ingen forbud mot levegg |
-| Designbeskrivelse | 🟢 Utkast ferdig |
-| Avstander målt på stedet | 🟢 Målt 2026-08-02: 4,10 · 5,30 · 4,10 · 5,00 m |
-| Tegninger | 🟢 Målsatt etter oppmåling |
-| Terrengfall målt | 🔴 Ikke gjort |
-| Naboerklæringer | 🟡 Mal klar, ikke signert |
-| Høring til eierne i rekka | 🟡 Utkast klart, ikke sendt |
-| Svar fra naboene innhentet | 🔴 Avventer utsendelse |
-| Sendt til styret | 🟡 E-postutkast klart, ikke sendt |
-
-## Innhold
-
-| Fil | Beskrivelse |
-|-----|-------------|
-| [`Designbeskrivelse.md`](Designbeskrivelse.md) | Hoveddokumentet til styret: utforming, materialer, konstruksjon og de to alternativene |
-| [`Byggeteknikk.md`](Byggeteknikk.md) | Teknisk grunnlag med SINTEF-referanser – vindskjerming, konstruksjon, fundamentering og trebeskyttelse |
-| [`Kilder.md`](Kilder.md) | Samlet kildeliste – lover, planer, sameiedokumenter og faglige kilder, alle med lenke |
-| [`Regelverk.md`](Regelverk.md) | Rettslig grunnlag – SAK10, reguleringsplan, kommuneplan, grannelova, eierseksjonsloven, sameiets vedtekter og trivsels- og ordensregler |
-| [`Naboerklaering.md`](Naboerklaering.md) | Mal for skriftlig samtykke fra berørte naboer, én per vegg |
-| [`Avklaringer.md`](Avklaringer.md) | Åpne punkter, målebehov og spørsmål som må besvares før saken er komplett |
-| [`Tegninger/`](Tegninger/) | Målsatte A4-skisser – planskisse og oppriss for begge alternativer |
-| [`Mail/`](Mail/) | E-postkorrespondanse med naboer, styret og kommunen |
-
-## E-poster
-
-Filnavn følger mønsteret `ÅÅÅÅ-MM-DD-Mottaker-emne.md`.
-
-| Fil | Til | Status |
-|-----|-----|--------|
-| [`Mail/2026-08-02-Naboer-forslag-levegg.md`](Mail/2026-08-02-Naboer-forslag-levegg.md) | Samtlige eiere i rekka HIV 50–58 | Høring – utkast, forslag om kledningssnitt 4 og tre lengdealternativer |
-| [`Mail/2026-08-02-Styret-soknad-om-godkjenning.md`](Mail/2026-08-02-Styret-soknad-om-godkjenning.md) | Styret i Boligsameiet Griniskogen Vest | Utkast |
-| [`Mail/2026-08-02-Kommunen-planstatus.md`](Mail/2026-08-02-Kommunen-planstatus.md) | Byggesak, Indre Østfold kommune | Utkast |
-
-## Kort om løsningen
-
-Utearealene er fellesareal med enerett for den enkelte seksjonen i inntil 30 år, jf. sameiets
-vedtekter pkt. 2.4. Forslaget er å sette opp levegger i **malmfuru med grå jernvitriolbehandling**,
-montert stående med rette bordkanter.
-Alternativ 3 og 4 har vekslende dobbelfals med rette kanter og ca. 5 mm synlig spalte, der falsene
-går under nabobordet. Falsdybden er lik halvparten av bordtykkelsen. Alternativ 1 og 2 har rette
-23 × 48 mm bord med 10 mm spalte. Slik fremstår leveggene som en forlengelse av byggets arkitektur.
-
-To alternative utstrekninger legges fram:
-
-- **Alternativ 1** – leveggen føres helt fram til foten av skråningen, begrenset til 5,0 m. Gir
-  lengdene 4,10 · 5,00 · 4,10 · 5,00 m.
-- **Alternativ 2** – leveggen stopper 1,0 m før foten av skråningen. Gir lengdene
-  3,10 · 4,30 · 3,10 · 4,00 m og en gjennomgående passasje langs skråningsfoten for hele rekka.
-
-Gjennomføringen skjer når partene til den enkelte veggen er tilgjengelige, og veggene trenger ikke
-settes opp samtidig. Kostnadene avtales direkte mellom de to som deler veggen. Sameiet belastes
-ikke.
-
-## Relaterte saker
-
-- [Storhaug-ting/HIV52#6](https://github.com/Storhaug-ting/HIV52/issues/6) – denne saken
-- [Storhaug-ting/HIV52#5](https://github.com/Storhaug-ting/HIV52/issues/5) – avklaringer til
-  styrebehandling, inkludert bruk av levegger mellom seksjon 6–10
-- [`Storhaug-ting/GriniskogenVest`](https://github.com/Storhaug-ting/GriniskogenVest) – sameiets
-  vedtekter, trivsels- og ordensregler, grunnbøker, medlemsoversikt og styrereferater

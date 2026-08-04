@@ -14,7 +14,6 @@ Dokumentene i de øvrige filene i denne mappen viser hit, slik at det er én lis
 | Grannelova | LOV-1961-06-16-15 | <https://lovdata.no/lov/1961-06-16-15> |
 | Grannegjerdelova | LOV-1961-05-05 | <https://lovdata.no/lov/1961-05-05> |
 | Eierseksjonsloven | LOV-2017-06-16-65 | <https://lovdata.no/lov/2017-06-16-65> |
-| Veglova | LOV-1963-06-21-23 | <https://lovdata.no/lov/1963-06-21-23> |
 
 Bestemmelsene som er brukt aktivt:
 
@@ -56,8 +55,6 @@ Bestemmelsene som er brukt aktivt:
 | Plantype | Detaljregulering, jf. pbl. §§ 12-3 og 12-14 |
 | Vedtatt | 17.06.2014. Forenklet reguleringsendring 06.07.2021 |
 | Plankart | Datert 26.08.2019, sist revidert 13.04.2021 |
-| Bestemmelser, kopi i repoet | [`Salgsdokumenter/Kontraktsvedlegg/012320120011 Bestemmelser endring_20210702.pdf`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/012320120011%20Bestemmelser%20endring_20210702.pdf) |
-| Plankart, kopi i repoet | [`Salgsdokumenter/Kontraktsvedlegg/Reguleringsplankart_A4S_05.05.2023_11.49.pdf`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/Reguleringsplankart_A4S_05.05.2023_11.49.pdf) |
 | Kommunens planregister | <https://www.arealplaner.no/indreostfold3118/arealplaner/> – søk på planID |
 
 Bestemmelser som er brukt aktivt:
@@ -71,10 +68,6 @@ Bestemmelser som er brukt aktivt:
 | § 6 (N1) | Naturområde – grønnstruktur, eksisterende terreng og vegetasjon skal bevares |
 | § 8 (V1, V2) | Vegetasjonsskjerm som buffersone |
 
-> [!NOTE]
-> Lenkene til kommunens gamle planarkiv på `webhotel2.gisline.no`, som står i planrapporten fra
-> 2023, er ikke lenger i drift. Kopiene i `Salgsdokumenter/Kontraktsvedlegg/` er derfor det
-> praktiske referansepunktet, og de er identiske med det som ble levert med kjøpekontrakten.
 
 ### Kommuneplan – gjeldende
 
