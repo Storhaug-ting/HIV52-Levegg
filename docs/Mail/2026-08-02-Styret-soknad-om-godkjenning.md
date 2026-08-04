@@ -51,7 +51,7 @@ Leveggene går østover fra husenes østfasade, i skillet mellom uteoppholdsarea
 | Kledning | Samme profil og bredde som husets kledning, montert stående |
 | Høyde | 1,8 m over ferdig terreng |
 | Lengde | 3,10–5,00 m per vegg, avhengig av lengdealternativ – se tabellen under |
-| Konstruksjon | Stolper 98 × 98 mm c/c maks 0,80 m, alle på eget betongfundament med stolpesko, dekkbord på toppen, minst 200 mm luftespalte mot bakken |
+| Konstruksjon | 48 × 98 mm CU-impregnert reisverk på dobbel bunnsvill fra grunnmur til avtalt lengde. Betongfundament til frostfri dybde med ekstra betongmasse nederst, bjelkesko/beslag, dekkbord på toppen og minst 200 mm luftespalte mot bakken |
 | Kledningssnitt | Alternativ 2: vekselvis bord på begge sider av rammeverket foreslås, slik at veggen skjermer for innsyn og samtidig slipper gjennom luft. Se byggeteknisk grunnlag |
 | Innfesting | A4 syrefaste skruer, siden jernvitriol angriper sink og gir mørke renner på galvanisert stål |
 | Kostnad for sameiet | Ingen. Kostnaden bæres av de to partene til hver enkelt vegg. |

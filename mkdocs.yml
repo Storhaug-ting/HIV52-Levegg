@@ -12,6 +12,25 @@ site_dir: site
 theme:
   name: material
   language: nb
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Følg systemets fargevalg
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: brown
+      accent: brown
+      toggle:
+        icon: material/brightness-7
+        name: Bytt til mørk modus
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: brown
+      accent: brown
+      toggle:
+        icon: material/brightness-4
+        name: Bytt til lys modus
   features:
     - navigation.instant
     - navigation.tracking
@@ -28,6 +47,9 @@ nav:
   - Kilder: Kilder.md
   - Naboerklæring: Naboerklaering.md
   - Avklaringer: Avklaringer.md
+
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - tables

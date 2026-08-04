@@ -41,7 +41,8 @@ en forlengelse av huset, ikke som noe som er satt inntil. Den gråner likt med h
 
 - Høyde 1,8 m over ferdig terreng
 - Lengde 3,10–5,00 m østover fra østfasaden, avhengig av hvilket alternativ som velges – se under
-- Stolper c/c maks 0,80 m, alle på eget betongfundament med stolpesko, slik at trevirket står klar av bakken og ikke råtner
+- 48 × 98 mm CU-impregnert reisverk på dobbel bunnsvill fra grunnmuren og ut til avtalt lengde
+- Betongfundament føres til frostfri dybde, med ekstra betongmasse nederst for bedre hold enn smale betongsøyler alene
 - Gjennomgående dekkbord på toppen som beskytter endeveden
 - Minst 200 mm luftespalte mot bakken
 
