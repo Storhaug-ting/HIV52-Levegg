@@ -20,7 +20,7 @@ Rekka går nord–sør, uteoppholdsarealene ligger på østsiden, og leveggene g
 
 | Steg | Status |
 |------|--------|
-| Rettslig grunnlag kartlagt | 🟢 Ferdig – se [`docs/Regelverk.md`](docs/Regelverk.md) |
+| Rettslig grunnlag kartlagt | 🟢 Ferdig – se [`Regelverk.md`](Regelverk.md) |
 | Reguleringsplan kontrollert | 🟢 «Griniskogen nordvest», PlanID 3014_012320120011 – ingen forbud mot levegg |
 | Designbeskrivelse | 🟢 Utkast ferdig |
 | Avstander målt på stedet | 🟢 Målt 2026-08-02: 4,10 · 5,30 · 4,10 · 5,00 m |
@@ -35,14 +35,14 @@ Rekka går nord–sør, uteoppholdsarealene ligger på østsiden, og leveggene g
 
 | Fil | Beskrivelse |
 |-----|-------------|
-| [`docs/Designbeskrivelse.md`](docs/Designbeskrivelse.md) | Hoveddokumentet til styret: utforming, materialer, konstruksjon og de to alternativene |
-| [`docs/Byggeteknikk.md`](docs/Byggeteknikk.md) | Teknisk grunnlag med SINTEF-referanser – vindskjerming, konstruksjon, fundamentering og trebeskyttelse |
-| [`docs/Kilder.md`](docs/Kilder.md) | Samlet kildeliste – lover, planer, sameiedokumenter og faglige kilder, alle med lenke |
-| [`docs/Regelverk.md`](docs/Regelverk.md) | Rettslig grunnlag – SAK10, reguleringsplan, kommuneplan, grannelova, eierseksjonsloven, sameiets vedtekter og trivsels- og ordensregler |
-| [`docs/Naboerklaering.md`](docs/Naboerklaering.md) | Mal for skriftlig samtykke fra berørte naboer, én per vegg |
-| [`docs/Avklaringer.md`](docs/Avklaringer.md) | Åpne punkter, målebehov og spørsmål som må besvares før saken er komplett |
-| [`docs/Tegninger/`](docs/Tegninger/) | Målsatte A4-skisser – planskisse og oppriss for begge alternativer |
-| [`docs/Mail/`](docs/Mail/) | E-postkorrespondanse med naboer, styret og kommunen |
+| [`Designbeskrivelse.md`](Designbeskrivelse.md) | Hoveddokumentet til styret: utforming, materialer, konstruksjon og de to alternativene |
+| [`Byggeteknikk.md`](Byggeteknikk.md) | Teknisk grunnlag med SINTEF-referanser – vindskjerming, konstruksjon, fundamentering og trebeskyttelse |
+| [`Kilder.md`](Kilder.md) | Samlet kildeliste – lover, planer, sameiedokumenter og faglige kilder, alle med lenke |
+| [`Regelverk.md`](Regelverk.md) | Rettslig grunnlag – SAK10, reguleringsplan, kommuneplan, grannelova, eierseksjonsloven, sameiets vedtekter og trivsels- og ordensregler |
+| [`Naboerklaering.md`](Naboerklaering.md) | Mal for skriftlig samtykke fra berørte naboer, én per vegg |
+| [`Avklaringer.md`](Avklaringer.md) | Åpne punkter, målebehov og spørsmål som må besvares før saken er komplett |
+| [`Tegninger/`](Tegninger/) | Målsatte A4-skisser – planskisse og oppriss for begge alternativer |
+| [`Mail/`](Mail/) | E-postkorrespondanse med naboer, styret og kommunen |
 
 ## E-poster
 
@@ -50,9 +50,9 @@ Filnavn følger mønsteret `ÅÅÅÅ-MM-DD-Mottaker-emne.md`.
 
 | Fil | Til | Status |
 |-----|-----|--------|
-| [`docs/Mail/2026-08-02-Naboer-forslag-levegg.md`](docs/Mail/2026-08-02-Naboer-forslag-levegg.md) | Samtlige eiere i rekka HIV 50–58 | Høring – utkast, forslag om kledningssnitt 4 og tre lengdealternativer |
-| [`docs/Mail/2026-08-02-Styret-soknad-om-godkjenning.md`](docs/Mail/2026-08-02-Styret-soknad-om-godkjenning.md) | Styret i Boligsameiet Griniskogen Vest | Utkast |
-| [`docs/Mail/2026-08-02-Kommunen-planstatus.md`](docs/Mail/2026-08-02-Kommunen-planstatus.md) | Byggesak, Indre Østfold kommune | Utkast |
+| [`Mail/2026-08-02-Naboer-forslag-levegg.md`](Mail/2026-08-02-Naboer-forslag-levegg.md) | Samtlige eiere i rekka HIV 50–58 | Høring – utkast, forslag om kledningssnitt 4 og tre lengdealternativer |
+| [`Mail/2026-08-02-Styret-soknad-om-godkjenning.md`](Mail/2026-08-02-Styret-soknad-om-godkjenning.md) | Styret i Boligsameiet Griniskogen Vest | Utkast |
+| [`Mail/2026-08-02-Kommunen-planstatus.md`](Mail/2026-08-02-Kommunen-planstatus.md) | Byggesak, Indre Østfold kommune | Utkast |
 
 ## Kort om saken
 
