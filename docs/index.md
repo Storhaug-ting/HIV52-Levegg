@@ -21,7 +21,10 @@ husvegg. Det som gjenstår er derfor ikke det offentlige regelverket, men enighe
 i rekka: felles utforming og valg av lengdealternativ.
 
 Sameiet kan ikke belastes noen kostnader. Kostnadene avtales direkte mellom de to eierne som deler
-hver vegg.
+hver vegg. Rekka er boligtype B, seksjon 6–10, og disse fem har etter vedtektene pkt. 3.2 og 5.1 et
+solidarisk ansvar for alt ytre vedlikehold på bygget, fordelt likt. Leveggene er derfor utformet
+selvbærende og uten innfesting i østfasaden, slik at de ikke trekkes inn i byggets ytre vedlikehold.
+Se [`Regelverk.md`](Regelverk.md) punkt 6.4.
 
 ## Rekka og de fire veggene
 

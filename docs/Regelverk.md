@@ -242,7 +242,111 @@ er lagt opp:
 > Ved å hente skriftlig samtykke fra samtlige eiere i rekka på forhånd fjernes den uklarheten, og
 > styret får grunnlag for å behandle saken selv dersom det ønsker det.
 
-### 6.4 Hva dette betyr for saken
+### 6.4 Kostnadsfordeling – boligtypen er avgjørende
+
+Dette er det punktet som skiller sameiet fra en ren lovtolkning. Eierseksjonsloven har et
+hovedprinsipp, men vedtektene har brukt adgangen til å avtale noe annet – og fordelingen er knyttet
+til **boligtype og bygg**, ikke til sameiet som helhet.
+
+#### Utgangspunktet i loven
+
+[Eierseksjonsloven § 29](https://lovdata.no/lov/2017-06-16-65) første ledd:
+
+> «Kostnader med eiendommen som ikke knytter seg til den enkelte bruksenhet, er felleskostnader.
+> Felleskostnader skal fordeles mellom seksjonseierne etter sameiebrøken. Dersom særlige grunner
+> taler for det, kan kostnadene fordeles etter nytten for den enkelte bruksenhet eller etter
+> forbruk.»
+
+Andre ledd åpner for å avtale seg bort fra dette:
+
+> «Dersom de seksjonseierne som berøres, uttrykkelig sier seg enige, kan det i vedtektene fastsettes
+> en annen fordeling enn den som følger av første ledd.»
+
+Sameiet har benyttet denne adgangen.
+
+#### Vedtektene fordeler ytre vedlikehold per bygg og boligtype
+
+Bebyggelsen består av tre boligtyper, jf. vedtektene pkt. 2.1: bygg A (seksjon 1–5, kjedet),
+bygg B (seksjon 6–10, kjedet) og bygg C (seksjon 11–22, terrasseblokk).
+
+Vedtektene pkt. 3.2:
+
+> «Seksjonseiere i samme bygg har sammen et solidarisk ansvar for alt ytre vedlikehold på sitt
+> tilhørende bygg av samme boligtype I samsvar med vedtektenes 5.1.»
+
+Vedtektene pkt. 5.1 sier det uttrykkelig:
+
+> «Vedtektene tar hensyn til differensieringen i både boligtype og størrelse og speiler dette ved at
+> både vedlikeholdsplikten og kostnadene til vedlikehold skal fordeles på de seksjonseiere som
+> berøres og ikke etter eierbrøken i hele sameiet.»
+>
+> «Boligtype A, seksjon 1-5 fordeler vedlikeholdskostnadene likt
+> Boligtype B, seksjon 6-10 fordeler vedlikeholdskostnadene likt.
+> Boligtype C, seksjon 11-22 ( terrasseblokk) fordeler vedlikeholdskostnadene etter innbyrdes
+> sameierbrøk. Se punkt 1.2.»
+
+| Boligtype | Seksjoner | Fordeling av ytre vedlikehold |
+|-----------|-----------|-------------------------------|
+| A – kjedet | 1–5 (HIV 40–48) | Likt mellom de fem |
+| **B – kjedet** | **6–10 (HIV 50–58)** | **Likt mellom de fem** |
+| C – terrasseblokk | 11–22 (HIV 38) | Etter innbyrdes eierbrøk, jf. vedtektene pkt. 1.2 |
+
+> [!IMPORTANT]
+> Rekka HIV 50–58 er **boligtype B, seksjon 6–10**. Endres fasaden på dette bygget, er
+> vedlikeholdskostnaden etter vedtektene et solidarisk ansvar for disse fem seksjonene, fordelt
+> **likt** – ikke etter sameiebrøk, og ikke på de 22 seksjonene i sameiet. Seksjon 1–5 og 11–22
+> bærer ingen del av kostnaden.
+
+Sameiebrøken for seksjon 6–10 er identisk (189/3186 hver), så for boligtype B gir «likt» og
+«etter sameiebrøk» samme resultat internt i rekka. Forskjellen ligger i **hvem som er med** –
+ikke i brøken.
+
+#### Hva som er felleskostnad og hva som ikke er det
+
+| Kostnadstype | Fordeles på | Grunnlag |
+|--------------|-------------|----------|
+| Ytre vedlikehold av bygg B, inkludert fasade | Seksjon 6–10, likt | Vedtektene pkt. 3.2 og 5.1 |
+| Bygningsforsikring for seksjon 1–10 | Hver seksjonseier alene | Vedtektene pkt. 3.3 |
+| Utvendige fellesarealer, veier, veilys, hovedledninger, drift og administrasjon | Alle 22, etter sameiebrøk | Vedtektene pkt. 3.4 |
+| Tiltak seksjonseier selv søker om og får godkjent | Søkeren | Ordensreglene pkt. 3 nr. 3 |
+
+Ordensreglene pkt. 3 nr. 3 legger dessuten forundersøkelsene på søkeren:
+
+> «Tekniske undersøkelser om hvorvidt tiltaket kan gjennomføres må innhentes av søker og søker må ta
+> de økonomiske kostnader dette evt. medfører.»
+
+#### Fasadeendring på samme hustype – de tre virkningene
+
+1. **Kostnadskretsen følger bygget.** En fasadeendring på bygg B er ikke en sak for hele sameiets
+   fellesøkonomi. Den treffer seksjon 6–10.
+2. **Én samlet plan er billigere enn fem enkeltsaker.** Vedtektene pkt. 5.3 krever at
+   fasadekledning og utvendige farger endres «etter en samlet plan vedtatt av årsmøtet». Fordi
+   seksjon 6–10 hefter solidarisk for ytre vedlikehold av samme bygg, betyr fem ulike utførelser i
+   samme fasadeflate at alle fem senere kan bli sittende med et sammensatt vedlikeholdsansvar for
+   løsninger de ikke har valgt.
+3. **Etterslep smitter innad i rekka.** Fordi ansvaret er solidarisk, kan den som ikke
+   vedlikeholder sin del påføre de øvrige fire en kostnad. Eierseksjonsloven § 34, gjentatt i
+   vedtektene pkt. 5.1, gir da erstatningsansvar for tapet.
+
+> [!TIP]
+> Skal én seksjonseier gjøre en fasadeendring alene, er det derfor verdt å slå fast skriftlig at
+> kostnaden – både etablering og framtidig vedlikehold – bæres av vedkommende og ikke faller inn
+> under det solidariske ansvaret for bygget etter vedtektene pkt. 3.2. Uten en slik avklaring er
+> utgangspunktet at ytre vedlikehold på bygg B er felles for seksjon 6–10.
+
+#### Leveggene i denne saken
+
+Leveggene står **fritt fra husveggen på fellesareal med enerett** og er ikke en endring av
+fasadekledningen på bygg B. De utløser derfor ikke fordelingen etter vedtektene pkt. 3.2 av seg
+selv. Forutsetningen er at leveggen ikke innlemmes i byggets ytre vedlikehold, og at kostnaden
+avtales mellom de to som deler veggen – slik forslaget legger opp til.
+
+Grensen er verdt å merke seg: **festes leveggen mekanisk i østfasaden**, gjør den inngrep i
+byggets ytre og nærmer seg vedtektene pkt. 3.2. Konstruksjonen i
+[`Designbeskrivelse.md`](Designbeskrivelse.md) er selvbærende, med bunnsvill ført inntil
+grunnmuren og egne betongfundamenter, og trenger ikke bæring fra husveggen.
+
+### 6.5 Hva dette betyr for saken
 
 | Spørsmål | Vurdering |
 |----------|-----------|
@@ -251,6 +355,7 @@ er lagt opp:
 | Når må saken til årsmøtet? | Dersom styret mener leveggene er en «endring av bebyggelsen eller tomten som går ut over vanlig forvaltning», kreves 2/3 flertall på årsmøtet, jf. vedtektene pkt. 7.9 bokstav a og eierseksjonsloven § 49. |
 | Kreves enstemmighet? | [Eierseksjonsloven § 51](https://lovdata.no/lov/2017-06-16-65) krever enighet fra alle bare ved tiltak som vesentlig endrer sameiets karakter. To levegger i samme materiale som husene ligger klart under den terskelen. |
 | Hvem betaler? | Naboene som deler veggen. Tiltaket forutsetter ingen felleskostnader, noe som holder saken utenfor vedtektene pkt. 7.10 om bomiljøtiltak. |
+| Utløser tiltaket den solidariske kostnadsdelingen for bygg B? | Nei, ikke slik forslaget er utformet. Leveggen er selvbærende og står på fellesareal med enerett, ikke som endring av byggets fasadekledning. Se punkt 6.4. |
 
 > [!TIP]
 > Fordi vedtektene pkt. 5.3 taler om «en samlet plan», er det en fordel om forslaget utformes som
@@ -397,6 +502,7 @@ Ferdig e-postutkast ligger i
 | Nøyaktig grenselinje mellom seksjonenes eneretts­arealer | Ikke kartfestet i dette dokumentet | Seksjoneringskart hos Kartverket, eller styret |
 | Om det finnes ledninger, kabler eller drenering i traseen | Ikke undersøkt | [Gravemelding / Geomatikk](https://gravemelding.no) og utbyggers FDV-dokumentasjon |
 | Om det allerede foreligger en «samlet plan» etter vedtektene pkt. 5.3 | Ikke undersøkt | Styret |
+| Om styret er enig i at leveggene faller utenfor det solidariske vedlikeholdsansvaret for bygg B etter vedtektene pkt. 3.2 | Ikke avklart | Styret, som del av behandlingen av søknaden |
 
 ## Kilder
 

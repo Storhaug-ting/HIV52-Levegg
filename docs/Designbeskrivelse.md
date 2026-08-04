@@ -155,6 +155,30 @@ Forslaget legges fram for styret med følgende spørsmål:
 Ettersom tiltaket ikke belaster fellesøkonomien, kommer vedtektene pkt. 7.10 om bomiljøtiltak med
 økonomiske konsekvenser for seksjonseierne i fellesskap ikke til anvendelse.
 
+### Forholdet til den solidariske kostnadsdelingen for bygg B
+
+Rekka HIV 50–58 er **boligtype B, seksjon 6–10**. Etter vedtektene pkt. 3.2 har seksjonseierne i
+samme bygg av samme boligtype «sammen et solidarisk ansvar for alt ytre vedlikehold» på bygget, og
+pkt. 5.1 fastsetter at boligtype B fordeler vedlikeholdskostnadene **likt** mellom de fem – ikke
+etter eierbrøken i hele sameiet. Endringer i byggets fasade treffer altså disse fem, ikke alle 22
+seksjonene.
+
+Leveggene faller utenfor denne fordelingen, av to grunner:
+
+| Forhold | Vurdering |
+|---------|-----------|
+| Leveggen er ikke en del av byggets fasade | Den står på fellesareal med enerett, jf. vedtektene pkt. 2.4, og er ikke «endring av fasadekledning» etter pkt. 5.3 |
+| Leveggen er selvbærende | Dobbel bunnsvill ført inntil grunnmuren og egne betongfundamenter til frostfri dybde. Ingen last eller mekanisk innfesting overføres til østfasaden |
+
+> [!IMPORTANT]
+> Dette er grunnen til at konstruksjonen er selvbærende og ikke festet i husveggen. Ble leveggen
+> boltet til østfasaden, ville den gjøre inngrep i byggets ytre og kunne trekkes inn under det
+> solidariske vedlikeholdsansvaret for bygg B etter vedtektene pkt. 3.2 – med den følge at seksjon
+> 6–10 kunne bli sittende med kostnaden for vegger de ikke er part i. Forslaget holder ansvaret hos
+> de to som deler hver vegg.
+
+Full gjennomgang av kostnadsfordelingen ligger i [`Regelverk.md`](Regelverk.md) punkt 6.4.
+
 > [!TIP]
 > Kostnads- og vedlikeholdsdelingen bør skriftliggjøres for hver vegg før arbeidet starter, selv om
 > partene er enige. En kort skriftlig avtale koster ingenting nå og forebygger uenighet ved senere

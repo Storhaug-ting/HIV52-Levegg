@@ -32,6 +32,8 @@ Bestemmelsene som er brukt aktivt:
 | Grannelova § 10 | Naboens krav på retting |
 | Grannegjerdelova § 6 og § 8 | Rett til å ha gjerde mot nabo, og deling av kostnaden |
 | Eierseksjonsloven § 25 | Seksjonseierens bruksrett |
+| Eierseksjonsloven § 29 | Fordeling av felleskostnader – sameiebrøk som hovedregel, adgang til annen fordeling i vedtektene |
+| Eierseksjonsloven § 34 | Seksjonseierens erstatningsansvar for mangelfullt vedlikehold |
 | Eierseksjonsloven § 49 bokstav a | 2/3 flertall for endringer av bebyggelsen eller tomten ut over vanlig forvaltning |
 | Eierseksjonsloven § 51 | Tiltak som krever enighet fra alle |
 
@@ -123,10 +125,16 @@ Bestemmelser som er brukt aktivt:
 | Bestemmelse | Innhold |
 |-------------|---------|
 | Vedtektene pkt. 2.4 | Seksjon 1–10 har gårdsplass og hage med enerett i inntil 30 år |
+| Vedtektene pkt. 2.1 | Bebyggelsen består av tre boligtyper: bygg A (seksjon 1–5), bygg B (seksjon 6–10) og bygg C (seksjon 11–22) |
+| Vedtektene pkt. 3.1 | Felleskostnader fordeles etter sameiebrøk, med adgang til fordeling etter nytte eller forbruk |
+| Vedtektene pkt. 3.2 | Seksjonseiere i samme bygg av samme boligtype har solidarisk ansvar for alt ytre vedlikehold på bygget |
+| Vedtektene pkt. 3.3 | Seksjon 1–10 tegner egen bygningsforsikring og dekker kostnaden selv |
+| Vedtektene pkt. 3.4 | Sameiets øvrige felleskostnader fordeles etter sameiebrøk på seksjon 1–22 |
+| Vedtektene pkt. 5.1 | Vedlikeholdsplikt og vedlikeholdskostnad fordeles på de berørte seksjonseierne per boligtype, ikke etter eierbrøk i hele sameiet. Boligtype A og B fordeler likt, boligtype C etter innbyrdes brøk |
 | Vedtektene pkt. 5.3 | Utvendige arbeider utført av seksjonseier krever forutgående godkjenning av styret |
 | Vedtektene pkt. 7.9 bokstav a | 2/3 flertall for endringer av bebyggelsen eller tomten ut over vanlig forvaltning |
 | Vedtektene pkt. 7.10 | Flertallskrav for bomiljøtiltak med økonomiske konsekvenser |
-| Trivsels- og ordensreglene pkt. 3 | Søknadsplikt til styret for levegg, med seksstegs prosedyre og krav om skriftlig samtykke fra berørte naboer |
+| Trivsels- og ordensreglene pkt. 3 | Søknadsplikt til styret for levegg, med seksstegs prosedyre og krav om skriftlig samtykke fra berørte naboer. Nr. 3 legger kostnaden for tekniske undersøkelser på søker |
 
 ## Faglige kilder
 
