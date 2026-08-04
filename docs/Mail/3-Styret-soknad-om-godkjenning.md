@@ -173,8 +173,8 @@ Seksjon 7, Helge Ingstads vei 52
 | Styremøtereferat 10.06.2026 | <https://github.com/Storhaug-ting/GriniskogenVest/blob/main/Div/Styrem%C3%B8ter/2026-06-10/2026-06-11-Styrem%C3%B8te.md> |
 | SINTEF Byggforskserien | <https://www.byggforsk.no> |
 
-[sak10]: https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1
-[eierseksjonsloven]: https://lovdata.no/lov/2017-06-16-65
+[sak10]: https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1 "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg"
+[eierseksjonsloven]: https://lovdata.no/lov/2017-06-16-65 "LOV-2017-06-16-65 – eierseksjonsloven"
 [kpa]: https://www.io.kommune.no/_f/p1/ie996e6bc-1ff3-474d-9de9-9be78491ada1/02-planbestemmelser-og-retningslinjer-06022024.pdf
 [regplanpdf]: https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/012320120011%20Bestemmelser%20endring_20210702.pdf
 [vedtekter]: https://github.com/Storhaug-ting/GriniskogenVest/blob/main/Vedtekter/2026-05-07/Revidert%20Vedtekter%2007.05.2026.md

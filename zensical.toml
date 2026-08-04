@@ -1,0 +1,91 @@
+[project]
+site_name = "HIV52 – Levegger"
+site_description = """
+Designgrunnlag for levegger mellom boligene i rekka Helge Ingstads vei 50-58, \
+Boligsameiet Griniskogen Vest\
+"""
+site_url = "https://storhaug-ting.github.io/HIV52-Levegg/"
+repo_name = "Storhaug-ting/HIV52-Levegg"
+repo_url = "https://github.com/Storhaug-ting/HIV52-Levegg"
+
+docs_dir = "docs"
+site_dir = "site"
+
+# Explicit navigation, mirroring the previous mkdocs.yml structure. The
+# "Mailforslag" entry renders as a collapsible submenu at the bottom of the
+# sidebar under "Referanser".
+nav = [
+  { "Introduksjon" = "index.md" },
+  { "Designforslag" = "Designbeskrivelse.md" },
+  { "Referanser" = [
+    { "Regelverk" = "Regelverk.md" },
+    { "Kilder" = "Kilder.md" },
+    { "Mailforslag" = [
+      { "Naboer – forslag til levegg" = "Mail/1-Naboer-forslag-levegg.md" },
+      { "Kommunen – planstatus" = "Mail/2-Kommunen-planstatus.md" },
+      { "Styret – søknad om godkjenning" = "Mail/3-Styret-soknad-om-godkjenning.md" },
+    ] },
+    { "Naboerklæring" = "Naboerklaering.md" },
+  ] },
+]
+
+extra_css = ["stylesheets/extra.css"]
+
+# ----------------------------------------------------------------------------
+[project.theme]
+
+# Keep the classic Material for MkDocs look and icon set (material/*) rather
+# than switching to Zensical's new "modern" default design.
+variant = "classic"
+language = "nb"
+
+features = [
+  "navigation.instant",
+  "navigation.tracking",
+  "navigation.top",
+  "toc.integrate",
+  "content.code.copy",
+  "content.tooltips",
+  "search.suggest",
+  "search.highlight",
+]
+
+# Palette toggle for automatic mode
+[[project.theme.palette]]
+media = "(prefers-color-scheme)"
+toggle.icon = "material/brightness-auto"
+toggle.name = "Følg systemets fargevalg"
+
+# Palette toggle for light mode
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+primary = "brown"
+accent = "brown"
+toggle.icon = "material/brightness-7"
+toggle.name = "Bytt til mørk modus"
+
+# Palette toggle for dark mode
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+primary = "brown"
+accent = "brown"
+toggle.icon = "material/brightness-4"
+toggle.name = "Bytt til lys modus"
+
+# ----------------------------------------------------------------------------
+# Markdown extensions
+# ----------------------------------------------------------------------------
+[project.markdown_extensions.tables]
+[project.markdown_extensions.toc]
+permalink = true
+[project.markdown_extensions.admonition]
+[project.markdown_extensions.pymdownx.details]
+[project.markdown_extensions.pymdownx.superfences]
+
+# Renders GitHub-style alerts (`> [!NOTE]`, `> [!TIP]`, `> [!IMPORTANT]`, ...)
+# natively as admonitions, so docs/*.md never need to be rewritten before
+# building.
+[project.markdown_extensions.pymdownx.quotes]
+callouts = true

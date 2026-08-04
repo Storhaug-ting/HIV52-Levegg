@@ -63,7 +63,7 @@ langs skråningsfoten på tvers av rekka. Alternativ 2 gir en sammenhengende pas
 boligene.
 
 Begge alternativene holder alle fire vegger innenfor 5,0 m. Hjemmelen i
-[SAK10 § 4-1](https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1) første ledd bokstav f nr. 2
+[SAK10 § 4-1](https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1 "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg") første ledd bokstav f nr. 2
 gjelder derfor uansett hvilket alternativ som velges, og det er ikke behov for noen minsteavstand
 til grensen mellom seksjonene.
 
@@ -71,8 +71,14 @@ til grensen mellom seksjonene.
 
 Leveggen utføres i **malmfuru med grå jernvitriolbehandling**, montert **stående**, slik at den
 leses som en forlengelse av huset og ikke som et tilført element. Materialet gråner likt med huset
-over tid, slik at fargeforskjellen som oppstår i starten jevner seg ut av seg selv. Tabellen viser
-utførelse og begrunnelse for hver del av konstruksjonen:
+over tid, slik at fargeforskjellen som oppstår i starten jevner seg ut av seg selv.
+
+> [!NOTAT]
+> Det styret i praksis tar stilling til er **kledningstype, lengde og at utførelsen er lik for alle
+> fire veggene** – ikke byggetekniske detaljer som stolpeavstand, svilltykkelse eller
+> fundamenteringsmetode.
+
+Tabellen viser utførelse og begrunnelse for hver del av konstruksjonen:
 
 | Del | Utførelse | Begrunnelse |
 |-----|-----------|-------------|
@@ -100,7 +106,7 @@ Fire kledningsalternativer er vurdert.
 ## 5. Rettslig grunnlag
 
 - Levegg med høyde inntil 1,8 m og lengde inntil 5,0 m er unntatt søknadsplikt og kan plasseres
-  inntil nabogrensen, jf. [SAK10 § 4-1](https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1)
+  inntil nabogrensen, jf. [SAK10 § 4-1](https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1 "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg")
   første ledd bokstav f nr. 2.
 - Det er **ingen meldeplikt** til kommunen for levegg. Meldeplikten gjelder bare bygninger og
   tilbygg etter bokstav a, b og c.
@@ -115,7 +121,7 @@ Fire kledningsalternativer er vurdert.
   full gjennomgang av begge planene.
 - Leveggene skal holde seg innenfor arealformålet **B1 boligbebyggelse** (reguleringsplanen), og
   ikke føres inn i vegetasjonsskjermen som løper langs østsiden av planområdet.
-- [Grannelova § 6](https://lovdata.no/lov/1961-06-16-15) krever at naboene varsles i rimelig tid på
+- [Grannelova § 6](https://lovdata.no/lov/1961-06-16-15 "LOV-1961-06-16-15 § 6 – plikt til å varsle nabo i rimelig tid før tiltak") krever at naboene varsles i rimelig tid på
   forhånd. Her ivaretas dette ved at alle eierne i rekka involveres i utformingen før arbeidet
   starter.
 - Utearealet er **fellesareal med enerett**, jf. sameiets vedtekter pkt. 2.4. Vedtektene pkt. 5.3
@@ -149,10 +155,19 @@ Forslaget legges fram for styret med følgende spørsmål:
 | Forhold | Løsning |
 |---------|---------|
 | Tidspunkt | Når partene til den enkelte veggen er tilgjengelige. Ingen frist foreslås, og veggene trenger ikke settes opp samtidig. |
-| Utførelse | Avtales mellom de to partene som deler den enkelte veggen |
+| Utførelse | Avtales mellom de to partene som deler den enkelte veggen – se alternativer nedenfor |
 | Kostnad | Bæres av de to partene til hver vegg og avtales direkte mellom dem. Tiltaket medfører ingen felleskostnader for sameiet. |
 | Vedlikehold | Følger samme prinsipp som kostnaden og skriftliggjøres i avtalen mellom partene |
 | Sameiets utgift | Ingen |
+
+### Gjennomføring – alternativer
+
+Hvem som utfører arbeidet avtales fritt mellom de to partene til hver vegg. Aktuelle alternativer:
+
+- **Dugnad** – partene bygger veggen selv.
+- **Geir Moen AS** – innhente tilbud fra Geir Moen AS.
+- **Andre** – forslagsstiller har god erfaring med BSS fra Ski fra et tidligere prosjekt. Andre tips
+  til entreprenør mottas med takk.
 
 Ettersom tiltaket ikke belaster fellesøkonomien, kommer vedtektene pkt. 7.10 om bomiljøtiltak med
 økonomiske konsekvenser for seksjonseierne i fellesskap ikke til anvendelse.

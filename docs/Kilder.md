@@ -9,11 +9,11 @@ Dokumentene i de øvrige filene i denne mappen viser hit, slik at det er én lis
 
 | Kilde | Referanse | Lenke |
 |-------|-----------|-------|
-| Byggesaksforskriften (SAK10) § 4-1 | FOR-2010-03-26-488 | <https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1> |
-| Plan- og bygningsloven (pbl) | LOV-2008-06-27-71 | <https://lovdata.no/lov/2008-06-27-71> |
-| Grannelova | LOV-1961-06-16-15 | <https://lovdata.no/lov/1961-06-16-15> |
-| Grannegjerdelova | LOV-1961-05-05 | <https://lovdata.no/lov/1961-05-05> |
-| Eierseksjonsloven | LOV-2017-06-16-65 | <https://lovdata.no/lov/2017-06-16-65> |
+| Byggesaksforskriften (SAK10) § 4-1 | FOR-2010-03-26-488 | [lovdata.no](https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1 "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg") |
+| Plan- og bygningsloven (pbl) | LOV-2008-06-27-71 | [lovdata.no](https://lovdata.no/lov/2008-06-27-71 "LOV-2008-06-27-71 – plan- og bygningsloven") |
+| Grannelova | LOV-1961-06-16-15 | [lovdata.no](https://lovdata.no/lov/1961-06-16-15 "LOV-1961-06-16-15 – lov om rettshøve mellom grannar") |
+| Grannegjerdelova | LOV-1961-05-05 | [lovdata.no](https://lovdata.no/lov/1961-05-05 "LOV-1961-05-05 – lov om grannegjerde") |
+| Eierseksjonsloven | LOV-2017-06-16-65 | [lovdata.no](https://lovdata.no/lov/2017-06-16-65 "LOV-2017-06-16-65 – eierseksjonsloven") |
 
 Bestemmelsene som er brukt aktivt:
 
