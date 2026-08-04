@@ -3,7 +3,7 @@
 
 ---
 
-Hei,
+Til byggesak og eindom i Indre Østfold kommune,
 
 Vi planlegger å sette opp fire levegger mellom boligene i rekka Helge Ingstads vei 50–58, 1820
 Spydeberg, på gnr. 411 bnr. 93. Vi har gått gjennom regelverket selv og ber om en bekreftelse på at
@@ -21,8 +21,8 @@ uteoppholdsarealene. Alle fem boligene ligger på samme matrikkelenhet, som er s
 | Lengde | 4,10 m, 5,00 m, 4,10 m og 5,00 m – alle innenfor 5,0 m |
 | Plassering | I grenselinjen mellom seksjonenes utearealer, østover fra østfasaden. Ikke mot vei eller avkjørsel |
 | Innbyrdes avstand | Veggene står vinkelrett ut fra husrekka, med et helt uteoppholdsareal mellom hver vegg. De berører ikke hverandre |
-| Materiale | Malmfuru med grå jernvitriolbehandling, stående kledning. Alternativ 3 og 4 har vekslende dobbelfals med rette kanter, ca. 5 mm synlig spalte og falsdybde lik halvparten av bordtykkelsen. Alternativ 1 og 2 har rette 23 × 48 mm bord med 10 mm spalte |
-| Konstruksjon | 48 × 98 mm CU-impregnert reisverk på dobbel bunnsvill fra grunnmur til avtalt lengde, betongfundament til frostfri dybde med ekstra betongmasse nederst, stående vekselvis kledning på begge sider (alternativ 2), dekkbord på toppen og luftespalte mot bakken |
+| Materiale | Malmfuru med grå jernvitriolbehandling, stående kledning. |
+| Konstruksjon | 48 × 98 mm CU-impregnert reisverk på dobbel bunnsvill fra grunnmur til avtalt lengde, betongfundament til frostfri dybde med ekstra betongmasse nederst, stående kledning på begge sider tilsvarende fasade, dekkbord på toppen og luftespalte mot bakken |
 
 ## Vår forståelse av regelverket
 
@@ -75,18 +75,6 @@ gnr. 411 bnr. 93 snr. 7, Indre Østfold kommune
 
 ---
 
-## Referanser
-
-| Hva | Hvor |
-|-----|------|
-| Designgrunnlag med målsatte tegninger | <https://github.com/Storhaug-ting/HIV52/tree/main/Levegger> |
-| Byggesaksforskriften (SAK10) § 4-1 | <https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1> |
-| DiBK – veiledning til SAK10 § 4-1 | <https://www.dibk.no/regelverk/sak/2/4/4-1/> |
-| Plan- og bygningsloven | <https://lovdata.no/lov/2008-06-27-71> |
-| Kommuneplanens arealdel Indre Østfold 2024–2035, planID 3014202101 | <https://www.io.kommune.no/_f/p1/ie996e6bc-1ff3-474d-9de9-9be78491ada1/02-planbestemmelser-og-retningslinjer-06022024.pdf> |
-| Reguleringsplan «Griniskogen nordvest», planID 3014_012320120011 | <https://www.arealplaner.no/indreostfold3118/arealplaner/> |
-| Matrikkelenhet 3118-411/93 | <https://eiendomsregisteret.kartverket.no/eiendom/3118/411/93/0/> |
-
-[sak10]: https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1
-[dibk]: https://www.dibk.no/regelverk/sak/2/4/4-1/
+[sak10]: https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1 "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg"
+[dibk]: https://www.dibk.no/regelverk/sak/2/4/4-1/ "DiBK – veiledning til SAK10 § 4-1"
 [kpa]: https://www.io.kommune.no/_f/p1/ie996e6bc-1ff3-474d-9de9-9be78491ada1/02-planbestemmelser-og-retningslinjer-06022024.pdf

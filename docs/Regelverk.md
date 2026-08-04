@@ -10,7 +10,7 @@ uten videre bearbeiding.
 ## 1. Hovedregelen: levegg er unntatt søknadsplikt
 
 Levegg er uttrykkelig unntatt fra byggesaksbehandling i
-[byggesaksforskriften (SAK10) § 4-1](https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1) første
+[byggesaksforskriften (SAK10) § 4-1](https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1 "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg") første
 ledd bokstav f. Bestemmelsen har to alternativer:
 
 > **§ 4-1 første ledd bokstav f nr. 1**
@@ -39,7 +39,7 @@ bygning, tilbygg og driftsbygning. Levegg står i bokstav f og skal derfor **ikk
 kommunen.
 
 Bestemmelsen er ikke endret for leveggens del siden den fikk sin nåværende ordlyd i
-[FOR-2015-03-08-206](https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1), i kraft 1. juli 2015.
+[FOR-2015-03-08-206](https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1 "Endringsforskrift til SAK10 § 4-1, i kraft 1. juli 2015"), i kraft 1. juli 2015.
 
 ### Konsekvens for de to alternativene
 
@@ -59,7 +59,7 @@ Unntaket fra søknadsplikt er betinget. Innledningen til § 4-1 første ledd er 
 > byggesaksbehandling, dersom tiltaket **ikke er i strid med lovens bestemmelser med tilhørende
 > forskrifter, kommuneplanens arealdel og reguleringsplan, tillatelser eller annet regelverk**»
 
-[Direktoratet for byggkvalitets oversikt «Bygg mer uten å søke»](https://www.dibk.no/bygge-eller-endre/bygg-mer-uten-a-soke)
+[Direktoratet for byggkvalitets oversikt «Bygg mer uten å søke»](https://www.dibk.no/bygge-eller-endre/bygg-mer-uten-a-soke "DiBK – oversikt over tiltak som er unntatt søknadsplikt")
 understreker samme kontrollpunkt: Tiltak uten søknad må ikke stride mot gjeldende arealplan, og
 kommunen bør kontaktes for å avklare lokale planbestemmelser før planleggingen starter.
 
@@ -68,12 +68,12 @@ Følgende gjelder derfor uansett:
 | Forhold | Hva det innebærer |
 |---------|-------------------|
 | Reguleringsplan og kommuneplan | Strider leveggen mot planbestemmelser, er den ikke unntatt søknadsplikt. Må sjekkes for Griniskogen Vest. |
-| Materielle krav | Etter [pbl. § 30-4](https://lovdata.no/lov/2008-06-27-71) gjelder lovens materielle regler «så langt de passer», selv uten søknad. |
-| Estetikk | [pbl. § 29-1 og § 29-2](https://lovdata.no/lov/2008-06-27-71) krever at tiltaket har gode visuelle kvaliteter og ikke virker skjemmende. Lik materialbruk som husets kledning taler klart i favør av forslaget. |
+| Materielle krav | Etter [pbl. § 30-4](https://lovdata.no/lov/2008-06-27-71 "Plan- og bygningsloven § 30-4 – materielle krav gjelder også for tiltak unntatt søknadsplikt") gjelder lovens materielle regler «så langt de passer», selv uten søknad. |
+| Estetikk | [pbl. § 29-1 og § 29-2](https://lovdata.no/lov/2008-06-27-71 "Plan- og bygningsloven §§ 29-1 og 29-2 – visuelle kvaliteter og krav til byggverkets utforming") krever at tiltaket har gode visuelle kvaliteter og ikke virker skjemmende. Lik materialbruk som husets kledning taler klart i favør av forslaget. |
 | Tiltakshavers ansvar | § 4-1 andre ledd: «Tiltakshaver har ansvar for at tiltaket utføres i samsvar med vilkårene i første ledd.» Kommunen kontrollerer ikke på forhånd. |
-| Frisikt mot vei | § 4-1 tredje ledd: for tiltak etter bokstav f må plasseringen ikke stride mot [veglovas](https://lovdata.no/lov/1963-06-21-23) regler om avkjøring, frisiktsoner og avstand til veimidte. Leveggene planlegges på hagesiden, ikke mot vei. |
-| Tilsyn | Kommunen kan føre tilsyn og kreve fjerning etter [pbl. § 32-3](https://lovdata.no/lov/2008-06-27-71). |
-| Brann | [DiBKs veiledning til TEK17 § 11-6](https://www.dibk.no/regelverk/sak/2/4/4-1/) regner brennbare konstruksjoner over 0,5 m over terreng – terrasser og levegger – som en del av byggverket ved vurdering av brannspredning. |
+| Frisikt mot vei | § 4-1 tredje ledd: for tiltak etter bokstav f må plasseringen ikke stride mot [veglovas](https://lovdata.no/lov/1963-06-21-23 "Vegloven – regler om avkjøring, frisiktsoner og avstand til veimidte") regler om avkjøring, frisiktsoner og avstand til veimidte. Leveggene planlegges på hagesiden, ikke mot vei. |
+| Tilsyn | Kommunen kan føre tilsyn og kreve fjerning etter [pbl. § 32-3](https://lovdata.no/lov/2008-06-27-71 "Plan- og bygningsloven § 32-3 – kommunens adgang til å kreve retting eller fjerning"). |
+| Brann | [DiBKs veiledning til TEK17 § 11-6](https://www.dibk.no/regelverk/sak/2/4/4-1/ "DiBK – veiledning om brannkrav til levegger og terrasser over 0,5 m") regner brennbare konstruksjoner over 0,5 m over terreng – terrasser og levegger – som en del av byggverket ved vurdering av brannspredning. |
 | Flere tiltak sett samlet | DiBK: «Mange mindre tiltak som utgjør en større helhet må ses samlet og kan være søknadspliktig.» Se punkt 2.1. |
 
 ### 2.1 Fire levegger på samme matrikkelenhet
@@ -96,7 +96,7 @@ Vurderingen her er at de fire veggene **ikke** utgjør en større helhet i beste
 Konklusjonen er ikke opplagt, og spørsmålet er derfor stilt uttrykkelig til kommunen i
 [`Mail/2026-08-02-Kommunen-planstatus.md`](Mail/2026-08-02-Kommunen-planstatus.md). Det er langt
 bedre å få dette bekreftet på forhånd enn å få et pålegg om fjerning etter
-[pbl. § 32-3](https://lovdata.no/lov/2008-06-27-71) i ettertid.
+[pbl. § 32-3](https://lovdata.no/lov/2008-06-27-71 "Plan- og bygningsloven § 32-3 – kommunens adgang til å kreve retting eller fjerning") i ettertid.
 
 ## 3. Levegg eller gjerde
 
@@ -107,7 +107,7 @@ Skillet har praktisk betydning fordi høydegrensene er ulike.
 | Formål | Skjerming av uteoppholdsareal mot innsyn og vind | Innhegning og avgrensning |
 | Typisk utforming | Tett skjerm, tilknyttet terrasse eller uteplass | Lavere, ofte åpen konstruksjon |
 | Høyde uten søknad | Inntil 1,8 m, jf. SAK10 § 4-1 f nr. 1 og 2 | Inntil 1,5 m mot vei etter SAK10 § 4-1 f nr. 3. Kommuneplanens arealdel kan sette en lavere grense, og mange kommuner opererer med 1,2 m |
-| Regelsett mot nabo | Grannelova | [Grannegjerdelova](https://lovdata.no/lov/1961-05-05) i tillegg |
+| Regelsett mot nabo | Grannelova | [Grannegjerdelova](https://lovdata.no/lov/1961-05-05 "Lov om grannegjerde – regulerer gjerde i grenselinjen") i tillegg |
 
 > [!IMPORTANT]
 > Konstruksjonen er en levegg fordi formålet er skjerming av uteoppholdsarealet, den er tilknyttet
@@ -117,7 +117,7 @@ Skillet har praktisk betydning fordi høydegrensene er ulike.
 
 ## 4. Grannelova
 
-[Grannelova av 16. juni 1961 nr. 15](https://lovdata.no/lov/1961-06-16-15) gjelder uavhengig av om
+[Grannelova av 16. juni 1961 nr. 15](https://lovdata.no/lov/1961-06-16-15 "LOV-1961-06-16-15 – lov om rettshøve mellom grannar") gjelder uavhengig av om
 tiltaket er søknadspliktig. Den er privatrettslig og regulerer forholdet mellom naboene.
 
 > **§ 2 første ledd**
@@ -148,7 +148,7 @@ begge naboene involveres i utformingen før noe settes opp.
 
 ## 5. Grannegjerdelova
 
-[Lov om grannegjerde av 5. mai 1961](https://lovdata.no/lov/1961-05-05) regulerer gjerde i
+[Lov om grannegjerde av 5. mai 1961](https://lovdata.no/lov/1961-05-05 "LOV-1961-05-05 – lov om grannegjerde") regulerer gjerde i
 grenselinjen, ikke levegger. Loven er likevel relevant dersom veggen plasseres i grenselinjen og
 begge naboer anser den som felles.
 
@@ -189,7 +189,7 @@ Vedtektene pkt. 5.3:
 > styret.»
 
 Vedtektene pkt. 7.9 gjentar
-[eierseksjonsloven § 49](https://lovdata.no/lov/2017-06-16-65) bokstav a:
+[eierseksjonsloven § 49](https://lovdata.no/lov/2017-06-16-65 "Eierseksjonsloven § 49 – flertallskrav for endringer av bebyggelsen eller tomten") bokstav a:
 
 > «Det kreves et flertall på minst to tredjedeler av de avgitte stemmene på årsmøtet for å ta
 > beslutning om a) ombygging, påbygging eller andre endringer av bebyggelsen eller tomten som går
@@ -249,7 +249,7 @@ er lagt opp:
 | Kan seksjonseier sette opp leveggen på egen hånd? | Nei. Arealet er fellesareal med enerett, vedtektene pkt. 5.3 krever forutgående godkjenning av styret, og trivsels- og ordensreglene pkt. 3 krever skriftlig søknad. |
 | Holder et styrevedtak? | Sannsynligvis, dersom styret anser leveggen som innenfor vanlig forvaltning av arealet. Vurderingen tilligger styret. |
 | Når må saken til årsmøtet? | Dersom styret mener leveggene er en «endring av bebyggelsen eller tomten som går ut over vanlig forvaltning», kreves 2/3 flertall på årsmøtet, jf. vedtektene pkt. 7.9 bokstav a og eierseksjonsloven § 49. |
-| Kreves enstemmighet? | [Eierseksjonsloven § 51](https://lovdata.no/lov/2017-06-16-65) krever enighet fra alle bare ved tiltak som vesentlig endrer sameiets karakter. To levegger i samme materiale som husene ligger klart under den terskelen. |
+| Kreves enstemmighet? | [Eierseksjonsloven § 51](https://lovdata.no/lov/2017-06-16-65 "Eierseksjonsloven § 51 – tiltak som krever enighet fra alle seksjonseiere") krever enighet fra alle bare ved tiltak som vesentlig endrer sameiets karakter. To levegger i samme materiale som husene ligger klart under den terskelen. |
 | Hvem betaler? | Naboene som deler veggen. Tiltaket forutsetter ingen felleskostnader, noe som holder saken utenfor vedtektene pkt. 7.10 om bomiljøtiltak. |
 
 > [!TIP]
@@ -265,8 +265,8 @@ Postadressen for sameiet er Helge Ingstads vei 38–58, 1820 Spydeberg.
 ### 7.1 Kommunen har ingen egne regler om levegg
 
 Indre Østfold kommune har ingen egen veileder om søknadsfrie tiltak. Kommunens side
-[Skal du bygge, rive eller endre?](https://www.io.kommune.no/tjenester/byggesak-og-eiendom/skal-du-bygge-rive-eller-endre/)
-viser videre til [Direktoratet for byggkvalitet](https://www.dibk.no/regelverk/sak/2/4/4-1/). Det
+[Skal du bygge, rive eller endre?](https://www.io.kommune.no/tjenester/byggesak-og-eiendom/skal-du-bygge-rive-eller-endre/ "Indre Østfold kommune – informasjon om søknadsfrie byggetiltak")
+viser videre til [Direktoratet for byggkvalitet](https://www.dibk.no/regelverk/sak/2/4/4-1/ "DiBK – veiledning til SAK10 § 4-1" "DiBK – veiledning til SAK10 § 4-1"). Det
 er altså SAK10 § 4-1 som gjelder direkte, uten lokale innstramminger på kommunens nettsider.
 
 ### 7.2 Kommuneplanens arealdel 2024–2035
@@ -402,13 +402,13 @@ Ferdig e-postutkast ligger i
 
 | Kilde | Lenke |
 |-------|-------|
-| Byggesaksforskriften (SAK10) § 4-1 | <https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1> |
-| DiBK – veiledning til SAK10 § 4-1 | <https://www.dibk.no/regelverk/sak/2/4/4-1/> |
-| DiBK – Bygg mer uten å søke | <https://www.dibk.no/bygge-eller-endre/bygg-mer-uten-a-soke> |
-| Plan- og bygningsloven | <https://lovdata.no/lov/2008-06-27-71> |
-| Grannelova | <https://lovdata.no/lov/1961-06-16-15> |
-| Grannegjerdelova | <https://lovdata.no/lov/1961-05-05> |
-| Eierseksjonsloven | <https://lovdata.no/lov/2017-06-16-65> |
+| Byggesaksforskriften (SAK10) § 4-1 | [lovdata.no](https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1 "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg") |
+| DiBK – veiledning til SAK10 § 4-1 | [dibk.no](https://www.dibk.no/regelverk/sak/2/4/4-1/ "DiBK – veiledning til SAK10 § 4-1") |
+| DiBK – Bygg mer uten å søke | [dibk.no](https://www.dibk.no/bygge-eller-endre/bygg-mer-uten-a-soke "DiBK – oversikt over tiltak som er unntatt søknadsplikt") |
+| Plan- og bygningsloven | [lovdata.no](https://lovdata.no/lov/2008-06-27-71 "LOV-2008-06-27-71 – plan- og bygningsloven") |
+| Grannelova | [lovdata.no](https://lovdata.no/lov/1961-06-16-15 "LOV-1961-06-16-15 – lov om rettshøve mellom grannar") |
+| Grannegjerdelova | [lovdata.no](https://lovdata.no/lov/1961-05-05 "LOV-1961-05-05 – lov om grannegjerde") |
+| Eierseksjonsloven | [lovdata.no](https://lovdata.no/lov/2017-06-16-65 "LOV-2017-06-16-65 – eierseksjonsloven") |
 | Indre Østfold kommune – Skal du bygge, rive eller endre? | <https://www.io.kommune.no/tjenester/byggesak-og-eiendom/skal-du-bygge-rive-eller-endre/> |
 | Kommuneplanens arealdel for Indre Østfold 2024–2035, planbestemmelser (PlanID 3014202101) | <https://www.io.kommune.no/_f/p1/ie996e6bc-1ff3-474d-9de9-9be78491ada1/02-planbestemmelser-og-retningslinjer-06022024.pdf> |
 | Indre Østfold kommunes planregister | <https://www.arealplaner.no/indreostfold3118/arealplaner/> |
