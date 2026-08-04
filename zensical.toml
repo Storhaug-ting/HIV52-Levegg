@@ -41,8 +41,8 @@ language = "nb"
 
 features = [
   "navigation.instant",
+  "navigation.instant.prefetch",
   "navigation.tracking",
-  "navigation.top",
   "toc.integrate",
   "content.code.copy",
   "content.tooltips",

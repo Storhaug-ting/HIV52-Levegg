@@ -1,4 +1,4 @@
-# Løsningsbeskrivelse
+# Designforslag
 
 Forslaget er å sette opp levegger i samme stil som den øvrige fasaden.
 **Malmfuru med grå jernvitriolbehandling**, montert stående med rette bordkanter.
@@ -11,8 +11,6 @@ Veggene kan settes opp uavhengig av hverandre og i den takten partene blir enige
 mer enn 1 år etter at naboerklæringen er signert for å ivareta målet med ordensreglene.
 Det er derfor ønskelig å få enighet om utformingen én gang slik at godkjenningen vi søker gjelder
 alle vegger. Kostnadene avtales direkte mellom de to som deler veggen.
-
-## Utforming
 
 To alternative utstrekninger legges fram. Alternativene skiller seg kun i **hvor langt ut leveggen føres**.
 Materialbruk, høyde, konstruksjon og utførelse er identisk, og samme alternativ bør velges for hele
@@ -103,7 +101,7 @@ Fire kledningsalternativer er vurdert.
 
 ![Kledningssnitt – horisontalsnitt](Tegninger/Kledningssnitt.svg)
 
-## 5. Rettslig grunnlag
+## Rettslig grunnlag
 
 - Levegg med høyde inntil 1,8 m og lengde inntil 5,0 m er unntatt søknadsplikt og kan plasseres
   inntil nabogrensen, jf. [SAK10 § 4-1](https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1 "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg")
@@ -150,7 +148,7 @@ Forslaget legges fram for styret med følgende spørsmål:
 > dette får betydning for behandlingen, slik at spørsmålet er avklart før vedtak fattes framfor i
 > ettertid.
 
-## 7. Gjennomføring og økonomi
+## Gjennomføring og økonomi
 
 | Forhold | Løsning |
 |---------|---------|
@@ -177,7 +175,7 @@ Ettersom tiltaket ikke belaster fellesøkonomien, kommer vedtektene pkt. 7.10 om
 > partene er enige. En kort skriftlig avtale koster ingenting nå og forebygger uenighet ved senere
 > eierskifte – noe som er særlig aktuelt for vegg C og D, der seksjon 9 skal selges.
 
-## 8. Det som gjenstår
+## Det som gjenstår
 
 Følgende må avklares før forslaget kan gjennomføres. Fullstendig liste med status ligger i
 [`Avklaringer.md`](Avklaringer.md).
@@ -194,17 +192,3 @@ Følgende må avklares før forslaget kan gjennomføres. Fullstendig liste med s
 - Det må kontrolleres at det ikke ligger kabler, rør eller drenering i fundamentlinjene.
 - Eierne i rekka må gi sin tilslutning til alternativ og utførelse, og signere naboerklæringen for
   den veggen de er part i. For seksjon 9 gjelder dette Trekanten AS inntil boligen er solgt.
-
-## Vedlegg
-
-| Tegning | Innhold |
-|---------|---------|
-| [`Tegninger/Plan-Alternativ-1.svg`](Tegninger/Plan-Alternativ-1.svg) | Planskisse, alternativ 1 |
-| [`Tegninger/Plan-Alternativ-2.svg`](Tegninger/Plan-Alternativ-2.svg) | Planskisse, alternativ 2 |
-| [`Tegninger/Oppriss.svg`](Tegninger/Oppriss.svg) | Oppriss med målsetting |
-| [`Tegninger/Kledningssnitt.svg`](Tegninger/Kledningssnitt.svg) | Horisontalsnitt – rette bordkanter i alternativ 1 og 2, vekslende dobbelfals i 3 og 4 |
-| [`Byggeteknikk.md`](Byggeteknikk.md) | Teknisk grunnlag med SINTEF-referanser: vindskjerming, konstruksjon, fundamentering, trebeskyttelse |
-| [`Regelverk.md`](Regelverk.md) | Rettslig grunnlag med kilder |
-| [`Kilder.md`](Kilder.md) | Samlet kildeliste med lenker |
-| [`Naboerklaering.md`](Naboerklaering.md) | Mal for skriftlig samtykke fra berørte naboer |
-| [`Avklaringer.md`](Avklaringer.md) | Åpne punkter og målebehov |
