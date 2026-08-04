@@ -1,12 +1,10 @@
-# Levegger – rekka Helge Ingstads vei 50–58
+# Levegger – Helge Ingstads vei 50–58
 
 Uteoppholdsarealene mellom de fem boligene i rekka er i dag helt uskjermet.
 Uteplassene ligger rett ved siden av hverandre på østsiden av husene, uten noen form for skille.
 Innsynet er fritt begge veier, og bruken av egen uteplass foregår i praksis i naboens synsfelt. Det
-begrenser bruken av arealene mer enn nødvendig – for alle parter, i begge retninger. Rekka ligger
-dessuten åpent til, og uteplassene er utsatt for vind.
+begrenser bruken av arealene mer enn nødvendig – for alle parter, i begge retninger.
 
-Behovet for skjerming er felles, men initiativet kommer naturlig fra én seksjon om gangen.
 Settes det opp én vegg nå, én om to år og én om fem, ender rekka lett opp med fire ulike løsninger
 i samme fasadeflate. Sameiets trivsels- og ordensregler punkt 3 sier at «det bør tilstrebes å finne
 felles løsninger for å opprettholde et enhetlig og moderne uttrykk på boenhetene», og vedtektene
@@ -14,14 +12,14 @@ punkt 5.3 forutsetter at utvendige endringer skjer etter «en samlet plan». Der
 som ett ferdig designgrunnlag for alle fire skillene, slik at styret kan ta stilling til utformingen
 én gang – og den enkelte veggen kan settes opp når det passer for de to som deler den.
 
-Sameiets regler krever skriftlig søknad til styret med beskrivelse og tegninger, tekniske
+Sameiets ordensregler punkt 3 krever skriftlig søknad til styret med beskrivelse og tegninger, tekniske
 undersøkelser bekostet av søker, og **skriftlig samtykke fra berørte naboer**. Selve tiltaket er
-unntatt søknadsplikt etter SAK10 § 4-1 så lenge veggen er inntil 1,8 m høy og inntil 5,0 m lang fra
-husvegg. Det som gjenstår er derfor ikke det offentlige regelverket, men enigheten internt
-i rekka: felles utforming og valg av lengdealternativ.
+unntatt søknadsplikt etter [SAK10 § 4-1 f 2](https://lovdata.no/forskrift/2010-03-26-488/§4-1) så lenge
+veggen er inntil 1,8 m høy og inntil 5,0 m lang fra husvegg. Det som gjenstår er derfor ikke det
+offentlige regelverket, men enigheten internt i rekka: felles utforming og valg av lengdealternativ.
 
-Sameiet kan ikke belastes noen kostnader. Kostnadene avtales direkte mellom de to eierne som deler
-hver vegg.
+Sameiet kan ikke belastes noen kostnader. Kostnadene avtales direkte mellom eierne som deler
+hver vegg. Det samme gjelder framtidig vedlikehold og evt reparasjoner.
 
 ## Rekka og de fire veggene
 
@@ -33,7 +31,7 @@ Rekka går nord–sør, uteoppholdsarealene ligger på østsiden, og leveggene g
 
 Forslaget omfatter fire vegger:
 
-| Vegg | Mellom | Seksjoner | A (målt) | Parter |
+| Vegg | Mellom | Seksjoner | Avstand | Parter |
 |------|--------|-----------|----------|--------|
 | A | HIV 50 og HIV 52 | 6 og 7 | 4,10 m | Nessestrand · Storhaug |
 | B | HIV 52 og HIV 54 | 7 og 8 | 5,30 m | Storhaug · Wilhelmsen/Hagen |

@@ -42,11 +42,9 @@ theme:
 nav:
   - Oversikt: index.md
   - Designbeskrivelse: Designbeskrivelse.md
-  - Byggeteknikk: Byggeteknikk.md
   - Regelverk: Regelverk.md
   - Kilder: Kilder.md
   - Naboerklæring: Naboerklaering.md
-  - Avklaringer: Avklaringer.md
 
 extra_css:
   - stylesheets/extra.css

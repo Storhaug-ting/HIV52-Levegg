@@ -7,8 +7,10 @@ Slik fremstår leveggene som en forlengelse av byggets arkitektur.
 Skråningen følger ikke rekka parallelt. Avstanden varierer med 1,20 m mellom det korteste og
 det lengste snittet, og det kan gi ulik lengde på veggene avhengig av alternativet vi går for.
 
-Veggene kan settes opp uavhengig av hverandre og i den takten partene blir enige om.
-Godkjenningen vi søker gjelder utformingen. Kostnadene avtales direkte mellom de to som deler veggen.
+Veggene kan settes opp uavhengig av hverandre og i den takten partene blir enige om, men likevel ikke
+mer enn 1 år etter at naboerklæringen er signert for å ivareta målet med ordensreglene.
+Det er derfor ønskelig å få enighet om utformingen én gang slik at godkjenningen vi søker gjelder
+alle vegger. Kostnadene avtales direkte mellom de to som deler veggen.
 
 ## Utforming
 
@@ -135,7 +137,7 @@ Forslaget legges fram for styret med følgende spørsmål:
    skal dette deles mellom de som deler på veggen. Styret bes vurdere om dette er tilstrekkelig, eller om det bør
    inngås en egen skriftlig avtale mellom partene for hver vegg.
 
-> [!NOTE]
+> [!NOTAT]
 > Trekanten AS er part i vegg C og vegg D som hjemmelshaver til seksjon 9, og er samtidig utbygger
 > og representert i styret. Styret har selv pekt på at utbygger kan være inhabil i enkelte saker på
 > grunn av dobbeltrollen, jf. styremøtereferat 10. juni 2026. Forslagsstiller ber styret vurdere om
@@ -155,7 +157,7 @@ Forslaget legges fram for styret med følgende spørsmål:
 Ettersom tiltaket ikke belaster fellesøkonomien, kommer vedtektene pkt. 7.10 om bomiljøtiltak med
 økonomiske konsekvenser for seksjonseierne i fellesskap ikke til anvendelse.
 
-> [!TIP]
+> [!NOTAT]
 > Kostnads- og vedlikeholdsdelingen bør skriftliggjøres for hver vegg før arbeidet starter, selv om
 > partene er enige. En kort skriftlig avtale koster ingenting nå og forebygger uenighet ved senere
 > eierskifte – noe som er særlig aktuelt for vegg C og D, der seksjon 9 skal selges.
