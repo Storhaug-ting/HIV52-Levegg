@@ -47,7 +47,7 @@ inn i planskissene.
 
 > [!NOTE]
 > Forskyvningene bygger på observasjon på stedet, sammenholdt med
-> [situasjonsplanen for 411/93](../Salgsdokumenter/Kontraktsvedlegg/411-93%20Situasjonsplan.pdf) og
+> [situasjonsplanen for 411/93](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/411-93%20Situasjonsplan.pdf) og
 > flyfoto. Den samlede forskyvningen på 5,6 m er godt underbygget, mens fordelingen mellom de to
 > trinnene er anslått. Begge trinnene bør kontrollmåles med målebånd før tegningene brukes som
 > arbeidsgrunnlag. Se [`Avklaringer.md`](Avklaringer.md) punkt 1.10.

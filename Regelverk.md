@@ -313,9 +313,9 @@ nord»**, som ligger i repoet blant kontraktsvedleggene.
 | Plantype | Detaljregulering, jf. pbl. §§ 12-3 og 12-14 |
 | Vedtatt | 17.06.2014. Forenklet reguleringsendring vedtatt 06.07.2021 |
 | Plankart | Datert 26.08.2019, sist revidert 13.04.2021 |
-| Bestemmelser | [`Salgsdokumenter/Kontraktsvedlegg/012320120011 Bestemmelser endring_20210702.pdf`](../Salgsdokumenter/Kontraktsvedlegg/012320120011%20Bestemmelser%20endring_20210702.pdf) |
-| Plankart | [`Salgsdokumenter/Kontraktsvedlegg/Reguleringsplankart_A4S_05.05.2023_11.49.pdf`](../Salgsdokumenter/Kontraktsvedlegg/Reguleringsplankart_A4S_05.05.2023_11.49.pdf) |
-| Planstatus for eiendommen | [`Salgsdokumenter/Kontraktsvedlegg/PlanRapport_Helge_Ingstads_vei_32_1820_SPYDEBERG_1683280116.pdf`](../Salgsdokumenter/Kontraktsvedlegg/PlanRapport_Helge_Ingstads_vei_32_1820_SPYDEBERG_1683280116.pdf) |
+| Bestemmelser | [`Salgsdokumenter/Kontraktsvedlegg/012320120011 Bestemmelser endring_20210702.pdf`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/012320120011%20Bestemmelser%20endring_20210702.pdf) |
+| Plankart | [`Salgsdokumenter/Kontraktsvedlegg/Reguleringsplankart_A4S_05.05.2023_11.49.pdf`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/Reguleringsplankart_A4S_05.05.2023_11.49.pdf) |
+| Planstatus for eiendommen | [`Salgsdokumenter/Kontraktsvedlegg/PlanRapport_Helge_Ingstads_vei_32_1820_SPYDEBERG_1683280116.pdf`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/PlanRapport_Helge_Ingstads_vei_32_1820_SPYDEBERG_1683280116.pdf) |
 
 #### Arealformål på eiendommen
 
@@ -412,10 +412,10 @@ Ferdig e-postutkast ligger i
 | Indre Østfold kommune – Skal du bygge, rive eller endre? | <https://www.io.kommune.no/tjenester/byggesak-og-eiendom/skal-du-bygge-rive-eller-endre/> |
 | Kommuneplanens arealdel for Indre Østfold 2024–2035, planbestemmelser (PlanID 3014202101) | <https://www.io.kommune.no/_f/p1/ie996e6bc-1ff3-474d-9de9-9be78491ada1/02-planbestemmelser-og-retningslinjer-06022024.pdf> |
 | Indre Østfold kommunes planregister | <https://www.arealplaner.no/indreostfold3118/arealplaner/> |
-| Reguleringsplan «Griniskogen nordvest – Spydeberg sentrum nord», PlanID 3014_012320120011, bestemmelser | [`Salgsdokumenter/Kontraktsvedlegg/`](../Salgsdokumenter/Kontraktsvedlegg/012320120011%20Bestemmelser%20endring_20210702.pdf) |
-| Reguleringsplankart for gnr. 411 bnr. 93 | [`Salgsdokumenter/Kontraktsvedlegg/`](../Salgsdokumenter/Kontraktsvedlegg/Reguleringsplankart_A4S_05.05.2023_11.49.pdf) |
-| Situasjonsplan 411/93 | [`Salgsdokumenter/Kontraktsvedlegg/`](../Salgsdokumenter/Kontraktsvedlegg/411-93%20Situasjonsplan.pdf) |
-| Planrapport for eiendommen, 05.05.2023 | [`Salgsdokumenter/Kontraktsvedlegg/`](../Salgsdokumenter/Kontraktsvedlegg/PlanRapport_Helge_Ingstads_vei_32_1820_SPYDEBERG_1683280116.pdf) |
+| Reguleringsplan «Griniskogen nordvest – Spydeberg sentrum nord», PlanID 3014_012320120011, bestemmelser | [`Salgsdokumenter/Kontraktsvedlegg/`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/012320120011%20Bestemmelser%20endring_20210702.pdf) |
+| Reguleringsplankart for gnr. 411 bnr. 93 | [`Salgsdokumenter/Kontraktsvedlegg/`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/Reguleringsplankart_A4S_05.05.2023_11.49.pdf) |
+| Situasjonsplan 411/93 | [`Salgsdokumenter/Kontraktsvedlegg/`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/411-93%20Situasjonsplan.pdf) |
+| Planrapport for eiendommen, 05.05.2023 | [`Salgsdokumenter/Kontraktsvedlegg/`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/PlanRapport_Helge_Ingstads_vei_32_1820_SPYDEBERG_1683280116.pdf) |
 | Vedtekter for Boligsameiet Griniskogen Vest, revidert 07.05.2026 | [Storhaug-ting/GriniskogenVest](https://github.com/Storhaug-ting/GriniskogenVest/blob/main/Vedtekter/2026-05-07/Revidert%20Vedtekter%2007.05.2026.md) |
 | Trivsels- og ordensregler for Boligsameiet Griniskogen Vest, 09.09.2025 | [Storhaug-ting/GriniskogenVest](https://github.com/Storhaug-ting/GriniskogenVest/blob/main/Trivsels%20og%20ordensregler/2025-09-09/Trivsels%20og%20ordensregler.md) |
 | Medlemsoversikt og styresammensetning | [Storhaug-ting/GriniskogenVest](https://github.com/Storhaug-ting/GriniskogenVest/blob/main/Medlemmer.md) |
