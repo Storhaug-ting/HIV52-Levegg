@@ -3,6 +3,35 @@
 Designgrunnlag for levegger mellom boligene i rekka HIV 50–58 (hus B, seksjon 6–10), til behandling
 i styret for Boligsameiet Griniskogen Vest.
 
+## Hvorfor denne saken
+
+**Problemet.** Uteoppholdsarealene mellom de fem boligene i rekka er i dag helt uskjermet.
+Uteplassene ligger rett ved siden av hverandre på østsiden av husene, uten noen form for skille.
+Innsynet er fritt begge veier, og bruken av egen uteplass foregår i praksis i naboens synsfelt. Det
+begrenser bruken av arealene mer enn nødvendig – for alle parter, i begge retninger. Rekka ligger
+dessuten åpent til, og uteplassene er utsatt for vind.
+
+**Hvorfor nå, og hvorfor for hele rekka.** Behovet for skjerming er felles, men initiativet kommer
+naturlig fra én seksjon om gangen. Settes det opp én vegg nå, én om to år og én om fem, ender rekka
+lett opp med fire ulike løsninger i samme fasadeflate. Sameiets trivsels- og ordensregler punkt 3
+sier at «det bør tilstrebes å finne felles løsninger for å opprettholde et enhetlig og moderne
+uttrykk på boenhetene», og vedtektene punkt 5.3 forutsetter at utvendige endringer skjer etter «en
+samlet plan». Derfor legges saken fram som ett ferdig designgrunnlag for alle fire skillene, slik at
+styret kan ta stilling til utformingen én gang – og den enkelte veggen kan settes opp når det passer
+for de to som deler den.
+
+**Hva som må avklares.** Sameiets regler krever skriftlig søknad til styret med beskrivelse og
+tegninger, tekniske undersøkelser bekostet av søker, og **skriftlig samtykke fra berørte naboer**.
+Selve tiltaket er unntatt søknadsplikt etter SAK10 § 4-1 så lenge veggen er inntil 1,8 m høy og
+inntil 5,0 m lang. Det som gjenstår er derfor ikke det offentlige regelverket, men enigheten internt
+i rekka: felles utforming, valg av lengdealternativ og signerte naboerklæringer.
+
+**Hva saken ikke er.** Tiltaket endrer ikke rekkas utvendige inntrykk sett fra vei eller
+fellesareal, det berører ikke bærende konstruksjoner, og sameiet belastes ingen kostnader.
+Kostnadene avtales direkte mellom de to eierne som deler hver vegg.
+
+## Rekka og de fire veggene
+
 ![Måleplan – avstander fra hus til skråningsfot](Tegninger/Plan-Maaling-Skraaning.svg)
 
 *Måleplan uten foreslåtte levegger. Stiplede målelinjer viser de oppmålte avstandene fra yttervegg
@@ -59,11 +88,11 @@ Filnavn følger mønsteret `ÅÅÅÅ-MM-DD-Mottaker-emne.md`.
 | [`Mail/2026-08-02-Styret-soknad-om-godkjenning.md`](Mail/2026-08-02-Styret-soknad-om-godkjenning.md) | Styret i Boligsameiet Griniskogen Vest | Utkast |
 | [`Mail/2026-08-02-Kommunen-planstatus.md`](Mail/2026-08-02-Kommunen-planstatus.md) | Byggesak, Indre Østfold kommune | Utkast |
 
-## Kort om saken
+## Kort om løsningen
 
 Utearealene er fellesareal med enerett for den enkelte seksjonen i inntil 30 år, jf. sameiets
-vedtekter pkt. 2.4. Uteplassene er i dag uskjermet mot hverandre. Forslaget er å sette opp levegger
-i **malmfuru med grå jernvitriolbehandling**, montert stående med rette bordkanter.
+vedtekter pkt. 2.4. Forslaget er å sette opp levegger i **malmfuru med grå jernvitriolbehandling**,
+montert stående med rette bordkanter.
 Alternativ 3 og 4 har vekslende dobbelfals med rette kanter og ca. 5 mm synlig spalte, der falsene
 går under nabobordet. Falsdybden er lik halvparten av bordtykkelsen. Alternativ 1 og 2 har rette
 23 × 48 mm bord med 10 mm spalte. Slik fremstår leveggene som en forlengelse av byggets arkitektur.
@@ -74,11 +103,6 @@ To alternative utstrekninger legges fram:
   lengdene 4,10 · 5,00 · 4,10 · 5,00 m.
 - **Alternativ 2** – leveggen stopper 1,0 m før foten av skråningen. Gir lengdene
   3,10 · 4,30 · 3,10 · 4,00 m og en gjennomgående passasje langs skråningsfoten for hele rekka.
-
-Sameiets trivsels- og ordensregler punkt 3 krever skriftlig søknad til styret, tegninger, tekniske
-undersøkelser bekostet av søker, og **skriftlig samtykke fra berørte naboer**. Reglene sier også at
-«det bør tilstrebes å finne felles løsninger for å opprettholde et enhetlig og moderne uttrykk på
-boenhetene» – derfor omfatter forslaget hele rekka.
 
 Gjennomføringen skjer når partene til den enkelte veggen er tilgjengelige, og veggene trenger ikke
 settes opp samtidig. Kostnadene avtales direkte mellom de to som deler veggen. Sameiet belastes
