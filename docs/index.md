@@ -3,6 +3,11 @@
 Designgrunnlag for levegger mellom boligene i rekka HIV 50–58 (hus B, seksjon 6–10), til behandling
 i styret for Boligsameiet Griniskogen Vest.
 
+![Måleplan – avstander fra hus til skråningsfot](Tegninger/Plan-Maaling-Skraaning.svg)
+
+*Måleplan uten foreslåtte levegger. Stiplede målelinjer viser de oppmålte avstandene fra yttervegg
+til skråningsfot for fire plasseringer mellom HIV 50 og HIV 58.*
+
 Rekka går nord–sør, uteoppholdsarealene ligger på østsiden, og leveggene går østover fra husenes
 østfasade. Husene står forskjøvet i forhold til hverandre: HIV 50 er 3,8 m lenger vest enn HIV 52 og
 54, som igjen er 1,8 m lenger vest enn HIV 56 og 58. Forslaget omfatter fire vegger:
