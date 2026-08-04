@@ -1,0 +1,35 @@
+site_name: HIV52 – Levegger
+site_description: >-
+  Designgrunnlag for levegger mellom boligene i rekka Helge Ingstads vei 50-58,
+  Boligsameiet Griniskogen Vest
+site_url: https://storhaug-ting.github.io/HIV52-Levegg/
+repo_name: Storhaug-ting/HIV52-Levegg
+repo_url: https://github.com/Storhaug-ting/HIV52-Levegg
+
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: nb
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - content.code.copy
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Oversikt: index.md
+  - Designbeskrivelse: Designbeskrivelse.md
+  - Byggeteknikk: Byggeteknikk.md
+  - Regelverk: Regelverk.md
+  - Kilder: Kilder.md
+  - Naboerklæring: Naboerklaering.md
+  - Avklaringer: Avklaringer.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
