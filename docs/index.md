@@ -14,9 +14,10 @@ som ett ferdig designgrunnlag for alle fire skillene, slik at styret kan ta stil
 
 Sameiets ordensregler punkt 3 krever skriftlig søknad til styret med beskrivelse og tegninger, tekniske
 undersøkelser bekostet av søker, og **skriftlig samtykke fra berørte naboer**. Selve tiltaket er
-unntatt søknadsplikt etter [SAK10 § 4-1 f 2](https://lovdata.no/forskrift/2010-03-26-488/§4-1) så lenge
-veggen er inntil 1,8 m høy og inntil 5,0 m lang fra husvegg. Det som gjenstår er derfor ikke det
-offentlige regelverket, men enigheten internt i rekka: felles utforming og valg av lengdealternativ.
+unntatt søknadsplikt etter [SAK10 § 4-1 f 2](https://lovdata.no/forskrift/2010-03-26-488/§4-1) første
+ledd bokstav f nr. 2 så lenge veggen er inntil 1,8 m høy og inntil 5,0 m lang fra husvegg. Det som
+gjenstår er derfor ikke det offentlige regelverket, men enigheten internt i rekka: felles utforming
+og valg av lengdealternativ.
 
 Sameiet kan ikke belastes noen kostnader. Kostnadene avtales direkte mellom eierne som deler
 hver vegg. Det samme gjelder framtidig vedlikehold og evt reparasjoner.
