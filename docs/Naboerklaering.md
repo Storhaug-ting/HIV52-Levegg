@@ -60,7 +60,7 @@ Sameiet belastes ingen kostnader.
 
 Undertegnede samtykker i at leveggen settes opp som beskrevet over, og bekrefter at tiltaket ikke er
 til urimelig eller unødvendig ulempe for egen bruk av eiendommen, jf.
-[grannelova § 2](https://lovdata.no/lov/1961-06-16-15 "LOV-1961-06-16-15 § 2 – forbud mot urimelig eller unødvendig skade og ulempe på nabo").
+[grannelova § 2](Lover/grannelova.md#2 "LOV-1961-06-16-15 § 2 – forbud mot urimelig eller unødvendig skade og ulempe på nabo").
 
 Samtykket gjelder utformingen. Vesentlige endringer i høyde, lengde, materiale eller plassering
 krever nytt samtykke.

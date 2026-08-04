@@ -61,7 +61,7 @@ langs skråningsfoten på tvers av rekka. Alternativ 2 gir en sammenhengende pas
 boligene.
 
 Begge alternativene holder alle fire vegger innenfor 5,0 m. Hjemmelen i
-[SAK10 § 4-1](https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1 "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg") første ledd bokstav f nr. 2
+[SAK10 § 4-1](Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg") første ledd bokstav f nr. 2
 gjelder derfor uansett hvilket alternativ som velges, og det er ikke behov for noen minsteavstand
 til grensen mellom seksjonene.
 
@@ -104,7 +104,7 @@ Fire kledningsalternativer er vurdert.
 ## Rettslig grunnlag
 
 - Levegg med høyde inntil 1,8 m og lengde inntil 5,0 m er unntatt søknadsplikt og kan plasseres
-  inntil nabogrensen, jf. [SAK10 § 4-1](https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1 "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg")
+  inntil nabogrensen, jf. [SAK10 § 4-1](Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg")
   første ledd bokstav f nr. 2.
 - Det er **ingen meldeplikt** til kommunen for levegg. Meldeplikten gjelder bare bygninger og
   tilbygg etter bokstav a, b og c.
@@ -119,7 +119,7 @@ Fire kledningsalternativer er vurdert.
   full gjennomgang av begge planene.
 - Leveggene skal holde seg innenfor arealformålet **B1 boligbebyggelse** (reguleringsplanen), og
   ikke føres inn i vegetasjonsskjermen som løper langs østsiden av planområdet.
-- [Grannelova § 6](https://lovdata.no/lov/1961-06-16-15 "LOV-1961-06-16-15 § 6 – plikt til å varsle nabo i rimelig tid før tiltak") krever at naboene varsles i rimelig tid på
+- [Grannelova § 6](Lover/grannelova.md#6 "LOV-1961-06-16-15 § 6 – plikt til å varsle nabo i rimelig tid før tiltak") krever at naboene varsles i rimelig tid på
   forhånd. Her ivaretas dette ved at alle eierne i rekka involveres i utformingen før arbeidet
   starter.
 - Utearealet er **fellesareal med enerett**, jf. sameiets vedtekter pkt. 2.4. Vedtektene pkt. 5.3

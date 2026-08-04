@@ -20,6 +20,14 @@ nav = [
   { "Referanser" = [
     { "Regelverk" = "Regelverk.md" },
     { "Kilder" = "Kilder.md" },
+    { "Lover" = [
+      { "Byggesaksforskriften (SAK10)" = "Lover/byggesaksforskriften.md" },
+      { "Eierseksjonsloven" = "Lover/eierseksjonslova.md" },
+      { "Grannegjerdelova" = "Lover/grannegjerdelova.md" },
+      { "Grannelova" = "Lover/grannelova.md" },
+      { "Plan- og bygningsloven" = "Lover/plan-og-bygningsloven.md" },
+      { "Veglova" = "Lover/veglova.md" },
+    ] },
     { "Mailforslag" = [
       { "Naboer – forslag til levegg" = "Mail/1-Naboer-forslag-levegg.md" },
       { "Kommunen – planstatus" = "Mail/2-Kommunen-planstatus.md" },

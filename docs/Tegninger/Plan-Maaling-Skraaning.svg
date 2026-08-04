@@ -1,4 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 1650" width="210mm" height="297mm" preserveAspectRatio="xMidYMid meet" font-family="Segoe UI, Arial, Helvetica, sans-serif" role="img" aria-label="Måleplan uten levegger for rekka HIV 50 til 58">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 507.6192 1244.4432" width="130mm" height="224mm" preserveAspectRatio="xMidYMid" font-family="'Segoe UI', Arial, Helvetica, sans-serif" role="img" aria-label="Måleplan uten levegger for rekka HIV 50 til 58">
   <title>Måleplan – avstander fra hus til skråningsfot</title>
   <desc>Plan uten foreslåtte levegger. Stiplede målelinjer viser de oppmålte avstandene fra yttervegg til skråningsfot for fire plasseringer mellom HIV 50 og HIV 58.</desc>
 
@@ -20,19 +21,9 @@
     </marker>
   </defs>
 
-  <rect width="820" height="1650" fill="#ffffff"/>
+  <rect width="507.6192" height="1244.4432" fill="#ffffff"/>
 
-  <text x="410" y="32" text-anchor="middle" font-size="19" font-weight="600" fill="#1a1a1a">Måleplan – avstander fra yttervegg til skråningsfot</text>
-  <text x="410" y="54" text-anchor="middle" font-size="12.5" fill="#555">Rekka Helge Ingstads vei 50–58 (hus B, seksjon 6–10), Griniskogen Vest. Nord opp.</text>
-  <text x="410" y="72" text-anchor="middle" font-size="12.5" fill="#555">Uten foreslåtte levegger. Skala 1 m = 20 px. Rekka er dreid ca. 2° i forhold til nord.</text>
-  <text x="410" y="94" text-anchor="middle" font-size="11.5" fill="#555">Skråning ca. 3,0 m bred; hekkestammer ca. 0,5 m inn (ca. 45 pr. hus); neste bakke ca. 2,0 m; åker øst for denne.</text>
-
-  <g stroke="#444" fill="#444">
-    <line x1="770" y1="180" x2="770" y2="118" stroke-width="2" marker-end="url(#pil)"/>
-    <text x="770" y="204" text-anchor="middle" font-size="14" font-weight="600" stroke="none">N</text>
-  </g>
-
-  <g transform="rotate(2 372 740)">
+  <g transform="rotate(0.11505739,59725.396,-77451.288)">
     <path d="M294,140 L428,140 L452,380 L476,620 L508,860 L526,1100 L544,1340 L426,1340 L426,860 L370,860 L370,380 L294,380 Z"
           fill="#f2f7ee" stroke="#c8d4c0" stroke-width="1"/>
 
@@ -101,16 +92,10 @@
     </g>
   </g>
 
-  <text x="85" y="1418" font-size="11.5" fill="#3f4a3f">Stiplede blå målelinjer går fra husenes yttervegg til grønn linje, som viser foten av skråningen.</text>
-
-  <rect x="85" y="1435" width="620" height="166" fill="#f7f4ec" stroke="#c9bfa6" stroke-width="1"/>
-  <text x="101" y="1458" font-size="13" font-weight="600" fill="#1a1a1a">Målte avstander</text>
-  <g font-size="12.5" fill="#333">
-    <text x="101" y="1481" font-weight="600">Vegg</text><text x="155" y="1481" font-weight="600">Mellom</text><text x="265" y="1481" font-weight="600">A – målt</text><text x="355" y="1481" font-weight="600">Målt fra / til</text>
-    <text x="101" y="1501">A</text><text x="155" y="1501">HIV 50 – 52</text><text x="265" y="1501">4,10 m</text><text x="355" y="1501">Yttervegg – skråningsfot</text>
-    <text x="101" y="1520">B</text><text x="155" y="1520">HIV 52 – 54</text><text x="265" y="1520">5,30 m</text><text x="355" y="1520">Yttervegg – skråningsfot</text>
-    <text x="101" y="1539">C</text><text x="155" y="1539">HIV 54 – 56</text><text x="265" y="1539">4,10 m</text><text x="355" y="1539">Yttervegg – skråningsfot</text>
-    <text x="101" y="1558">D</text><text x="155" y="1558">HIV 56 – 58</text><text x="265" y="1558">5,00 m</text><text x="355" y="1558">Yttervegg – skråningsfot</text>
+  <!-- Nordpil -->
+  <g stroke="#444" fill="#444">
+    <line x1="474" y1="126" x2="471.84" y2="64" stroke-width="2" marker-end="url(#pil)"/>
+    <text x="474" y="150" text-anchor="middle" font-size="14" font-weight="600" stroke="none">N</text>
   </g>
-  <text x="101" y="1583" font-size="11.5" fill="#666">Målingene er grunnlaget for lengdeavgrensning i planalternativene med levegger.</text>
+
 </svg>

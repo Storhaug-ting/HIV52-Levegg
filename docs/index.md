@@ -14,7 +14,7 @@ som ett ferdig designgrunnlag for alle fire skillene, slik at styret kan ta stil
 
 Sameiets ordensregler punkt 3 krever skriftlig søknad til styret med beskrivelse og tegninger, tekniske
 undersøkelser bekostet av søker, og **skriftlig samtykke fra berørte naboer**. Selve tiltaket er
-unntatt søknadsplikt etter [SAK10 § 4-1](https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1 "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg") første
+unntatt søknadsplikt etter [SAK10 § 4-1](Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg") første
 ledd bokstav f nr. 2 så lenge veggen er inntil 1,8 m høy og inntil 5,0 m lang fra husvegg. Det som
 gjenstår er derfor ikke det offentlige regelverket, men enigheten internt i rekka: felles utforming
 og valg av lengdealternativ.
