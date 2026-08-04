@@ -27,7 +27,8 @@ Rekka går nord–sør, uteoppholdsarealene ligger på østsiden, og leveggene g
 | Tegninger | 🟢 Målsatt etter oppmåling |
 | Terrengfall målt | 🔴 Ikke gjort |
 | Naboerklæringer | 🟡 Mal klar, ikke signert |
-| Dialog med eierne i rekka | 🟡 E-postutkast klart, ikke sendt |
+| Høring til eierne i rekka | 🟡 Utkast klart, ikke sendt |
+| Svar fra naboene innhentet | 🔴 Avventer utsendelse |
 | Sendt til styret | 🟡 E-postutkast klart, ikke sendt |
 
 ## Innhold
@@ -49,7 +50,7 @@ Filnavn følger mønsteret `ÅÅÅÅ-MM-DD-Mottaker-emne.md`.
 
 | Fil | Til | Status |
 |-----|-----|--------|
-| [`Mail/2026-08-02-Naboer-forslag-levegg.md`](Mail/2026-08-02-Naboer-forslag-levegg.md) | Samtlige eiere i rekka HIV 50–58 | Utkast |
+| [`Mail/2026-08-02-Naboer-forslag-levegg.md`](Mail/2026-08-02-Naboer-forslag-levegg.md) | Samtlige eiere i rekka HIV 50–58 | Høring – utkast, forslag om kledningssnitt 4 og tre lengdealternativer |
 | [`Mail/2026-08-02-Styret-soknad-om-godkjenning.md`](Mail/2026-08-02-Styret-soknad-om-godkjenning.md) | Styret i Boligsameiet Griniskogen Vest | Utkast |
 | [`Mail/2026-08-02-Kommunen-planstatus.md`](Mail/2026-08-02-Kommunen-planstatus.md) | Byggesak, Indre Østfold kommune | Utkast |
 

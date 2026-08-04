@@ -45,7 +45,7 @@ en forlengelse av huset, ikke som noe som er satt inntil. Den gråner likt med h
 - Gjennomgående dekkbord på toppen som beskytter endeveden
 - Minst 200 mm luftespalte mot bakken
 
-## To alternativer for hvor langt veggen skal gå
+## Tre alternativer for hvor langt veggen skal gå
 
 Vi har målt opp avstanden fra husveggen og ut til foten av bakken i hvert av de fire skillene. Den
 varierer, så veggene blir ikke like lange:
@@ -60,12 +60,17 @@ varierer, så veggene blir ikke like lange:
 **Alternativ 1** – veggen går helt fram til foten av bakken, men aldri lenger enn 5,0 m. Tre av
 veggene når helt fram; vegg B stopper 30 cm før fordi 5-metersgrensen kommer først.
 
-**Alternativ 2** – veggen stopper 1,0 m før foten av bakken. Da blir det en gjennomgående passasje
-langs bakken for hele rekka, slik at man kan gå på tvers og vedlikeholde skråningen fra begge sider.
+**Alternativ 2** – veggen stopper 1,0 m før foten av bakken. Det blir da en gjennomgående åpen
+passasje langs bakken for hele rekka, slik at man kan gå på tvers og vedlikeholde skråningen fra
+begge sider.
 
-Forskjellen er større enn vi først trodde: vegg A og C blir bare 3,10 m i alternativ 2, mot 4,10 m i
-alternativ 1. Vi har ikke noe sterkt standpunkt og vil gjerne høre hva dere foretrekker. Det bør
-være samme alternativ for hele rekka, slik at uttrykket blir enhetlig.
+**Alternativ 3** – veggen går helt fram som i alternativ 1, men det settes inn en dør i veggen.
+Gjennomgang er mulig uten å gå rundt, og skråningen kan vedlikeholdes fra begge sider. Lengdene
+blir de samme som i alternativ 1. Dørens plassering tilpasses den enkelte veggen.
+
+Forskjellen mellom alternativ 1 og 2 er større enn vi først trodde: vegg A og C blir bare 3,10 m i
+alternativ 2, mot 4,10 m i alternativ 1. Vi har ikke noe sterkt standpunkt og vil gjerne høre hva
+dere foretrekker. Det bør være samme alternativ for hele rekka, slik at uttrykket blir enhetlig.
 
 Grunnen til at ingen vegg blir lenger enn 5,0 m er at det er grensen for hva man kan sette opp uten
 byggesøknad når veggen står helt inntil grensen mot naboen.
@@ -74,20 +79,20 @@ byggesøknad når veggen står helt inntil grensen mot naboen.
 
 Vi har sjekket regelverket. En levegg med høyde inntil 1,8 m og lengde inntil 5,0 m er unntatt
 søknadsplikt og kan stå helt inntil grensen mot naboen, jf.
-[byggesaksforskriften (SAK10) § 4-1 første ledd bokstav f nr. 2][sak10]. Det er heller ingen
+byggesaksforskriften (SAK10) § 4-1 første ledd bokstav f nr. 2. Det er heller ingen
 meldeplikt til kommunen for levegger – meldeplikten i samme paragraf gjelder bare bygninger og
 tilbygg.
 
-Sameiets egne regler krever likevel en skriftlig prosess. [Trivsels- og ordensreglene punkt 3][ordensregler]
+Sameiets egne regler krever likevel en skriftlig prosess. Trivsels- og ordensreglene punkt 3
 sier at man må søke styret før man setter opp levegg, at søknaden skal inneholde beskrivelse og
 tegninger, og at **tiltak som berører naboer krever skriftlig samtykke fra berørte naboer**. Reglene
 sier også at «det bør tilstrebes å finne felles løsninger for å opprettholde et enhetlig og moderne
 uttrykk på boenhetene» – altså akkurat det vi foreslår her.
 
-Vi har derfor laget en kort [naboerklæring][naboerklaering] som fylles ut per vegg, slik at
+Vi har derfor laget en kort naboerklæring (vedlegges) som fylles ut per vegg, slik at
 samtykket er dokumentert når søknaden går til styret.
 
-[Reguleringsplanen for området][regplan] – «Griniskogen nordvest», planID 3014_012320120011 – forbyr
+Reguleringsplanen for området – «Griniskogen nordvest», planID 3014_012320120011 – forbyr
 ikke levegger. Den krever i § 4.3 at gjerder og avskjerming skal harmonere med husenes arkitektur,
 som er nettopp derfor vi foreslår samme kledning som husene. Vi har likevel skrevet til byggesak i
 Indre Østfold kommune for å få bekreftet denne forståelsen, og for å få avklart at fire levegger på
@@ -111,9 +116,10 @@ Vi har derfor sett på fire utførelser – alle med samme materiale og stående
 | **3 – helt tett på én side** | Skjermer fullstendig | Kort le, mye turbulens |
 | **4 – helt tett på begge sider** | Skjermer fullstendig | Kort le, mye turbulens |
 
-Vi heller mot **alternativ 2**: bordene monteres annenhver gang på hver side av rammeverket, med
-overlapp, slik at man ikke ser gjennom, men luften slipper gjennom i sikksakk. En fin bieffekt er at
-veggen da ser helt lik ut fra begge sider – ingen får «baksiden».
+Vi vil foreslå **alternativ 4**: bordene monteres med dobbelfals på begge sider av rammeverket,
+slik at hvert gap er dekket fra begge sider og veggen er fullstendig tett. Innsynsskjermingen er
+komplett. Le-sonen er noe kortere enn med alternativ 1 og 2, men veggen er identisk fra begge
+sider – ingen får «baksiden» – og begge parter kan vedlikeholde sin side uten å gå rundt.
 
 ## Tid og kostnad
 
@@ -124,14 +130,14 @@ enkelt enige om fordelingen. Sameiet belastes ikke.
 ## Det vi ønsker svar på
 
 1. Er dere positive til at det settes opp levegger mellom boligene i rekka?
-2. Hvilket alternativ foretrekker dere for lengden – helt fram til bakken, eller passasje på 1,0 m?
-3. Hva mener dere om kledningen – tett på én side, spaltet, vekselvis på begge sider, eller tett på begge sider?
+2. Hvilket alternativ foretrekker dere for lengden – helt fram (alternativ 1), åpen passasje på 1,0 m (alternativ 2), eller helt fram med dør (alternativ 3)?
+3. Er dere enige i forslaget om **alternativ 4** for kledningen – tett på begge sider – eller foretrekker dere en av de andre utførelsene?
 4. Har dere andre innvendinger mot utformingen slik den er beskrevet over?
 5. Hvem av dere er aktuelle for å gå i gang først, og når?
 6. Er dere villige til å signere naboerklæringen for den eller de veggene dere er part i?
 
 Vi tar gjerne en runde i hagene sammen for å se på det konkret. Avstandene er allerede målt opp, så
-det er i hovedsak valget mellom de to alternativene som gjenstår.
+det er i hovedsak valget mellom de tre lengdealternativene som gjenstår.
 
 Si fra hvis noe er uklart, så oppdaterer vi forslaget.
 
@@ -139,27 +145,3 @@ Mvh
 Marius og Sigrid Storhaug
 Helge Ingstads vei 52, seksjon 7
 
----
-
-## Referanser
-
-Hele designgrunnlaget med tegninger ligger her:
-<https://github.com/Storhaug-ting/HIV52/tree/main/Levegger>
-
-| Hva | Hvor |
-|-----|------|
-| Designbeskrivelse med tegninger | <https://github.com/Storhaug-ting/HIV52/blob/main/Levegger/Designbeskrivelse.md> |
-| Naboerklæring til signering | <https://github.com/Storhaug-ting/HIV52/blob/main/Levegger/Naboerklaering.md> |
-| Byggeteknisk grunnlag – vind, fundament, trebeskyttelse | <https://github.com/Storhaug-ting/HIV52/blob/main/Levegger/Byggeteknikk.md> |
-| Rettslig grunnlag | <https://github.com/Storhaug-ting/HIV52/blob/main/Levegger/Regelverk.md> |
-| Byggesaksforskriften (SAK10) § 4-1 | <https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1> |
-| Trivsels- og ordensregler for sameiet, punkt 3 | <https://github.com/Storhaug-ting/GriniskogenVest/blob/main/Trivsels%20og%20ordensregler/2025-09-09/Trivsels%20og%20ordensregler.md> |
-| Vedtekter for sameiet | <https://github.com/Storhaug-ting/GriniskogenVest/blob/main/Vedtekter/2026-05-07/Revidert%20Vedtekter%2007.05.2026.md> |
-| Reguleringsplan «Griniskogen nordvest», planID 3014_012320120011 | <https://www.arealplaner.no/indreostfold3118/arealplaner/> |
-| SINTEF Byggforskserien | <https://www.byggforsk.no> |
-
-[sak10]: https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1
-[ordensregler]: https://github.com/Storhaug-ting/GriniskogenVest/blob/main/Trivsels%20og%20ordensregler/2025-09-09/Trivsels%20og%20ordensregler.md
-[naboerklaering]: https://github.com/Storhaug-ting/HIV52/blob/main/Levegger/Naboerklaering.md
-[regplan]: https://www.arealplaner.no/indreostfold3118/arealplaner/
-[byggforsk]: https://www.byggforsk.no

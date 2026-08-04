@@ -147,7 +147,7 @@ materiale og samme stående montering, og ser like ut på avstand:
 | **Alternativ 3 – helt tett på én side** | Fullstendig | Kort le-sone, mye turbulens |
 | **Alternativ 4 – helt tett på begge sider** | Fullstendig | Som alternativ 3 – kort le-sone, mye turbulens |
 
-![Kledningsprinsipp – horisontalsnitt](Tegninger/Kledningsprinsipp.svg)
+![Kledningssnitt – horisontalsnitt](Tegninger/Kledningssnitt.svg)
 
 > [!TIP]
 > **Alternativ 2 anbefales.** Bordene monteres annenhver gang på hver side av rammeverket, med
@@ -360,7 +360,7 @@ Følgende må avklares før forslaget kan gjennomføres. Fullstendig liste med s
 | [`Tegninger/Plan-Alternativ-1.svg`](Tegninger/Plan-Alternativ-1.svg) | Planskisse, alternativ 1 |
 | [`Tegninger/Plan-Alternativ-2.svg`](Tegninger/Plan-Alternativ-2.svg) | Planskisse, alternativ 2 |
 | [`Tegninger/Oppriss.svg`](Tegninger/Oppriss.svg) | Oppriss med målsetting |
-| [`Tegninger/Kledningsprinsipp.svg`](Tegninger/Kledningsprinsipp.svg) | Horisontalsnitt – rette bordkanter i alternativ 1 og 2, vekslende dobbelfals i 3 og 4 |
+| [`Tegninger/Kledningssnitt.svg`](Tegninger/Kledningssnitt.svg) | Horisontalsnitt – rette bordkanter i alternativ 1 og 2, vekslende dobbelfals i 3 og 4 |
 | [`Byggeteknikk.md`](Byggeteknikk.md) | Teknisk grunnlag med SINTEF-referanser: vindskjerming, konstruksjon, fundamentering, trebeskyttelse |
 | [`Regelverk.md`](Regelverk.md) | Rettslig grunnlag med kilder |
 | [`Kilder.md`](Kilder.md) | Samlet kildeliste med lenker |

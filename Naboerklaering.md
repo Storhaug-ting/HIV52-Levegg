@@ -37,7 +37,7 @@ Levegg mellom de to seksjonenes uteoppholdsarealer, utført i samsvar med design
 | Kledning | Alternativ 3 og 4 har vekslende dobbelfals med rette kanter, ca. 5 mm synlig spalte og falsdybde lik halvparten av bordtykkelsen. Alternativ 1 og 2 har rette 23 × 48 mm bord med 10 mm spalte |
 | Høyde | 1,8 m over ferdig terreng |
 | Lengdealternativ | ☐ Alternativ 1 – til foten av skråningen ☐ Alternativ 2 – 1,0 m før foten |
-| Kledningsprinsipp | ☐ Alternativ 1 spaltet ☐ Alternativ 2 vekselvis på begge sider (anbefalt) ☐ Alternativ 3 helt tett på én side ☐ Alternativ 4 helt tett på begge sider |
+| Kledningssnitt | ☐ Alternativ 1 spaltet ☐ Alternativ 2 vekselvis på begge sider (anbefalt) ☐ Alternativ 3 helt tett på én side ☐ Alternativ 4 helt tett på begge sider |
 | Lengde for denne veggen | ______ m |
 | Konstruksjon | Innerste endestolpe festes i husveggen; øvrige stolper c/c maks 0,80 m står på eget betongfundament med stolpesko. Dekkbord på toppen, endebord på fri uteside og luftespalte ≥ 200 mm mot bakken |
 | Plassering | I grenselinjen mellom seksjonenes enerettsarealer, østover fra østfasaden |

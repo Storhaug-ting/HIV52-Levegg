@@ -27,26 +27,31 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showguides="true"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="383.60542"
-     inkscape:cy="311.48053"
-     inkscape:window-width="1987"
-     inkscape:window-height="1240"
-     inkscape:window-x="3463"
-     inkscape:window-y="502"
+     inkscape:zoom="0.87255382"
+     inkscape:cx="556.41267"
+     inkscape:cy="382.78441"
+     inkscape:window-width="1512"
+     inkscape:window-height="921"
+     inkscape:window-x="0"
+     inkscape:window-y="33"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg89" />
   <title
      id="title1">Levegg – oppriss</title>
   <desc
-     id="desc1">Oppriss sett fra siden. Høyde 1,8 m over ferdig terreng, med stående malmfuru i henhold til det valgte kledningsprinsippet. Innerste stolpe festes i husveggen, og frittstående stolper står c/c maksimalt 0,60 m. Et loddrett endebord gir en rett avslutning på den frie utesiden. Vannrette sviller er vist stiplet mellom kledningslagene.</desc>
+     id="desc1">Oppriss sett fra siden. Høyde 1,8 m over ferdig terreng, med stående malmfuru i henhold til det valgte kledningssnittet. Innerste stolpe festes i husveggen, og frittstående stolper står c/c maksimalt 0,60 m. Et loddrett endebord gir en rett avslutning på den frie utesiden. Vannrette sviller er vist stiplet mellom kledningslagene.</desc>
   <defs
      id="defs3">
     <pattern
        inkscape:collect="always"
+       xlink:href="#terreng"
+       id="pattern1"
+       patternTransform="matrix(0.63814408,0.70710678,-0.63814408,0.70710678,81.923516,0)" />
+    <pattern
+       inkscape:collect="always"
        xlink:href="#husvegg"
        id="pattern90"
-       patternTransform="rotate(-45,0.74047642,-1.8118567)"
+       patternTransform="matrix(0.70875335,-0.60401261,0.70875335,0.60401261,-0.46022724,18.503183)"
        x="0"
        y="0"
        preserveAspectRatio="none" />
@@ -118,10 +123,10 @@
      x="450"
      y="32"
      text-anchor="middle"
-     font-size="19"
+     font-size="19px"
      font-weight="600"
      fill="#1a1a1a"
-     id="text3">Levegg – oppriss</text>
+     id="text3">Levegg</text>
   <text
      x="450"
      y="53"
@@ -137,24 +142,10 @@
      fill="#555555"
      id="text5"><tspan
        sodipodi:role="line"
-       id="tspan90"
-       x="450"
-       y="71">Stolper og sviller ligger mellom kledningslagene og er vist stiplet.</tspan><tspan
-       sodipodi:role="line"
        id="tspan91"
        x="450"
-       y="86.625">Eksempel med L = 5,00 m.</tspan></text>
+       y="71">Stolper og sviller ligger mellom kledningslagene og er vist stiplet.</tspan></text>
   <!-- Husvegg -->
-  <rect
-     x="96.541695"
-     y="129.99626"
-     width="53.462044"
-     height="290.00748"
-     fill="url(#husvegg)"
-     stroke="#8e8b83"
-     stroke-width="1.49253"
-     id="rect5"
-     style="fill:url(#pattern90);stroke-width:1.66666663;stroke-dasharray:none" />
   <text
      x="123"
      y="122"
@@ -164,24 +155,25 @@
      id="text6">Husvegg</text>
   <!-- Terreng -->
   <line
-     x1="60"
+     x1="136.06702"
      y1="420"
      x2="840"
      y2="420"
      stroke="#6e6b64"
-     stroke-width="2.5"
+     stroke-width="2.37498"
      id="line6" />
   <rect
-     x="60"
+     x="136.07184"
      y="420"
-     width="780"
+     width="703.92816"
      height="26"
      fill="url(#terreng)"
-     id="rect6" />
+     id="rect6"
+     style="fill:url(#pattern1);stroke-width:0.949985" />
   <text
-     x="64"
-     y="440"
-     font-size="12"
+     x="173.54344"
+     y="436.95712"
+     font-size="12px"
      fill="#6e6b64"
      id="text7">Ferdig terreng</text>
   <!-- Innvendig, stående kledningssjikt på motsatt side av rammeverket -->
@@ -193,6 +185,154 @@
      fill="#75736d"
      id="rect7"
      style="stroke-width:1.04466" />
+  <g
+     fill="#9e9c94"
+     stroke="#6e6b64"
+     stroke-width="0.9"
+     id="g45"
+     transform="matrix(1.02169,0,0,1.1130008,-16.039997,-24.148448)"
+     style="stroke-width:1.57979;stroke-dasharray:none">
+    <rect
+       x="150"
+       y="214"
+       width="18"
+       height="182"
+       id="rect26"
+       style="stroke-width:1.57979;stroke-dasharray:none" />
+    <rect
+       x="180"
+       y="214"
+       width="18"
+       height="182"
+       id="rect27"
+       style="stroke-width:1.57979;stroke-dasharray:none" />
+    <rect
+       x="210"
+       y="214"
+       width="18"
+       height="182"
+       id="rect28"
+       style="stroke-width:1.57979;stroke-dasharray:none" />
+    <rect
+       x="240"
+       y="214"
+       width="18"
+       height="182"
+       id="rect29"
+       style="stroke-width:1.57979;stroke-dasharray:none" />
+    <rect
+       x="270"
+       y="214"
+       width="18"
+       height="182"
+       id="rect30"
+       style="stroke-width:1.57979;stroke-dasharray:none" />
+    <rect
+       x="300"
+       y="214"
+       width="18"
+       height="182"
+       id="rect31"
+       style="stroke-width:1.57979;stroke-dasharray:none" />
+    <rect
+       x="330"
+       y="214"
+       width="18"
+       height="182"
+       id="rect32"
+       style="stroke-width:1.57979;stroke-dasharray:none" />
+    <rect
+       x="360"
+       y="214"
+       width="18"
+       height="182"
+       id="rect33"
+       style="stroke-width:1.57979;stroke-dasharray:none" />
+    <rect
+       x="390"
+       y="214"
+       width="18"
+       height="182"
+       id="rect34"
+       style="stroke-width:1.57979;stroke-dasharray:none" />
+    <rect
+       x="420"
+       y="214"
+       width="18"
+       height="182"
+       id="rect35"
+       style="stroke-width:1.57979;stroke-dasharray:none" />
+    <rect
+       x="450"
+       y="214"
+       width="18"
+       height="182"
+       id="rect36"
+       style="stroke-width:1.57979;stroke-dasharray:none" />
+    <rect
+       x="480"
+       y="214"
+       width="18"
+       height="182"
+       id="rect37"
+       style="stroke-width:1.57979;stroke-dasharray:none" />
+    <rect
+       x="510"
+       y="214"
+       width="18"
+       height="182"
+       id="rect38"
+       style="stroke-width:1.57979;stroke-dasharray:none" />
+    <rect
+       x="540"
+       y="214"
+       width="18"
+       height="182"
+       id="rect39"
+       style="stroke-width:1.57979;stroke-dasharray:none" />
+    <rect
+       x="570"
+       y="214"
+       width="18"
+       height="182"
+       id="rect40"
+       style="stroke-width:1.57979;stroke-dasharray:none" />
+    <rect
+       x="600"
+       y="214"
+       width="18"
+       height="182"
+       id="rect41"
+       style="stroke-width:1.57979;stroke-dasharray:none" />
+    <rect
+       x="630"
+       y="214"
+       width="18"
+       height="182"
+       id="rect42"
+       style="stroke-width:1.57979;stroke-dasharray:none" />
+    <rect
+       x="660"
+       y="214"
+       width="18"
+       height="182"
+       id="rect43"
+       style="stroke-width:1.57979;stroke-dasharray:none" />
+    <rect
+       x="690"
+       y="214"
+       width="18"
+       height="182"
+       id="rect44"
+       style="stroke-width:1.57979;stroke-dasharray:none" />
+    <rect
+       x="720"
+       y="214"
+       width="18"
+       height="182"
+       id="rect45"
+       style="stroke-width:1.57979;stroke-dasharray:none" />
+  </g>
   <g
      stroke="#605e59"
      stroke-width="1"
@@ -319,154 +459,6 @@
        id="line26" />
   </g>
   <!-- Synlig stående ytterkledning, samme profil som husets kledning -->
-  <g
-     fill="#9e9c94"
-     stroke="#6e6b64"
-     stroke-width="0.9"
-     id="g45"
-     transform="matrix(0.99991583,0,0,1.1130995,0.03737138,-24.178556)"
-     style="stroke-width:1.57979241;stroke-dasharray:none">
-    <rect
-       x="150"
-       y="214"
-       width="18"
-       height="182"
-       id="rect26"
-       style="stroke-width:1.57979241;stroke-dasharray:none" />
-    <rect
-       x="180"
-       y="214"
-       width="18"
-       height="182"
-       id="rect27"
-       style="stroke-width:1.57979241;stroke-dasharray:none" />
-    <rect
-       x="210"
-       y="214"
-       width="18"
-       height="182"
-       id="rect28"
-       style="stroke-width:1.57979241;stroke-dasharray:none" />
-    <rect
-       x="240"
-       y="214"
-       width="18"
-       height="182"
-       id="rect29"
-       style="stroke-width:1.57979241;stroke-dasharray:none" />
-    <rect
-       x="270"
-       y="214"
-       width="18"
-       height="182"
-       id="rect30"
-       style="stroke-width:1.57979241;stroke-dasharray:none" />
-    <rect
-       x="300"
-       y="214"
-       width="18"
-       height="182"
-       id="rect31"
-       style="stroke-width:1.57979241;stroke-dasharray:none" />
-    <rect
-       x="330"
-       y="214"
-       width="18"
-       height="182"
-       id="rect32"
-       style="stroke-width:1.57979241;stroke-dasharray:none" />
-    <rect
-       x="360"
-       y="214"
-       width="18"
-       height="182"
-       id="rect33"
-       style="stroke-width:1.57979241;stroke-dasharray:none" />
-    <rect
-       x="390"
-       y="214"
-       width="18"
-       height="182"
-       id="rect34"
-       style="stroke-width:1.57979241;stroke-dasharray:none" />
-    <rect
-       x="420"
-       y="214"
-       width="18"
-       height="182"
-       id="rect35"
-       style="stroke-width:1.57979241;stroke-dasharray:none" />
-    <rect
-       x="450"
-       y="214"
-       width="18"
-       height="182"
-       id="rect36"
-       style="stroke-width:1.57979241;stroke-dasharray:none" />
-    <rect
-       x="480"
-       y="214"
-       width="18"
-       height="182"
-       id="rect37"
-       style="stroke-width:1.57979241;stroke-dasharray:none" />
-    <rect
-       x="510"
-       y="214"
-       width="18"
-       height="182"
-       id="rect38"
-       style="stroke-width:1.57979241;stroke-dasharray:none" />
-    <rect
-       x="540"
-       y="214"
-       width="18"
-       height="182"
-       id="rect39"
-       style="stroke-width:1.57979241;stroke-dasharray:none" />
-    <rect
-       x="570"
-       y="214"
-       width="18"
-       height="182"
-       id="rect40"
-       style="stroke-width:1.57979241;stroke-dasharray:none" />
-    <rect
-       x="600"
-       y="214"
-       width="18"
-       height="182"
-       id="rect41"
-       style="stroke-width:1.57979241;stroke-dasharray:none" />
-    <rect
-       x="630"
-       y="214"
-       width="18"
-       height="182"
-       id="rect42"
-       style="stroke-width:1.57979241;stroke-dasharray:none" />
-    <rect
-       x="660"
-       y="214"
-       width="18"
-       height="182"
-       id="rect43"
-       style="stroke-width:1.57979241;stroke-dasharray:none" />
-    <rect
-       x="690"
-       y="214"
-       width="18"
-       height="182"
-       id="rect44"
-       style="stroke-width:1.57979241;stroke-dasharray:none" />
-    <rect
-       x="720"
-       y="214"
-       width="18"
-       height="182"
-       id="rect45"
-       style="stroke-width:1.57979241;stroke-dasharray:none" />
-  </g>
   <!-- Loddrett endebord gir en rett avslutning på den frie utesiden -->
   <rect
      x="738.18347"
@@ -478,8 +470,8 @@
      stroke-width="0.973634"
      id="rect46" />
   <text
-     x="743.54651"
-     y="246.45442"
+     x="752.64337"
+     y="251.50824"
      font-size="11.5px"
      fill="#5f5d57"
      id="text46">Endebord</text>
@@ -571,19 +563,26 @@
      id="rect51-9-8-5-3"
      style="fill:none;stroke:#33322f;stroke-width:1.66746;stroke-dasharray:8.82775, 4.90431;stroke-dashoffset:0" />
   <rect
-     x="156.08252"
-     y="309.61862"
-     width="83.849998"
-     height="10.51012"
+     x="162.11758"
+     y="309.59036"
+     width="77.843193"
+     height="10.566642"
      id="rect51-9-8-5-1"
-     style="fill:none;stroke:#33322f;stroke-width:1.66746;stroke-dasharray:8.82775, 4.90431;stroke-dashoffset:0" />
+     style="fill:none;stroke:#33322f;stroke-width:1.61094;stroke-dasharray:8.52851, 4.73807;stroke-dashoffset:0" />
   <rect
-     x="150.18437"
-     y="403.8681"
-     width="582.07947"
-     height="9.5213251"
+     x="136.87102"
+     y="403.8768"
+     width="595.38409"
+     height="9.5039263"
      id="rect51-9-8-2"
-     style="fill:none;stroke:#33322f;stroke-width:1.66667;stroke-dasharray:8.82356, 4.90197;stroke-dashoffset:0" />
+     style="fill:none;stroke:#33322f;stroke-width:1.68407;stroke-dasharray:8.91567, 4.95314;stroke-dashoffset:0" />
+  <rect
+     x="137.25293"
+     y="378.69244"
+     width="12.764365"
+     height="10.949423"
+     id="rect51-9-8-2-9"
+     style="fill:none;stroke:#33322f;stroke-width:1.63554;stroke-dasharray:8.6587, 4.81037;stroke-dashoffset:0" />
   <rect
      x="527.92712"
      y="225.1875"
@@ -606,12 +605,6 @@
      id="rect54"
      style="fill:none;stroke:#33322f;stroke-width:1.66633;stroke-dasharray:8.82176, 4.90099;stroke-dashoffset:0" />
   <!-- Veggfestet innerste stolpe -->
-  <path
-     d="M 148.98481,234.88455 111.28683,204.11591"
-     fill="none"
-     stroke="#33322f"
-     stroke-width="1.30605"
-     id="path59" />
   <text
      x="108"
      y="184"
@@ -636,100 +629,117 @@
      style="fill:#d2d0cb;stroke:#8b8983;stroke-width:2.20181;stroke-dasharray:none" />
   <g
      id="g93"
-     transform="translate(-47.625002)">
+     transform="translate(-47.625002)"
+     style="stroke-width:1.66666663;stroke-dasharray:none">
     <rect
        x="718.32764"
        y="402.79288"
        width="16.091661"
        height="14.228936"
        id="rect64-5-11-7-4-2-6"
-       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.2;stroke-dasharray:none" />
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.66666663;stroke-dasharray:none" />
     <rect
        x="725.34076"
        y="417.02719"
        width="1.6274133"
        height="15.036635"
        id="rect64-5-1-5-6-2-2-8"
-       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.2;stroke-dasharray:none" />
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.66666663;stroke-dasharray:none" />
     <rect
        x="714"
        y="420"
        width="24"
        height="40"
        id="rect69"
-       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.2" />
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.66666663;stroke-dasharray:none" />
     <rect
        x="703.10742"
        y="447.33044"
        width="46.312382"
        height="22.496233"
        id="rect69-1"
-       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.25012" />
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.66666663;stroke-dasharray:none" />
   </g>
   <g
      id="g92"
-     transform="translate(-47.625002)">
+     transform="translate(-47.625002)"
+     style="stroke-width:1.66666663;stroke-dasharray:none">
     <rect
        x="525.7298"
        y="402.79291"
        width="16.091661"
        height="14.228936"
        id="rect64-5-11-7-4"
-       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.2;stroke-dasharray:none" />
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.66666663;stroke-dasharray:none" />
     <rect
        x="532.74292"
        y="417.02722"
        width="1.6274133"
        height="15.036635"
        id="rect64-5-1-5-6-2"
-       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.2;stroke-dasharray:none" />
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.66666663;stroke-dasharray:none" />
     <rect
        x="522"
        y="420"
        width="24"
        height="40"
        id="rect67"
-       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.2" />
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.66666663;stroke-dasharray:none" />
     <rect
        x="511.44037"
        y="447.56094"
        width="46.312382"
        height="22.496233"
        id="rect69-1-9"
-       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.25012" />
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.66666663;stroke-dasharray:none" />
   </g>
   <g
      id="g91"
-     transform="translate(-47.625002)">
+     transform="translate(-47.625002)"
+     style="stroke-width:1.66666663;stroke-dasharray:none">
     <rect
        x="334.15485"
        y="402.95892"
        width="16.091661"
        height="14.228936"
        id="rect64-5-11"
-       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.2;stroke-dasharray:none" />
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.66666663;stroke-dasharray:none" />
     <rect
        x="341.16797"
        y="417.19324"
        width="1.6274133"
        height="15.036635"
        id="rect64-5-1-5"
-       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.2;stroke-dasharray:none" />
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.66666663;stroke-dasharray:none" />
     <rect
        x="330"
        y="420"
        width="24"
        height="40"
        id="rect65"
-       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.2" />
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.66666663;stroke-dasharray:none" />
     <rect
        x="318.78336"
        y="447.12048"
        width="46.312382"
        height="22.496233"
        id="rect69-1-9-7"
-       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.25012" />
+       style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.66666663;stroke-dasharray:none" />
   </g>
+  <rect
+     x="95.26651"
+     y="377.96829"
+     width="39.98431"
+     height="96.681831"
+     id="rect65-0"
+     style="fill:#d2d0cb;stroke:#8b8983;stroke-width:1.66666663;stroke-dasharray:none" />
+  <rect
+     x="110.48105"
+     y="212.52301"
+     width="37.154541"
+     height="162.84213"
+     id="rect65-0-9"
+     style="fill:#ffffff;stroke:#ffffff;stroke-width:3.01255;stroke-opacity:1" />
   <text
      x="432.36115"
      y="492.11108"
@@ -846,14 +856,14 @@
      id="line80" />
   <line
      x1="150"
-     y1="421.27942"
+     y1="377.98657"
      x2="150"
      y2="541.63916"
      stroke="#333333"
      stroke-width="1.24579"
      stroke-dasharray="3, 3"
      id="line81"
-     style="stroke-width:0.66666665;stroke-dasharray:1.60540697,1.60540697;stroke-dashoffset:0" />
+     style="stroke-width:0.777373;stroke-dasharray:1.872, 1.872;stroke-dashoffset:0" />
   <line
      x1="739.4165"
      y1="419.09772"
@@ -936,4 +946,20 @@
      y="662.81812"
      id="text88"
      style="font-size:12.5px;fill:#333333">Betongfundament med stolpestøtte under frittstående stolper, ført til frostfri dybde ca 60 cm</text>
+  <rect
+     x="94.804726"
+     y="129.55241"
+     width="53.586533"
+     height="247.7252"
+     fill="url(#husvegg)"
+     stroke="#8e8b83"
+     stroke-width="1.49253"
+     id="rect5"
+     style="fill:url(#pattern90);stroke-width:1.54218;stroke-dasharray:none" />
+  <path
+     d="M 148.98481,234.88455 111.28683,204.11591"
+     fill="none"
+     stroke="#33322f"
+     stroke-width="1.30605"
+     id="path59" />
 </svg>
