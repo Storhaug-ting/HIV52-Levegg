@@ -56,8 +56,8 @@ Bestemmelsene som er brukt aktivt:
 | Plantype | Detaljregulering, jf. pbl. §§ 12-3 og 12-14 |
 | Vedtatt | 17.06.2014. Forenklet reguleringsendring 06.07.2021 |
 | Plankart | Datert 26.08.2019, sist revidert 13.04.2021 |
-| Bestemmelser, kopi i repoet | [`Salgsdokumenter/Kontraktsvedlegg/012320120011 Bestemmelser endring_20210702.pdf`](../Salgsdokumenter/Kontraktsvedlegg/012320120011%20Bestemmelser%20endring_20210702.pdf) |
-| Plankart, kopi i repoet | [`Salgsdokumenter/Kontraktsvedlegg/Reguleringsplankart_A4S_05.05.2023_11.49.pdf`](../Salgsdokumenter/Kontraktsvedlegg/Reguleringsplankart_A4S_05.05.2023_11.49.pdf) |
+| Bestemmelser, kopi i repoet | [`Salgsdokumenter/Kontraktsvedlegg/012320120011 Bestemmelser endring_20210702.pdf`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/012320120011%20Bestemmelser%20endring_20210702.pdf) |
+| Plankart, kopi i repoet | [`Salgsdokumenter/Kontraktsvedlegg/Reguleringsplankart_A4S_05.05.2023_11.49.pdf`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/Reguleringsplankart_A4S_05.05.2023_11.49.pdf) |
 | Kommunens planregister | <https://www.arealplaner.no/indreostfold3118/arealplaner/> – søk på planID |
 
 Bestemmelser som er brukt aktivt:
@@ -99,17 +99,17 @@ Bestemmelser som er brukt aktivt:
 | Navn | Kommuneplanens arealdel Spydeberg kommune 2016–2028 |
 | PlanID | 0123201401 |
 | Ikrafttredelse | 10.03.2016 |
-| Bestemmelser, kopi i repoet | [`Salgsdokumenter/Kontraktsvedlegg/201401_02_Kommuneplan 2016-2028_Planbestemmelser.pdf`](../Salgsdokumenter/Kontraktsvedlegg/201401_02_Kommuneplan%202016-2028_Planbestemmelser.pdf) |
+| Bestemmelser, kopi i repoet | [`Salgsdokumenter/Kontraktsvedlegg/201401_02_Kommuneplan 2016-2028_Planbestemmelser.pdf`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/201401_02_Kommuneplan%202016-2028_Planbestemmelser.pdf) |
 
 ## Eiendommen
 
 | Kilde | Lenke |
 |-------|-------|
 | Matrikkelenhet 3118-411/93 i eiendomsregisteret | <https://eiendomsregisteret.kartverket.no/eiendom/3118/411/93/0/> |
-| Planrapport for eiendommen, 05.05.2023 | [`Salgsdokumenter/Kontraktsvedlegg/`](../Salgsdokumenter/Kontraktsvedlegg/PlanRapport_Helge_Ingstads_vei_32_1820_SPYDEBERG_1683280116.pdf) |
-| Situasjonsplan 411/93 | [`Salgsdokumenter/Kontraktsvedlegg/`](../Salgsdokumenter/Kontraktsvedlegg/411-93%20Situasjonsplan.pdf) |
-| Grunnkart | [`Salgsdokumenter/Kontraktsvedlegg/`](../Salgsdokumenter/Kontraktsvedlegg/Grunnkart_A4S_05.05.2023_11.49.pdf) |
-| Utomhusplan, salgsoppgaven side 47 | [`Salgsdokumenter/Kontraktsvedlegg/Salgsoppgave.pdf`](../Salgsdokumenter/Kontraktsvedlegg/Salgsoppgave.pdf) |
+| Planrapport for eiendommen, 05.05.2023 | [`Salgsdokumenter/Kontraktsvedlegg/`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/PlanRapport_Helge_Ingstads_vei_32_1820_SPYDEBERG_1683280116.pdf) |
+| Situasjonsplan 411/93 | [`Salgsdokumenter/Kontraktsvedlegg/`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/411-93%20Situasjonsplan.pdf) |
+| Grunnkart | [`Salgsdokumenter/Kontraktsvedlegg/`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/Grunnkart_A4S_05.05.2023_11.49.pdf) |
+| Utomhusplan, salgsoppgaven side 47 | [`Salgsdokumenter/Kontraktsvedlegg/Salgsoppgave.pdf`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/Salgsoppgave.pdf) |
 
 ## Sameiet
 
