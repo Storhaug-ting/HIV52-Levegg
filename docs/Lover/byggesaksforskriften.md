@@ -60,9 +60,6 @@ generertAv: "scripts/Update-Lovtekst.ps1"
 
 # Forskrift om byggesak (byggesaksforskriften)
 
-> Generert fil. Ikke rediger for hånd – kjør `scripts/Update-Lovtekst.ps1`.
-> Se `kilde.psd1` i denne mappa for hentedato og sjekksum. Ved tvil gjelder Lovdata sin offisielle versjon.
-
 ## Første del. Generelle bestemmelser
 
 ### Kapittel 1. Generelle bestemmelser

@@ -21,9 +21,6 @@ generertAv: "scripts/Update-Lovtekst.ps1"
 
 # Lov om planlegging og byggesaksbehandling (plan- og bygningsloven)
 
-> Generert fil. Ikke rediger for hånd – kjør `scripts/Update-Lovtekst.ps1`.
-> Se `kilde.psd1` i denne mappa for hentedato og sjekksum. Ved tvil gjelder Lovdata sin offisielle versjon.
-
 ## Første del: Alminnelig del
 
 ### Kapittel 1. Fellesbestemmelser

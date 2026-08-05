@@ -19,9 +19,6 @@ generertAv: "scripts/Update-Lovtekst.ps1"
 
 # Lov om vegar (veglova)
 
-> Generert fil. Ikke rediger for hånd – kjør `scripts/Update-Lovtekst.ps1`.
-> Se `kilde.psd1` i denne mappa for hentedato og sjekksum. Ved tvil gjelder Lovdata sin offisielle versjon.
-
 ## Kap. I. Inndeling og nedlegging av vegar
 
 ### § 1
