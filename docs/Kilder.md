@@ -7,33 +7,38 @@ Dokumentene i de øvrige filene i denne mappen viser hit, slik at det er én lis
 
 ## Lover og forskrifter
 
-| Kilde | Referanse | Lenke |
-|-------|-----------|-------|
-| Byggesaksforskriften (SAK10) § 4-1 | FOR-2010-03-26-488 | [lovdata.no](https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1 "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg") |
-| Plan- og bygningsloven (pbl) | LOV-2008-06-27-71 | [lovdata.no](https://lovdata.no/lov/2008-06-27-71 "LOV-2008-06-27-71 – plan- og bygningsloven") |
-| Grannelova | LOV-1961-06-16-15 | [lovdata.no](https://lovdata.no/lov/1961-06-16-15 "LOV-1961-06-16-15 – lov om rettshøve mellom grannar") |
-| Grannegjerdelova | LOV-1961-05-05 | [lovdata.no](https://lovdata.no/lov/1961-05-05 "LOV-1961-05-05 – lov om grannegjerde") |
-| Eierseksjonsloven | LOV-2017-06-16-65 | [lovdata.no](https://lovdata.no/lov/2017-06-16-65 "LOV-2017-06-16-65 – eierseksjonsloven") |
+Full lovtekst er hentet inn i [`Lover/`](Lover/), slik at sitatene i saken kan lenkes til en lokal,
+diffbar kopi i stedet for til Lovdata direkte. «Lenke» under er den kontrollerte, autoritative
+kilden; «Lokal kopi» er teksten slik den er sitert i saken.
+
+| Kilde | Referanse | Lenke | Lokal kopi |
+|-------|-----------|-------|------------|
+| Byggesaksforskriften (SAK10) § 4-1 | FOR-2010-03-26-488 | [lovdata.no](https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1 "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg") | [Lover/byggesaksforskriften.md](Lover/byggesaksforskriften.md) |
+| Plan- og bygningsloven (pbl) | LOV-2008-06-27-71 | [lovdata.no](https://lovdata.no/lov/2008-06-27-71 "LOV-2008-06-27-71 – plan- og bygningsloven") | [Lover/plan-og-bygningsloven.md](Lover/plan-og-bygningsloven.md) |
+| Grannelova | LOV-1961-06-16-15 | [lovdata.no](https://lovdata.no/lov/1961-06-16-15 "LOV-1961-06-16-15 – lov om rettshøve mellom grannar") | [Lover/grannelova.md](Lover/grannelova.md) |
+| Grannegjerdelova | LOV-1961-05-05 | [lovdata.no](https://lovdata.no/lov/1961-05-05 "LOV-1961-05-05 – lov om grannegjerde") | [Lover/grannegjerdelova.md](Lover/grannegjerdelova.md) |
+| Eierseksjonsloven | LOV-2017-06-16-65 | [lovdata.no](https://lovdata.no/lov/2017-06-16-65 "LOV-2017-06-16-65 – eierseksjonsloven") | [Lover/eierseksjonslova.md](Lover/eierseksjonslova.md) |
+| Veglova | LOV-1963-06-21-23 | [lovdata.no](https://lovdata.no/lov/1963-06-21-23 "LOV-1963-06-21-23 – lov om vegar") | [Lover/veglova.md](Lover/veglova.md) |
 
 Bestemmelsene som er brukt aktivt:
 
 | Bestemmelse | Innhold |
 |-------------|---------|
-| SAK10 § 4-1 første ledd bokstav f nr. 1 | Levegg inntil 1,8 m høyde og 10,0 m lengde, minst 1,0 m fra nabogrense |
-| SAK10 § 4-1 første ledd bokstav f nr. 2 | Levegg inntil 1,8 m høyde og 5,0 m lengde, kan stå inntil nabogrense – **hjemmelen for dette tiltaket** |
-| SAK10 § 4-1 andre ledd | Tiltakshavers ansvar for at vilkårene er oppfylt |
-| SAK10 § 4-1 tredje ledd | Frisikt og veglova gjelder også for tiltak etter bokstav f |
-| SAK10 § 4-1 fjerde ledd | Meldeplikt – gjelder bare bokstav a, b og c, altså ikke levegg |
-| pbl. § 29-1 og § 29-2 | Visuelle kvaliteter og estetikk |
-| pbl. § 30-4 | Materielle regler gjelder også for tiltak unntatt søknadsplikt |
-| pbl. § 32-3 | Kommunens adgang til å kreve retting eller fjerning |
-| Grannelova § 2 | Forbud mot urimelig eller unødvendig skade og ulempe |
-| Grannelova § 6 | Plikt til å varsle nabo i rimelig tid før tiltak |
-| Grannelova § 10 | Naboens krav på retting |
-| Grannegjerdelova § 6 og § 8 | Rett til å ha gjerde mot nabo, og deling av kostnaden |
-| Eierseksjonsloven § 25 | Seksjonseierens bruksrett |
-| Eierseksjonsloven § 49 bokstav a | 2/3 flertall for endringer av bebyggelsen eller tomten ut over vanlig forvaltning |
-| Eierseksjonsloven § 51 | Tiltak som krever enighet fra alle |
+| [SAK10 § 4-1 første ledd bokstav f nr. 1](Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse) | Levegg inntil 1,8 m høyde og 10,0 m lengde, minst 1,0 m fra nabogrense |
+| [SAK10 § 4-1 første ledd bokstav f nr. 2](Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse) | Levegg inntil 1,8 m høyde og 5,0 m lengde, kan stå inntil nabogrense – **hjemmelen for dette tiltaket** |
+| [SAK10 § 4-1 andre ledd](Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse) | Tiltakshavers ansvar for at vilkårene er oppfylt |
+| [SAK10 § 4-1 tredje ledd](Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse) | Frisikt og [veglova](Lover/veglova.md) gjelder også for tiltak etter bokstav f |
+| [SAK10 § 4-1 fjerde ledd](Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse) | Meldeplikt – gjelder bare bokstav a, b og c, altså ikke levegg |
+| [pbl. § 29-1](Lover/plan-og-bygningsloven.md#29-1-utforming-av-tiltak) og [§ 29-2](Lover/plan-og-bygningsloven.md#29-2-visuelle-kvaliteter) | Visuelle kvaliteter og estetikk |
+| [pbl. § 30-4](Lover/plan-og-bygningsloven.md#30-4-andre-varige-konstruksjoner-eller-anlegg-vesentlige-terrenginngrep-mv) | Materielle regler gjelder også for tiltak unntatt søknadsplikt |
+| [pbl. § 32-3](Lover/plan-og-bygningsloven.md#32-3-palegg-om-retting-og-palegg-om-stans) | Kommunens adgang til å kreve retting eller fjerning |
+| [Grannelova § 2](Lover/grannelova.md#2) | Forbud mot urimelig eller unødvendig skade og ulempe |
+| [Grannelova § 6](Lover/grannelova.md#6) | Plikt til å varsle nabo i rimelig tid før tiltak |
+| [Grannelova § 10](Lover/grannelova.md#10) | Naboens krav på retting |
+| [Grannegjerdelova § 6](Lover/grannegjerdelova.md#6) og [§ 8](Lover/grannegjerdelova.md#8) | Rett til å ha gjerde mot nabo, og deling av kostnaden |
+| [Eierseksjonsloven § 25](Lover/eierseksjonslova.md#25-seksjonseierens-rett-til-a-bruke-bruksenheten-og-fellesarealer) | Seksjonseierens bruksrett |
+| [Eierseksjonsloven § 49 bokstav a](Lover/eierseksjonslova.md#49-flertallskrav-ved-ulike-beslutninger-pa-arsmtet-srlige-begrensninger-i-arsmtets-myndighet) | 2/3 flertall for endringer av bebyggelsen eller tomten ut over vanlig forvaltning |
+| [Eierseksjonsloven § 51](Lover/eierseksjonslova.md#51-beslutninger-som-krever-enighet-fra-alle-seksjonseiere) | Tiltak som krever enighet fra alle |
 
 ## Veiledning fra myndighetene
 
