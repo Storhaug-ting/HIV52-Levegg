@@ -1,4 +1,4 @@
-**Til:** <byggesak@io.kommune.no>
+**Til:** byggesak@io.kommune.no
 **Emne:** Levegger i Griniskogen nordvest (PlanID 3014_012320120011) – gnr. 411 bnr. 93 – bekreftelse av forståelse
 
 ---
@@ -15,7 +15,7 @@ Fire levegger, én i hvert skille mellom de fem boligene i rekka, ut fra husenes
 uteoppholdsarealene. Alle fem boligene ligger på samme matrikkelenhet, som er seksjonert.
 
 | Forhold | Verdi |
-| --------- | ------- |
+|---------|-------|
 | Antall | 4 levegger |
 | Høyde | 1,8 m over ferdig terreng |
 | Lengde | 4,10 m, 5,00 m, 4,10 m og 5,00 m – alle innenfor 5,0 m |

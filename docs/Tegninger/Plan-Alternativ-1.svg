@@ -58,21 +58,6 @@
          stroke-width="2"
          id="line1" />
     </pattern>
-    <pattern
-       id="bakke"
-       width="12"
-       height="12"
-       patternUnits="userSpaceOnUse"
-       patternTransform="rotate(45)">
-      <line
-         x1="0"
-         y1="0"
-         x2="0"
-         y2="12"
-         stroke="#bec496"
-         stroke-width="2"
-         id="line2" />
-    </pattern>
     <marker
        id="pil"
        markerWidth="9"
@@ -102,19 +87,13 @@
        stroke="#c8d4c0"
        stroke-width="1"
        id="path6" />
-    <!-- Åker, neste bakke og 3 m bred skråning -->
+    <!-- Åker og 3 m bred skråning -->
     <path
-       d="m 538,140 24,240 24,240 32,240 18,240 18,240 h 96 V 140 Z"
+       d="m 488,140 24,240 24,240 32,240 18,240 18,240 h 146 V 140 Z"
        fill="#ead77a"
        stroke="#c6ad4c"
        stroke-width="1"
        id="path7" />
-    <path
-       d="m 498,140 24,240 24,240 32,240 18,240 18,240 h 40 L 636,1100 618,860 586,620 562,380 538,140 Z"
-       fill="url(#bakke)"
-       stroke="#aeb78b"
-       stroke-width="1"
-       id="path8" />
     <path
        d="m 428,140 24,240 24,240 32,240 18,240 18,240 h 60 L 586,1100 568,860 536,620 512,380 488,140 Z"
        fill="url(#skraaning)"
@@ -211,14 +190,6 @@
        transform="rotate(90,540,740)"
        text-anchor="middle"
        id="text18">Skråning ca. 3,0 m</text>
-    <text
-       x="592"
-       y="740"
-       font-size="12px"
-       fill="#667044"
-       transform="rotate(90,592,740)"
-       text-anchor="middle"
-       id="text19">Neste bakke ca. 2,0 m</text>
     <text
        x="700"
        y="740"

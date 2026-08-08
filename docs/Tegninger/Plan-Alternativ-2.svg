@@ -7,9 +7,6 @@
     <pattern id="skraaning" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
       <line x1="0" y1="0" x2="0" y2="12" stroke="#9aa89a" stroke-width="2"/>
     </pattern>
-    <pattern id="bakke" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
-      <line x1="0" y1="0" x2="0" y2="12" stroke="#bec496" stroke-width="2"/>
-    </pattern>
     <marker id="pil" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto">
       <path d="M0,0 L9,4.5 L0,9 z" fill="#333"/>
     </marker>
@@ -33,9 +30,8 @@
   <path d="M408,140 L432,380 L456,620 L488,860 L506,1100 L524,1340 L544,1340 L526,1100 L508,860 L476,620 L452,380 L428,140 Z"
         fill="#eef3fa" stroke="#b9cbe0" stroke-width="1" stroke-dasharray="6 4"/>
 
-  <!-- Åker, neste bakke og 3 m bred skråning -->
-  <path d="M538,140 L562,380 L586,620 L618,860 L636,1100 L654,1340 L750,1340 L750,140 Z" fill="#ead77a" stroke="#c6ad4c" stroke-width="1"/>
-  <path d="M498,140 L522,380 L546,620 L578,860 L596,1100 L614,1340 L654,1340 L636,1100 L618,860 L586,620 L562,380 L538,140 Z" fill="url(#bakke)" stroke="#aeb78b" stroke-width="1"/>
+  <!-- Åker og 3 m bred skråning -->
+  <path d="M488,140 L512,380 L536,620 L568,860 L586,1100 L604,1340 L750,1340 L750,140 Z" fill="#ead77a" stroke="#c6ad4c" stroke-width="1"/>
   <path d="M428,140 L452,380 L476,620 L508,860 L526,1100 L544,1340 L604,1340 L586,1100 L568,860 L536,620 L512,380 L488,140 Z" fill="url(#skraaning)" stroke="#8b9a8b" stroke-width="1"/>
   <polyline points="452,380 476,620 508,860 526,1100" fill="none" stroke="#5c6b5c" stroke-width="3"/>
   <polyline points="428,140 452,380" fill="none" stroke="#5c6b5c" stroke-width="2" stroke-dasharray="7 5"/>
@@ -49,7 +45,6 @@
     <line x1="536" y1="1100" x2="554" y2="1340"/>
   </g>
   <text x="540" y="740" font-size="12" fill="#3f4a3f" transform="rotate(90 540 740)" text-anchor="middle">Skråning ca. 3,0 m</text>
-  <text x="592" y="740" font-size="12" fill="#667044" transform="rotate(90 592 740)" text-anchor="middle">Neste bakke ca. 2,0 m</text>
   <text x="700" y="740" font-size="13" fill="#826f23" transform="rotate(90 700 740)" text-anchor="middle">Åker</text>
 
   <text x="82" y="740" font-size="11" fill="#6b6250" transform="rotate(-90 82 740)" text-anchor="middle">Vestside – adkomst og carport</text>

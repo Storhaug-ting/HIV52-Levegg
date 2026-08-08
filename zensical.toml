@@ -16,22 +16,26 @@ nav = [
   { "Introduksjon" = "index.md" },
   { "Designforslag" = "Designforslag.md" },
   { "Referanser" = [
-    { "Regelverk" = "Regelverk.md" },
-    { "Kilder" = "Kilder.md" },
+    { "Regelverk" = "Referanser/Regelverk.md" },
+    { "Kilder" = "Referanser/Kilder.md" },
     { "Lover" = [
-      { "Byggesaksforskriften (SAK10)" = "Lover/byggesaksforskriften.md" },
-      { "Eierseksjonsloven" = "Lover/eierseksjonslova.md" },
-      { "Grannegjerdelova" = "Lover/grannegjerdelova.md" },
-      { "Grannelova" = "Lover/grannelova.md" },
-      { "Plan- og bygningsloven" = "Lover/plan-og-bygningsloven.md" },
-      { "Veglova" = "Lover/veglova.md" },
+      { "Byggesaksforskriften (SAK10)" = "Referanser/Lover/byggesaksforskriften.md" },
+      { "Eierseksjonsloven" = "Referanser/Lover/eierseksjonslova.md" },
+      { "Grannegjerdelova" = "Referanser/Lover/grannegjerdelova.md" },
+      { "Grannelova" = "Referanser/Lover/grannelova.md" },
+      { "Plan- og bygningsloven" = "Referanser/Lover/plan-og-bygningsloven.md" },
+      { "Veglova" = "Referanser/Lover/veglova.md" },
+    ] },
+    { "Sameiedokumenter" = [
+      { "Trivsels- og ordensregler" = "Referanser/Sameiedokumenter/Trivsels og ordensregler.md" },
+      { "Vedtekter" = "Referanser/Sameiedokumenter/Revidert Vedtekter 07.05.2026.md" },
     ] },
     { "Mailforslag" = [
-      { "Naboer – forslag til levegg" = "Mail/1-Naboer-forslag-levegg.md" },
-      { "Kommunen – planstatus" = "Mail/2-Kommunen-planstatus.md" },
-      { "Styret – søknad om godkjenning" = "Mail/3-Styret-soknad-om-godkjenning.md" },
+      { "Naboer – forslag til levegg" = "Referanser/Mailforslag/1-Naboer-forslag-levegg.md" },
+      { "Kommunen – planstatus" = "Referanser/Mailforslag/2-Kommunen-planstatus.md" },
+      { "Styret – søknad om godkjenning" = "Referanser/Mailforslag/3-Styret-soknad-om-godkjenning.md" },
     ] },
-    { "Naboerklæring" = "Naboerklaering.md" },
+    { "Naboerklæring" = "Referanser/Naboerklaering.md" },
   ] },
 ]
 
@@ -44,7 +48,12 @@ extra_css = ["stylesheets/extra.css"]
 # than switching to Zensical's new "modern" default design.
 variant = "classic"
 language = "nb"
-features = ["toc.integrate"]
+features = [
+    "toc.integrate",
+    "navigation.instant",
+    "navigation.instant.prefetch",
+    "navigation.instant.preview"
+]
 custom_dir = "overrides"
 
 # Palette toggle for automatic mode

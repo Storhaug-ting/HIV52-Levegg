@@ -95,7 +95,7 @@ Vurderingen her er at de fire veggene **ikke** utgjør en større helhet i beste
 - Veggene kan bli bygget på ulike tidspunkt av ulike parter.
 
 Konklusjonen er ikke opplagt, og spørsmålet er derfor stilt uttrykkelig til kommunen i
-[`Mail/2-Kommunen-planstatus.md`](Mail/2-Kommunen-planstatus.md). Det er langt
+[`Mail/2-Kommunen-planstatus.md`](Mailforslag/2-Kommunen-planstatus.md). Det er langt
 bedre å få dette bekreftet på forhånd enn å få et pålegg om fjerning etter
 [pbl. § 32-3](Lover/plan-og-bygningsloven.md#32-3-palegg-om-retting-og-palegg-om-stans "Plan- og bygningsloven § 32-3 – kommunens adgang til å kreve retting eller fjerning") i ettertid.
 
@@ -167,13 +167,13 @@ kostnaden selv. Blir veggen satt opp i grenselinjen som en felles konstruksjon, 
 kostnaden det naturlige utgangspunktet. Kostnadsdelingen avtales uansett direkte mellom naboene,
 og bør skriftliggjøres.
 
-## 6. [Eierseksjonsloven](Lover/eierseksjonslova.md) og sameiets [vedtekter](Lover/Revidert%20Vedtekter%2007.05.2026.md)
+## 6. [Eierseksjonsloven](Lover/eierseksjonslova.md) og sameiets [vedtekter](Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md)
 
 Dette er den delen som avgjør hvem som skal godkjenne tiltaket.
 
 ### 6.1 Utearealet er fellesareal med enerett
 
-[Vedtektene for Boligsameiet Griniskogen Vest, pkt. 2.4](Lover/Revidert%20Vedtekter%2007.05.2026.md#24-seksjonseierens-rett-til-a-bruke-bruksenheten-og-fellesareal):
+[Vedtektene for Boligsameiet Griniskogen Vest, pkt. 2.4](Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#24-seksjonseierens-rett-til-a-bruke-bruksenheten-og-fellesareal):
 
 > «Seksjonene 1-10 har gårdsplass og hage, som naturlig er tilknyttet seksjonen, seksjonens eier
 > har enerett til å bruke disse delene i inntil 30 år.»
@@ -183,23 +183,23 @@ arealet ikke ligger innenfor seksjonseierens ensidige råderett, selv om bruken 
 
 ### 6.2 Vedtektenes krav til behandling
 
-[Vedtektene pkt. 5.3](Lover/Revidert%20Vedtekter%2007.05.2026.md#53-bygningsmessige-arbeider):
+[Vedtektene pkt. 5.3](Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#53-bygningsmessige-arbeider):
 
 > «Utskifting av vinduer og ytterdører, oppsetting av markiser, endring av fasadekledning, endring
 > av utvendige farger eller lignende, skal skje etter en samlet plan vedtatt av årsmøtet. Skal
 > slikt arbeid utføres av seksjonseierne selv, må det kun skje etter forutgående godkjenning av
 > styret.»
 
- [Vedtektene pkt. 7.9](Lover/Revidert%20Vedtekter%2007.05.2026.md#79-flertallskrav-ved-ulike-beslutninger-pa-arsmtet-srlige-begrensninger-i-arsmtets-myndighet) gjentar
+ [Vedtektene pkt. 7.9](Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#79-flertallskrav-ved-ulike-beslutninger-pa-arsmtet-srlige-begrensninger-i-arsmtets-myndighet) gjentar
 [eierseksjonsloven § 49](Lover/eierseksjonslova.md#49-flertallskrav-ved-ulike-beslutninger-pa-arsmtet-srlige-begrensninger-i-arsmtets-myndighet "Eierseksjonsloven § 49 – flertallskrav for endringer av bebyggelsen eller tomten") bokstav a:
 
 > «Det kreves et flertall på minst to tredjedeler av de avgitte stemmene på årsmøtet for å ta
 > beslutning om a) ombygging, påbygging eller andre endringer av bebyggelsen eller tomten som går
 > ut over vanlig forvaltning og vedlikehold i det aktuelle sameiet»
 
-### 6.3 [Trivsels- og ordensreglene](Lover/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer) har en egen prosedyre for levegger
+### 6.3 [Trivsels- og ordensreglene](Sameiedokumenter/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer) har en egen prosedyre for levegger
 
-Sameiets [trivsels- og ordensregler av 09.09.2025](Lover/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer)
+Sameiets [trivsels- og ordensregler av 09.09.2025](Sameiedokumenter/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer)
 punkt 3 nevner levegger uttrykkelig:
 
 > «Sameier må søke styret om å gjøre inngrep i yttervegger/utearealer (for eksempel å sette opp
@@ -225,17 +225,17 @@ Reglene fastsetter deretter en seksstegs prosedyre:
 Dette er den viktigste enkeltbestemmelsen for saksgangen, og den er styrende for hvordan forslaget
 er lagt opp:
 
-| Krav i [ordensreglene punkt 3](Lover/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer) | Hvordan det er oppfylt |
+| Krav i [ordensreglene punkt 3](Sameiedokumenter/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer) | Hvordan det er oppfylt |
 | ---------------------- | ------------------------ |
-| 1 – Skriftlig søknad til styret før iverksettelse | [`Mail/3-Styret-soknad-om-godkjenning.md`](Mail/3-Styret-soknad-om-godkjenning.md) |
-| 2 – Beskrivelse og illustrasjonstegninger | [`Designforslag.md`](Designforslag.md) med tegningene som følger siden |
+| 1 – Skriftlig søknad til styret før iverksettelse | [`Mail/3-Styret-soknad-om-godkjenning.md`](Mailforslag/3-Styret-soknad-om-godkjenning.md) |
+| 2 – Beskrivelse og illustrasjonstegninger | [`Designforslag.md`](../Designforslag.md) med tegningene som følger siden |
 | 3 – Tekniske undersøkelser innhentet og bekostet av søker | Regelverksgjennomgangen i dette dokumentet. Oppmåling og kontroll av ledninger i grunnen gjenstår. |
 | 4 – Skriftlig samtykke fra berørte naboer | [`Naboerklaering.md`](Naboerklaering.md) – én erklæring per vegg |
 | 5 – Styret/årsmøtet vurderer | Styrets beslutning |
 | 6 – Skriftlig samtykke før iverksettelse | Ingenting settes i gang før dette foreligger |
 
 > [!IMPORTANT]
-> [Ordensreglene punkt 3](Lover/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer) sier at «det bør tilstrebes å finne felles løsninger for å opprettholde et enhetlig
+> [Ordensreglene punkt 3](Sameiedokumenter/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer) sier at «det bør tilstrebes å finne felles løsninger for å opprettholde et enhetlig
 > og moderne uttrykk». Forslaget om én felles standard for hele rekka HIV 50–58 er altså ikke bare
 > praktisk – det er den løsningen sameiets egne regler peker på.
 
@@ -248,14 +248,14 @@ er lagt opp:
 
 | Spørsmål | Vurdering |
 | ---------- | ----------- |
-| Kan seksjonseier sette opp leveggen på egen hånd? | Nei. Arealet er fellesareal med enerett, [vedtektene pkt. 5.3](Lover/Revidert%20Vedtekter%2007.05.2026.md#53-bygningsmessige-arbeider) krever forutgående godkjenning av styret, og [trivsels- og ordensreglene pkt. 3](Lover/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer) krever skriftlig søknad. |
+| Kan seksjonseier sette opp leveggen på egen hånd? | Nei. Arealet er fellesareal med enerett, [vedtektene pkt. 5.3](Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#53-bygningsmessige-arbeider) krever forutgående godkjenning av styret, og [trivsels- og ordensreglene pkt. 3](Sameiedokumenter/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer) krever skriftlig søknad. |
 | Holder et styrevedtak? | Sannsynligvis, dersom styret anser leveggen som innenfor vanlig forvaltning av arealet. Vurderingen tilligger styret. |
-| Når må saken til årsmøtet? | Dersom styret mener leveggene er en «endring av bebyggelsen eller tomten som går ut over vanlig forvaltning», kreves 2/3 flertall på årsmøtet, jf. [vedtektene pkt. 7.9 bokstav a](Lover/Revidert%20Vedtekter%2007.05.2026.md#79-flertallskrav-ved-ulike-beslutninger-pa-arsmtet-srlige-begrensninger-i-arsmtets-myndighet) og [eierseksjonsloven § 49](Lover/eierseksjonslova.md#49-flertallskrav-ved-ulike-beslutninger-pa-arsmtet-srlige-begrensninger-i-arsmtets-myndighet). |
+| Når må saken til årsmøtet? | Dersom styret mener leveggene er en «endring av bebyggelsen eller tomten som går ut over vanlig forvaltning», kreves 2/3 flertall på årsmøtet, jf. [vedtektene pkt. 7.9 bokstav a](Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#79-flertallskrav-ved-ulike-beslutninger-pa-arsmtet-srlige-begrensninger-i-arsmtets-myndighet) og [eierseksjonsloven § 49](Lover/eierseksjonslova.md#49-flertallskrav-ved-ulike-beslutninger-pa-arsmtet-srlige-begrensninger-i-arsmtets-myndighet). |
 | Kreves enstemmighet? | [Eierseksjonsloven § 51](Lover/eierseksjonslova.md#51-beslutninger-som-krever-enighet-fra-alle-seksjonseiere "Eierseksjonsloven § 51 – tiltak som krever enighet fra alle seksjonseiere") krever enighet fra alle bare ved tiltak som vesentlig endrer sameiets karakter. To levegger i samme materiale som husene ligger klart under den terskelen. |
-| Hvem betaler? | Naboene som deler veggen. Tiltaket forutsetter ingen felleskostnader, noe som holder saken utenfor [vedtektene pkt. 7.10](Lover/Revidert%20Vedtekter%2007.05.2026.md) om bomiljøtiltak. |
+| Hvem betaler? | Naboene som deler veggen. Tiltaket forutsetter ingen felleskostnader, noe som holder saken utenfor [vedtektene pkt. 7.10](Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md) om bomiljøtiltak. |
 
 > [!TIP]
-> Fordi [vedtektene pkt. 5.3](Lover/Revidert%20Vedtekter%2007.05.2026.md#53-bygningsmessige-arbeider) taler om «en samlet plan», er det en fordel om forslaget utformes som
+> Fordi [vedtektene pkt. 5.3](Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#53-bygningsmessige-arbeider) taler om «en samlet plan», er det en fordel om forslaget utformes som
 > en standard for hele rekka HIV 50–58. Da kan styret godkjenne én løsning én gang, i stedet for å
 > behandle fem enkeltsaker med risiko for fem forskjellige utførelser.
 
@@ -387,7 +387,7 @@ er ikke avklart. Spørsmålet er stilt til kommunen.
 
 Kilde: [Indre Østfold kommune – Kontakt oss, byggesak](https://www.io.kommune.no/tjenester/byggesak-og-eiendom/skal-du-bygge-rive-eller-endre/kontakt-oss/).
 
-Ferdig e-postutkast ligger i [`Mail/2-Kommunen-planstatus.md`](Mail/2-Kommunen-planstatus.md).
+Ferdig e-postutkast ligger i [`Mail/2-Kommunen-planstatus.md`](Mailforslag/2-Kommunen-planstatus.md).
 
 ## 8. Det som ikke er verifisert
 

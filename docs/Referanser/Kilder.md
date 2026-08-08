@@ -12,7 +12,7 @@ diffbar kopi i stedet for til Lovdata direkte. «Lenke» under er den kontroller
 kilden; «Lokal kopi» er teksten slik den er sitert i saken.
 
 | Kilde | Referanse | Lenke | Lokal kopi |
-| ------- | ----------- | ------- | ------------ |
+|-------|-----------|-------|------------|
 | Byggesaksforskriften (SAK10) § 4-1 | FOR-2010-03-26-488 | [lovdata.no](https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1 "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg") | [Lover/byggesaksforskriften.md](Lover/byggesaksforskriften.md) |
 | Plan- og bygningsloven (pbl) | LOV-2008-06-27-71 | [lovdata.no](https://lovdata.no/lov/2008-06-27-71 "LOV-2008-06-27-71 – plan- og bygningsloven") | [Lover/plan-og-bygningsloven.md](Lover/plan-og-bygningsloven.md) |
 | Grannelova | LOV-1961-06-16-15 | [lovdata.no](https://lovdata.no/lov/1961-06-16-15 "LOV-1961-06-16-15 – lov om rettshøve mellom grannar") | [Lover/grannelova.md](Lover/grannelova.md) |
@@ -23,7 +23,7 @@ kilden; «Lokal kopi» er teksten slik den er sitert i saken.
 Bestemmelsene som er brukt aktivt:
 
 | Bestemmelse | Innhold |
-| ------------- | --------- |
+|-------------|---------|
 | [SAK10 § 4-1 første ledd bokstav f nr. 1](Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse) | Levegg inntil 1,8 m høyde og 10,0 m lengde, minst 1,0 m fra nabogrense |
 | [SAK10 § 4-1 første ledd bokstav f nr. 2](Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse) | Levegg inntil 1,8 m høyde og 5,0 m lengde, kan stå inntil nabogrense – **hjemmelen for dette tiltaket** |
 | [SAK10 § 4-1 andre ledd](Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse) | Tiltakshavers ansvar for at vilkårene er oppfylt |
@@ -43,18 +43,18 @@ Bestemmelsene som er brukt aktivt:
 ## Veiledning fra myndighetene
 
 | Kilde | Lenke |
-| ------- | ------- |
+|-------|-------|
 | Direktoratet for byggkvalitet – veiledning til SAK10 § 4-1 | <https://www.dibk.no/regelverk/sak/2/4/4-1/> |
 | Direktoratet for byggkvalitet – Bygg mer uten å søke | <https://www.dibk.no/bygge-eller-endre/bygg-mer-uten-a-soke> |
 | Indre Østfold kommune – Skal du bygge, rive eller endre? | <https://www.io.kommune.no/tjenester/byggesak-og-eiendom/skal-du-bygge-rive-eller-endre/> |
-| Indre Østfold kommune – byggesak, kontakt | <byggesak@io.kommune.no> · tlf. 69 68 10 00, man–tor 10–14 (unntatt 11.30–12) |
+| Indre Østfold kommune – byggesak, kontakt | byggesak@io.kommune.no · tlf. 69 68 10 00, man–tor 10–14 (unntatt 11.30–12) |
 
 ## Arealplaner
 
 ### Reguleringsplan – gjeldende for eiendommen
 
 | | |
-| --- | --- |
+|---|---|
 | Navn | Griniskogen nordvest – Spydeberg sentrum nord |
 | PlanID | **3014_012320120011** |
 | Plantype | Detaljregulering, jf. pbl. §§ 12-3 og 12-14 |
@@ -65,7 +65,7 @@ Bestemmelsene som er brukt aktivt:
 Bestemmelser som er brukt aktivt:
 
 | Bestemmelse | Innhold |
-| ------------- | --------- |
+|-------------|---------|
 | § 4.1 | Mindre frittstående installasjoner og anlegg kan plasseres over byggegrensene |
 | § 4.3 | Gjerder og avskjerming skal gis en estetisk utforming som harmonerer med boligbebyggelsen |
 | § 4.4 | Ubebygde arealer utenom uteoppholdsareal skal søkes opprettholdt som naturtomt |
@@ -73,10 +73,11 @@ Bestemmelser som er brukt aktivt:
 | § 6 (N1) | Naturområde – grønnstruktur, eksisterende terreng og vegetasjon skal bevares |
 | § 8 (V1, V2) | Vegetasjonsskjerm som buffersone |
 
+
 ### Kommuneplan – gjeldende
 
 | | |
-| --- | --- |
+|---|---|
 | Navn | Kommuneplanens arealdel for Indre Østfold 2024–2035 |
 | PlanID | **3014202101** |
 | Vedtatt | 06.02.2024 |
@@ -84,7 +85,7 @@ Bestemmelser som er brukt aktivt:
 | Kommunens planside | <https://www.io.kommune.no/tjenester/planer-og-horinger/kommuneplan/kommuneplanens-arealdel/> |
 
 | Bestemmelse | Innhold |
-| ------------- | --------- |
+|-------------|---------|
 | § 4.5 | Estetikk og miljøkvalitet |
 | § 5.2 | Boligbebyggelse – inneholder ingen bestemmelser om levegg eller gjerde |
 | § 5.9.1 bokstav j | Forbud mot gjerder og levegger, unntak for levegg inntil 1,8 m og 3 m samlet lengde. **Gjelder fritidsboliger, ikke boligområder** |
@@ -92,7 +93,7 @@ Bestemmelser som er brukt aktivt:
 ### Kommuneplan – tidligere
 
 | | |
-| --- | --- |
+|---|---|
 | Navn | Kommuneplanens arealdel Spydeberg kommune 2016–2028 |
 | PlanID | 0123201401 |
 | Ikrafttredelse | 10.03.2016 |
@@ -101,7 +102,7 @@ Bestemmelser som er brukt aktivt:
 ## Eiendommen
 
 | Kilde | Lenke |
-| ------- | ------- |
+|-------|-------|
 | Matrikkelenhet 3118-411/93 i eiendomsregisteret | <https://eiendomsregisteret.kartverket.no/eiendom/3118/411/93/0/> |
 | Planrapport for eiendommen, 05.05.2023 | [`Salgsdokumenter/Kontraktsvedlegg/`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/PlanRapport_Helge_Ingstads_vei_32_1820_SPYDEBERG_1683280116.pdf) |
 | Situasjonsplan 411/93 | [`Salgsdokumenter/Kontraktsvedlegg/`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/411-93%20Situasjonsplan.pdf) |
@@ -114,7 +115,7 @@ Vedtektene og ordensreglene er også lagret lokalt, slik at referanser i saken k
 rett avsnitt og forhåndsvises på nettstedet.
 
 | Dokument | Lenke |
-| ---------- | ------- |
+|----------|-------|
 | [Vedtekter, revidert 07.05.2026](Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md) | [Original](https://github.com/Storhaug-ting/GriniskogenVest/blob/main/Vedtekter/2026-05-07/Revidert%20Vedtekter%2007.05.2026.md) |
 | [Trivsels- og ordensregler, 09.09.2025](Sameiedokumenter/Trivsels%20og%20ordensregler.md) | [Original](https://github.com/Storhaug-ting/GriniskogenVest/blob/main/Trivsels%20og%20ordensregler/2025-09-09/Trivsels%20og%20ordensregler.md) |
 | Medlemsoversikt | <https://github.com/Storhaug-ting/GriniskogenVest/blob/main/Medlemmer.md> |
@@ -126,7 +127,7 @@ rett avsnitt og forhåndsvises på nettstedet.
 Bestemmelser som er brukt aktivt:
 
 | Bestemmelse | Innhold |
-| ------------- | --------- |
+|-------------|---------|
 | [Vedtektene pkt. 2.4](Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#24-seksjonseierens-rett-til-a-bruke-bruksenheten-og-fellesareal) | Seksjon 1–10 har gårdsplass og hage med enerett i inntil 30 år |
 | [Vedtektene pkt. 5.3](Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#53-bygningsmessige-arbeider) | Utvendige arbeider utført av seksjonseier krever forutgående godkjenning av styret |
 | [Vedtektene pkt. 7.9 bokstav a](Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#79-flertallskrav-ved-ulike-beslutninger-pa-arsmtet-srlige-begrensninger-i-arsmtets-myndighet) | 2/3 flertall for endringer av bebyggelsen eller tomten ut over vanlig forvaltning |
@@ -136,7 +137,7 @@ Bestemmelser som er brukt aktivt:
 ## Faglige kilder
 
 | Kilde | Lenke |
-| ------- | ------- |
+|-------|-------|
 | SINTEF Byggforskserien | <https://www.byggforsk.no> |
 | Byggdetaljer 517.551 Skjerming av uteplasser | <https://www.byggforsk.no/dokument/277/skjerming_av_uteplasser> |
 | Byggdetaljer 517.631 Fundamentering av små konstruksjoner | <https://www.byggforsk.no/dokument/278/fundamentering_av_smaa_konstruksjoner> |
@@ -163,7 +164,7 @@ faglig prosjektering.
 ## Saken i repoet
 
 | Sak | Lenke |
-| ----- | ------- |
+|-----|-------|
 | Issue – designgrunnlag for levegger | <https://github.com/Storhaug-ting/HIV52/issues/6> |
 | Issue – avklaringer til styrebehandling | <https://github.com/Storhaug-ting/HIV52/issues/5> |
 | Mappen med alt materiale | <https://github.com/Storhaug-ting/HIV52/tree/main/Levegger> |

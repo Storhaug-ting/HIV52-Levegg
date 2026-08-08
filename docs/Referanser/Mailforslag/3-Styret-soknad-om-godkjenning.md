@@ -178,8 +178,8 @@ Seksjon 7, Helge Ingstads vei 52
 [grannelova]: ../Lover/grannelova.md "LOV-1961-06-16-15 – lov om rettshøve mellom grannar"
 [kpa]: https://www.io.kommune.no/_f/p1/ie996e6bc-1ff3-474d-9de9-9be78491ada1/02-planbestemmelser-og-retningslinjer-06022024.pdf
 [regplanpdf]: https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/012320120011%20Bestemmelser%20endring_20210702.pdf
-[vedtekter]: ../Lover/Revidert%20Vedtekter%2007.05.2026.md
-[ordensregler]: ../Lover/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer
+[vedtekter]: ../Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md
+[ordensregler]: ../Sameiedokumenter/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer
 [styrereferat]: https://github.com/Storhaug-ting/GriniskogenVest/blob/main/Div/Styrem%C3%B8ter/2026-06-10/2026-06-11-Styrem%C3%B8te.md
 [design]: https://github.com/Storhaug-ting/HIV52/blob/main/Levegger/Designbeskrivelse.md
 [regelverk]: https://github.com/Storhaug-ting/HIV52/blob/main/Levegger/Regelverk.md
