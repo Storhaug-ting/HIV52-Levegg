@@ -16,7 +16,7 @@ site_dir = "site"
 # sidebar under "Referanser".
 nav = [
   { "Introduksjon" = "index.md" },
-  { "Designforslag" = "Designbeskrivelse.md" },
+  { "Designforslag" = "Designforslag.md" },
   { "Referanser" = [
     { "Regelverk" = "Regelverk.md" },
     { "Kilder" = "Kilder.md" },
@@ -46,17 +46,6 @@ extra_css = ["stylesheets/extra.css"]
 # than switching to Zensical's new "modern" default design.
 variant = "classic"
 language = "nb"
-
-features = [
-  "navigation.instant",
-  "navigation.instant.prefetch",
-  "navigation.tracking",
-  "toc.integrate",
-  "content.code.copy",
-  "content.tooltips",
-  "search.suggest",
-  "search.highlight",
-]
 
 # Palette toggle for automatic mode
 [[project.theme.palette]]
