@@ -140,7 +140,7 @@ Fire kledningsalternativer er vurdert.
   gis en estetisk utforming som harmonerer med boligbebyggelsen – nettopp det materialvalget her
   svarer på – og **reguleringsplanens § 4.1** tillater mindre frittstående anlegg utenfor
   byggegrensen. Kommuneplanens bestemmelse om levegg (**kommuneplanens § 5.9.1 bokstav j**) gjelder
-  kun fritidsboliger, ikke boligområder som dette. Se [`Regelverk.md`](Referanser/Regelverk.md) punkt 7 for
+  kun fritidsboliger, ikke boligområder som dette. Se [Regelverk punkt 7](Referanser/Regelverk.md#7-kommunale-planbestemmelser--indre-østfold) for
   full gjennomgang av begge planene.
 - Leveggene skal holde seg innenfor arealformålet **B1 boligbebyggelse** (reguleringsplanen), og
   ikke føres inn i vegetasjonsskjermen som løper langs østsiden av planområdet.

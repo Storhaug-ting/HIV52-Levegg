@@ -9,12 +9,14 @@ site_url = "https://storhaug-ting.github.io/HIV52-Levegg/"
 docs_dir = "docs"
 site_dir = "site"
 
-# Explicit navigation, mirroring the previous mkdocs.yml structure. The
-# "Mailforslag" entry renders as a collapsible submenu at the bottom of the
-# sidebar under "Referanser".
+# Explicit navigation, mirroring the previous mkdocs.yml structure.
 nav = [
   { "Introduksjon" = "index.md" },
   { "Løsningsforslag" = "Løsningsforslag.md" },
+  { "Mailforslag" = [
+    { "Kommunen – planstatus" = "Referanser/Mailforslag/Kommunen-planstatus.md" },
+    { "Styret – søknad om godkjenning" = "Referanser/Mailforslag/Styret-soknad-om-godkjenning.md" },
+  ] },
   { "Referanser" = [
     { "Regelverk" = "Referanser/Regelverk.md" },
     { "Kilder" = "Referanser/Kilder.md" },
@@ -29,11 +31,6 @@ nav = [
     { "Sameiedokumenter" = [
       { "Trivsels- og ordensregler" = "Referanser/Sameiedokumenter/Trivsels og ordensregler.md" },
       { "Vedtekter" = "Referanser/Sameiedokumenter/Revidert Vedtekter 07.05.2026.md" },
-    ] },
-    { "Mailforslag" = [
-      { "Naboer – forslag til levegg" = "Referanser/Mailforslag/1-Naboer-forslag-levegg.md" },
-      { "Kommunen – planstatus" = "Referanser/Mailforslag/2-Kommunen-planstatus.md" },
-      { "Styret – søknad om godkjenning" = "Referanser/Mailforslag/3-Styret-soknad-om-godkjenning.md" },
     ] },
     { "Naboerklæring" = "Referanser/Naboerklaering.md" },
   ] },
