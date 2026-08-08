@@ -1,5 +1,11 @@
+/* Center block images in the document content. */
+.md-typeset img {
+     display: block;
+     margin-inline: auto;
+}
+
 /* Tegningene er laget med mørke streker på lys bunn. I mørk modus settes de
-   derfor på et lyst kort, slik at de fortsatt er lesbare. */
+    derfor på et lyst kort, slik at de fortsatt er lesbare. */
 [data-md-color-scheme="slate"] .md-typeset img[src$=".svg"] {
     background-color: #ffffff;
     border-radius: 0.2rem;
