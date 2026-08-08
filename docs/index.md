@@ -6,9 +6,9 @@ Hagearealene på østsiden av boligene i Helge Ingstads vei 50–58 er helt uten
 
 | Hus | Seksjon | Hjemmelshavere |
 | - | - | - |
-| [HIV 50](Referanser/Grunnbøker/grunnboksutskrift_3118_411_93_0_6.md) | 411/93/0/6 | Trond Birger og Therese Nessestrand |
+| [HIV 50](Referanser/Grunnbøker/grunnboksutskrift_3118_411_93_0_6.md) | 411/93/0/6 | Therese Nessestrand og Trond Birger Nessestrand |
 | [HIV 52](Referanser/Grunnbøker/grunnboksutskrift_3118_411_93_0_7.md) | 411/93/0/7 | Marius og Sigrid Storhaug |
-| [HIV 54](Referanser/Grunnbøker/grunnboksutskrift_3118_411_93_0_8.md) | 411/93/0/8 | Hugo Wilhelmsen og Lill Kristin Hagen |
+| [HIV 54](Referanser/Grunnbøker/grunnboksutskrift_3118_411_93_0_8.md) | 411/93/0/8 | Lill Kristin Hagen og Hugo Wilhelmsen |
 | [HIV 56](Referanser/Grunnbøker/grunnboksutskrift_3118_411_93_0_9.md) | 411/93/0/9 | [Trekanten AS](https://virksomhet.brreg.no/nb/oppslag/enheter/914832705) |
 | [HIV 58](Referanser/Grunnbøker/grunnboksutskrift_3118_411_93_0_10.md) | 411/93/0/10 | Andreas Takvam og Hanne Kjersti Vikeby |
 
