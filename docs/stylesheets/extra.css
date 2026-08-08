@@ -5,8 +5,3 @@
   border-radius: 0.2rem;
   padding: 0.6rem;
 }
-
-/* Keep navigation links while removing the title block from the left menu. */
-.md-sidebar--primary .md-nav__title {
-  display: none;
-}

@@ -51,7 +51,6 @@ features = [
   "navigation.instant",
   "navigation.instant.prefetch",
   "navigation.tracking",
-  "toc.integrate",
   "content.code.copy",
   "content.tooltips",
   "search.suggest",
