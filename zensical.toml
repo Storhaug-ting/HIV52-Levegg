@@ -50,7 +50,6 @@ variant = "classic"
 language = "nb"
 features = [
     "toc.integrate",
-    "navigation.tabs",
     "navigation.instant",
     "navigation.instant.prefetch",
     "navigation.instant.preview"

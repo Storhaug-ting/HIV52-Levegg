@@ -1,7 +1,6 @@
-/* Center block images in the document content. */
+/* Let illustrations use more of the available content width. */
 .md-typeset img {
-     display: block;
-     margin-inline: auto;
+    width: min(100%, 52rem);
 }
 
 /* Tegningene er laget med mørke streker på lys bunn. I mørk modus settes de
