@@ -10,9 +10,7 @@ Rekka går nord–sør, uteoppholdsarealene ligger på østsiden, og leveggene g
 østfasade. Husene står forskjøvet i forhold til hverandre: HIV 50 er ca 4 m lenger vest enn HIV 52 og
 54, som igjen er ca 2 m lenger vest enn HIV 56 og 58.
 
-Forslaget omfatter fire vegger:
-
-| Vegg | Mellom | Seksjoner | Avstand | Parter |
+| Vegg | Mellom | Seksjoner | Avstand til skråningsfot | Parter |
 | - | - | - | - | - |
 | A | HIV 50 og HIV 52 | 6 og 7 | 4,10 m | Nessestrand · Storhaug |
 | B | HIV 52 og HIV 54 | 7 og 8 | 5,30 m | Storhaug · Wilhelmsen/Hagen |
