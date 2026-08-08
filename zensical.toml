@@ -14,7 +14,7 @@ site_dir = "site"
 # sidebar under "Referanser".
 nav = [
   { "Introduksjon" = "index.md" },
-  { "Designforslag" = "Designforslag.md" },
+  { "Løsningsforslag" = "Løsningsforslag.md" },
   { "Referanser" = [
     { "Regelverk" = "Referanser/Regelverk.md" },
     { "Kilder" = "Referanser/Kilder.md" },
@@ -50,6 +50,7 @@ variant = "classic"
 language = "nb"
 features = [
     "toc.integrate",
+    "navigation.tabs",
     "navigation.instant",
     "navigation.instant.prefetch",
     "navigation.instant.preview"

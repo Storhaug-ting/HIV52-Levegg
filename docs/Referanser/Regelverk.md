@@ -228,7 +228,7 @@ er lagt opp:
 | Krav i [ordensreglene punkt 3](Sameiedokumenter/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer) | Hvordan det er oppfylt |
 | ---------------------- | ------------------------ |
 | 1 – Skriftlig søknad til styret før iverksettelse | [`Mail/3-Styret-soknad-om-godkjenning.md`](Mailforslag/3-Styret-soknad-om-godkjenning.md) |
-| 2 – Beskrivelse og illustrasjonstegninger | [`Designforslag.md`](../Designforslag.md) med tegningene som følger siden |
+| 2 – Beskrivelse og illustrasjonstegninger | [`Løsningsforslag.md`](../Løsningsforslag.md) med tegningene som følger siden |
 | 3 – Tekniske undersøkelser innhentet og bekostet av søker | Regelverksgjennomgangen i dette dokumentet. Oppmåling og kontroll av ledninger i grunnen gjenstår. |
 | 4 – Skriftlig samtykke fra berørte naboer | [`Naboerklaering.md`](Naboerklaering.md) – én erklæring per vegg |
 | 5 – Styret/årsmøtet vurderer | Styrets beslutning |

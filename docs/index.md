@@ -1,34 +1,8 @@
 # Levegger – Helge Ingstads vei 50–58
 
-Uteoppholdsarealene på østsiden av husene er i dag helt uskjermet.
-Uteplassene ligger rett ved siden av hverandre, uten noen form for skille.
-Innsynet er fritt begge veier, og bruken av egen uteplass foregår i praksis i naboens synsfelt. Det
-begrenser bruken av arealene mer enn nødvendig – for alle parter, i begge retninger.
+Uteoppholdsarealene på østsiden av husene er i dag helt uskjermet, uten noen form for skjerming. Innsynet er fritt begge veier, og bruken av egen uteplass foregår i praksis i naboens synsfelt. Det begrenser bruken av arealene mer enn nødvendig – for alle parter, i begge retninger.
 
-Settes det opp én vegg nå, én om to år og én om fem, ender rekka lett opp med fire ulike løsninger
-i samme fasadeflate. Sameiets [trivsels- og ordensregler punkt 3](Referanser/Sameiedokumenter/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer)
-sier at «det bør tilstrebes å finne felles løsninger for å opprettholde et enhetlig og moderne uttrykk
-på boenhetene», og [vedtektene punkt 5.3](Referanser/Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#53-bygningsmessige-arbeider)
-forutsetter at utvendige endringer skjer etter «en samlet plan». Derfor legges saken fram som ett
-ferdig designgrunnlag for alle fire skillene, slik at styret kan ta stilling til utformingen én gang –
-og den enkelte veggen kan settes opp når det passer for de to som deler den.
-
-Sameiets [ordensregler punkt 3](Referanser/Sameiedokumenter/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer)
-krever skriftlig søknad til styret med beskrivelse og tegninger, tekniske undersøkelser bekostet av
-søker, og **skriftlig samtykke fra berørte naboer**. Selve tiltaket er unntatt søknadsplikt etter
-[SAK10 § 4-1](Referanser/Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg") første
-ledd bokstav f nr. 2 så lenge veggen er inntil 1,8 m høy og inntil 5,0 m lang fra husvegg. Det som
-gjenstår er derfor ikke det offentlige regelverket, men enigheten internt i rekka: felles utforming
-og valg av lengdealternativ.
-
-> [SAK10 § 4-1 første ledd bokstav f nr. 2](Referanser/Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse):
-> «Levegg (skjermvegg) med høyde inntil 1,8 m og lengde inntil 5,0 m. Leveggen kan være
-> frittstående eller forbundet med bygning og kan plasseres inntil nabogrense.»
-
-Sameiet kan ikke belastes noen kostnader. Kostnadene avtales direkte mellom eierne som deler
-hver vegg. Det samme gjelder framtidig vedlikehold og evt reparasjoner.
-
-## Rekka og de fire veggene
+## Situasjonsoversikt
 
 ![Bygnings oversikt – avstander fra hus til skråningsfot](Tegninger/Plan-Maaling-Skraaning.svg)
 
