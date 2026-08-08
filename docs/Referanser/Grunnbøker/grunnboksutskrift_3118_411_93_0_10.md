@@ -12,9 +12,14 @@
 
 ### Rettighetshavere til eiendomsrett
 
-| Dokument | Type | Dato og klokkeslett | Vederlag | Rettighetshavere | Merknad |
-| --- | --- | --- | --- | --- | --- |
-| 2024/1030294-1/200 | Hjemmel til eiendomsrett | 29.01.2024 kl. 10.12 | NOK 6 900 000 | Andreas Takvam, ideell 1/2 (f.nr. 010587)<br>Hanne Kjersti Vikeby, ideell 1/2 (f.nr. 190988) | Elektronisk innsendt |
+| | |
+| - | - |
+| Dokument | 2024/1030294-1/200 |
+| Type | Hjemmel til eiendomsrett |
+| Dato og klokkeslett | 29.01.2024 kl. 10.12 |
+| Vederlag | NOK 6 900 000 |
+| Rettighetshavere | Andreas Takvam, ideell 1/2<br>010587<br>Hanne Kjersti Vikeby, ideell 1/2<br>190988 |
+| Merknad | Elektronisk innsendt |
 
 ## Heftelser
 

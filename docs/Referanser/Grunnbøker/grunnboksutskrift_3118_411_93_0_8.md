@@ -12,9 +12,13 @@
 
 ### Rettighetshavere til eiendomsrett
 
-| Dokument | Type | Dato og klokkeslett | Vederlag | Rettighetshavere |
-| --- | --- | --- | --- | --- |
-| 2025/1285622-1/200 | Hjemmel til eiendomsrett | 24.10.2025 kl. 21.00 | NOK 6 300 000 | Lill Kristin Hagen, ideell 1/2 (f.nr. 190864)<br>Hugo Wilhelmsen, ideell 1/2 (f.nr. 131058) |
+| | |
+| - | - |
+| Dokument | 2025/1285622-1/200 |
+| Type | Hjemmel til eiendomsrett |
+| Dato og klokkeslett | 24.10.2025 kl. 21.00 |
+| Vederlag | NOK 6 300 000 |
+| Rettighetshavere | Lill Kristin Hagen, ideell 1/2<br>190864<br>Hugo Wilhelmsen, ideell 1/2<br>131058 |
 
 ## Heftelser
 

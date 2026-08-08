@@ -12,9 +12,14 @@
 
 ### Rettighetshavere til eiendomsrett
 
-| Dokument | Type | Dato og klokkeslett | Vederlag | Rettighetshaver | Merknad |
-| --- | --- | --- | --- | --- | --- |
-| 2018/630266-1/200 | Hjemmel til eiendomsrett | 10.04.2018 kl. 21.00 | NOK 5 500 000 | Trekanten AS (org.nr. 914 832 705) | Gjelder denne registerenheten med flere |
+| | |
+| - | - |
+| Dokument | 2018/630266-1/200 |
+| Type | Hjemmel til eiendomsrett |
+| Dato og klokkeslett | 10.04.2018 kl. 21.00 |
+| Vederlag | NOK 5 500 000 |
+| Rettighetshaver | Trekanten AS<br>914 832 705 |
+| Merknad | Gjelder denne registerenheten med flere |
 
 ## Heftelser
 

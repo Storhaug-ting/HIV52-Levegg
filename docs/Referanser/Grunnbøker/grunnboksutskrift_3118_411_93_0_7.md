@@ -12,9 +12,14 @@
 
 ### Rettighetshavere til eiendomsrett
 
-| Dokument | Type | Dato og klokkeslett | Vederlag | Rettighetshavere | Merknad |
-| --- | --- | --- | --- | --- | --- |
-| 2026/119329-1/200 | Hjemmel til eiendomsrett | 02.02.2026 kl. 09.47 | NOK 6 600 000 | Marius Storhaug, ideell 1/2 (f.nr. 151286)<br>Sigrid Storhaug, ideell 1/2 (f.nr. 171285) | Elektronisk innsendt |
+| | |
+| - | - |
+| Dokument | 2026/119329-1/200 |
+| Type | Hjemmel til eiendomsrett |
+| Dato og klokkeslett | 02.02.2026 kl. 09.47 |
+| Vederlag | NOK 6 600 000 |
+| Rettighetshavere | Marius Storhaug, ideell 1/2<br>151286<br>Sigrid Storhaug, ideell 1/2<br>171285 |
+| Merknad | Elektronisk innsendt |
 
 ## Heftelser
 

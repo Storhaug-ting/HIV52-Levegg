@@ -12,9 +12,14 @@
 
 ### Rettighetshavere til eiendomsrett
 
-| Dokument | Type | Dato og klokkeslett | Vederlag | Rettighetshavere | Merknad |
-| --- | --- | --- | --- | --- | --- |
-| 2025/181826-1/200 | Hjemmel til eiendomsrett | 16.02.2025 kl. 16.42 | NOK 6 800 000 | Therese Nessestrand, ideell 1/2 (f.nr. 020289)<br>Trond Birger Nessestrand, ideell 1/2 (f.nr. 191191) | Elektronisk innsendt |
+| | |
+| - | - |
+| Dokument | 2025/181826-1/200 |
+| Type | Hjemmel til eiendomsrett |
+| Dato og klokkeslett | 16.02.2025 kl. 16.42 |
+| Vederlag | NOK 6 800 000 |
+| Rettighetshavere | Therese Nessestrand, ideell 1/2<br>020289<br>Trond Birger Nessestrand, ideell 1/2<br>191191 |
+| Merknad | Elektronisk innsendt |
 
 ## Heftelser
 
