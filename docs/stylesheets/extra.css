@@ -1,7 +1,12 @@
 /* Tegningene er laget med mørke streker på lys bunn. I mørk modus settes de
    derfor på et lyst kort, slik at de fortsatt er lesbare. */
 [data-md-color-scheme="slate"] .md-typeset img[src$=".svg"] {
-  background-color: #ffffff;
-  border-radius: 0.2rem;
-  padding: 0.6rem;
+    background-color: #ffffff;
+    border-radius: 0.2rem;
+    padding: 0.6rem;
+}
+
+/* Hide the site name above the primary navigation menu. */
+.md-nav--primary>.md-nav__title {
+    display: none;
 }

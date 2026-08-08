@@ -44,6 +44,8 @@ extra_css = ["stylesheets/extra.css"]
 # than switching to Zensical's new "modern" default design.
 variant = "classic"
 language = "nb"
+features = ["toc.integrate"]
+custom_dir = "overrides"
 
 # Palette toggle for automatic mode
 [[project.theme.palette]]
