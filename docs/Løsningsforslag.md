@@ -30,9 +30,10 @@ mer enn 1 år etter at naboerklæringen er signert for å ivareta målet med
 Det er derfor ønskelig å få enighet om utformingen én gang slik at godkjenningen vi søker gjelder
 alle vegger. Kostnadene avtales direkte mellom de to som deler veggen.
 
-To alternative utstrekninger legges fram. Alternativene skiller seg kun i **hvor langt ut leveggen føres**.
-Materialbruk, høyde, konstruksjon og utførelse er identisk, og samme alternativ bør velges for hele
-rekka slik at uttrykket blir enhetlig.
+Forslaget er å føre leveggene fram til skråningsfoten, innenfor grensen på 5,0 m. Materialbruk,
+høyde, konstruksjon og utførelse er identisk for alle veggene, slik at uttrykket blir enhetlig.
+Alternativ 2 er tatt med nedenfor bare for å synliggjøre virkningen av å legge igjen en gjennomgående
+passasje.
 
 ### Alternativ 1 – fram til skråningsfoten, maks 5,0 m
 
@@ -48,6 +49,9 @@ Leveggen føres østover fra østfasaden, helt fram til foten av skråningen, op
 | D | 5,00 m | **5,00 m** | Grensen og skråningsfoten sammenfaller |
 
 Samlet lengde: 18,20 m fordelt på fire vegger.
+
+Dette er det anbefalte alternativet. Veggene avgrenser de hagearealene som er naturlig knyttet til
+hver seksjon, uten å etablere en ny ferdselsåre på tvers av disse arealene.
 
 ### Alternativ 2 – stopper 1,0 m før skråningsfoten, maks 5,0 m
 
@@ -70,13 +74,16 @@ Samlet lengde: 14,50 m fordelt på fire vegger. 5,0 m-grensen slår aldri inn i 
 | --- | --- | --- |
 | Lengder | 4,10 · 5,00 · 4,10 · 5,00 m | 3,10 · 4,30 · 3,10 · 4,00 m |
 | Samlet lengde | 18,20 m | 14,50 m |
-| Skjerming | Tre av fire vegger går helt ut til skråningen | Alle stopper 1,0 m før skrøningen |
+| Skjerming | Tre av fire vegger går helt ut til skråningen | Alle stopper 1,0 m før skråningen |
 | Passasje langs skråningen | Ingen | Gjennomgående for hele rekka |
 | Vedlikehold av skråningen | Må gjøres fra egen side av veggen | Kan gjøres fra begge sider uten å gå rundt |
 
-Valget mellom alternativene er i hovedsak et spørsmål om hvorvidt det er ønskelig å kunne gå
-langs skråningsfoten på tvers av rekka. Alternativ 2 gir en sammenhengende passasje bak alle fem
-boligene.
+Alternativ 2 vil etablere en sammenhengende passasje bak alle fem boligene. Det er ikke ønskelig.
+Hagearealene har enerett for seksjonene 1-10, og en gjennomgående passasje ville begrense den
+eksklusive bruken av arealet som naturlig hører til den enkelte seksjonen. Det er ikke påvist at
+noen seksjonseier trenger tilgang langs skråningsfoten. Dersom sameiet senere dokumenterer et slikt
+behov, må spørsmålet om adgang behandles særskilt; det bør ikke løses ved å innføre ordinær
+gjennomfart som del av denne godkjenningen.
 
 Begge alternativene holder alle fire vegger innenfor 5,0 m. Hjemmelen i
 [SAK10 § 4-1](Referanser/Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg") første ledd bokstav f nr. 2
@@ -143,6 +150,10 @@ Fire kledningsalternativer er vurdert.
 - Utearealet er **fellesareal med enerett**, jf. [vedtektene pkt. 2.4](Referanser/Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#24-seksjonseierens-rett-til-a-bruke-bruksenheten-og-fellesareal).
   [Vedtektene pkt. 5.3](Referanser/Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#53-bygningsmessige-arbeider) krever
   forutgående godkjenning av styret når seksjonseier selv utfører utvendige arbeider.
+- Vedtektene gir seksjonene 1-10 enerett til hage og gårdsplass som naturlig er knyttet til
+  seksjonen, i inntil 30 år. Eneretten gjelder ikke der andre seksjonseiere **trenger tilgang**.
+  Det er ikke dokumentert noe slikt behov langs skråningsfoten. En gjennomgående passasje bør derfor
+  ikke etableres uten et særskilt, dokumentert tilgangsbehov og en uttrykkelig beslutning om det.
 - Fire levegger på samme matrikkelenhet kan i prinsippet bli vurdert samlet av kommunen, jf. DiBKs
   veiledning om at «mange mindre tiltak som utgjør en større helhet må ses samlet». Veggene står
   fritt fra hverandre med hele hagebredder imellom og danner ingen sammenhengende konstruksjon,

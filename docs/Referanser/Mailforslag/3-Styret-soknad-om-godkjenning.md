@@ -50,7 +50,7 @@ Leveggene går østover fra husenes østfasade, i skillet mellom uteoppholdsarea
 | Materiale | Malmfuru med grå jernvitriolbehandling, montert stående. Alternativ 3 og 4 har vekslende dobbelfals med rette kanter, ca. 5 mm synlig spalte og falsdybde lik halvparten av bordtykkelsen. Alternativ 1 og 2 har rette 23 × 48 mm bord med 10 mm spalte |
 | Kledning | Samme profil og bredde som husets kledning, montert stående |
 | Høyde | 1,8 m over ferdig terreng |
-| Lengde | 3,10–5,00 m per vegg, avhengig av lengdealternativ – se tabellen under |
+| Lengde | 4,10–5,00 m per vegg, fram til skråningsfoten og begrenset til 5,0 m – se tabellen under |
 | Konstruksjon | 48 × 98 mm CU-impregnert reisverk på dobbel bunnsvill fra grunnmur til avtalt lengde. Betongfundament til frostfri dybde med ekstra betongmasse nederst, bjelkesko/beslag, dekkbord på toppen og minst 200 mm luftespalte mot bakken |
 | Kledningssnitt | Alternativ 2: vekselvis bord på begge sider av rammeverket foreslås, slik at veggen skjermer for innsyn og samtidig slipper gjennom luft. Se byggeteknisk grunnlag |
 | Innfesting | A4 syrefaste skruer, siden jernvitriol angriper sink og gir mørke renner på galvanisert stål |
@@ -60,29 +60,29 @@ Leveggene går østover fra husenes østfasade, i skillet mellom uteoppholdsarea
 
 Avstanden fra østfasaden til foten av skråningen er målt i hver veggs akse 2. august 2026:
 
-| Vegg | Mellom | Målt avstand | Alternativ 1 | Alternativ 2 |
-| ------ | -------- | -------------- | -------------- | -------------- |
-| A | HIV 50 – 52 | 4,10 m | 4,10 m | 3,10 m |
-| B | HIV 52 – 54 | 5,30 m | 5,00 m | 4,30 m |
-| C | HIV 54 – 56 | 4,10 m | 4,10 m | 3,10 m |
-| D | HIV 56 – 58 | 5,00 m | 5,00 m | 4,00 m |
-| | **Sum** | | **18,20 m** | **14,50 m** |
+| Vegg | Mellom | Målt avstand | Foreslått lengde |
+| ------ | -------- | -------------- | ----------------- |
+| A | HIV 50 – 52 | 4,10 m | 4,10 m |
+| B | HIV 52 – 54 | 5,30 m | 5,00 m |
+| C | HIV 54 – 56 | 4,10 m | 4,10 m |
+| D | HIV 56 – 58 | 5,00 m | 5,00 m |
+| | **Sum** | | **18,20 m** |
 
-**Alternativ 1** fører leveggen helt fram til foten av skråningen, begrenset til 5,0 m. Tre av
-veggene når helt fram; vegg B stopper 0,30 m før fordi 5 m-grensen kommer først.
+Leveggene føres helt fram til foten av skråningen, begrenset til 5,0 m. Tre av veggene når helt
+fram; vegg B stopper 0,30 m før fordi 5,0 m-grensen kommer først. Dette avgrenser hagearealene
+som naturlig hører til seksjonene, uten å etablere en ny gjennomgående passasje langs skråningen.
 
-**Alternativ 2** stopper 1,0 m før foten av skråningen og gir en gjennomgående passasje langs
-skråningsfoten for hele rekka. Vegg A og C blir da 3,10 m.
-
-Vi har ikke noe sterkt standpunkt mellom disse og tar gjerne styrets syn med i vurderingen. Samme
-alternativ bør velges for alle fire vegger.
+Vedtektene gir seksjonene 1-10 enerett til å bruke hage og gårdsplass som naturlig er knyttet til
+seksjonen, i inntil 30 år. Eneretten gjelder ikke dersom andre seksjonseiere trenger tilgang, men
+det er ikke dokumentert noe slikt behov langs skråningsfoten. En eventuell framtidig adgang bør
+derfor vurderes særskilt, ikke etableres som ordinær gjennomfart i denne godkjenningen.
 
 ## Søknaden opp mot [trivsels- og ordensreglene punkt 3][ordensregler]
 
 | Krav | Hvordan det er oppfylt |
 | ------ | ------------------------ |
 | 1 – Skriftlig søknad til styret før iverksettelse | Denne henvendelsen |
-| 2 – Beskrivelse og illustrasjonstegninger | [Designbeskrivelse][design] med planskisser for begge alternativer, oppriss med målsetting og horisontalsnitt av kledningen |
+| 2 – Beskrivelse og illustrasjonstegninger | [Designbeskrivelse][design] med planskisse av foreslått plassering, oppriss med målsetting og horisontalsnitt av kledningen |
 | 3 – Tekniske undersøkelser innhentet og bekostet av søker | [Rettslig grunnlag][regelverk] mot [SAK10][sak10], reguleringsplanen, kommuneplanens arealdel, [grannelova][grannelova], [eierseksjonsloven][eierseksjonsloven] og [sameiets vedtekter][vedtekter]. [Byggeteknisk grunnlag][byggeteknikk] med referanser til SINTEF Byggforskserien om vindskjerming, fundamentering og trebeskyttelse. Avstandene er målt opp på stedet. Terrengfall og kontroll av ledninger i grunnen gjenstår og bekostes av oss. |
 | 4 – Skriftlig samtykke fra berørte naboer | [Naboerklæring][naboerklaering] er utarbeidet, én per vegg. Samtlige eiere i rekka er kopiert på denne henvendelsen. |
 | 5 – Styret/årsmøtet vurderer | Vi ber om styrets behandling, se spørsmålene under |

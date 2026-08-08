@@ -189,7 +189,7 @@
        fill="#3f4a3f"
        transform="rotate(90,540,740)"
        text-anchor="middle"
-       id="text18">Skråning ca. 3,0 m</text>
+      id="text18">Skråning</text>
     <text
        x="700"
        y="740"

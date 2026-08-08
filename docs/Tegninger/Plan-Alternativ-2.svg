@@ -28,7 +28,7 @@
 
   <!-- Gjennomgående passasje, 1,0 m innenfor skråningsfoten -->
   <path d="M408,140 L432,380 L456,620 L488,860 L506,1100 L524,1340 L544,1340 L526,1100 L508,860 L476,620 L452,380 L428,140 Z"
-        fill="#eef3fa" stroke="#b9cbe0" stroke-width="1" stroke-dasharray="6 4"/>
+      fill="#cfe4f7" stroke="#1f4e79" stroke-width="1.5" stroke-dasharray="7 4"/>
 
   <!-- Åker og 3 m bred skråning -->
   <path d="M488,140 L512,380 L536,620 L568,860 L586,1100 L604,1340 L750,1340 L750,140 Z" fill="#ead77a" stroke="#c6ad4c" stroke-width="1"/>
@@ -44,7 +44,7 @@
     <line x1="486" y1="620" x2="518" y2="860"/><line x1="518" y1="860" x2="536" y2="1100"/>
     <line x1="536" y1="1100" x2="554" y2="1340"/>
   </g>
-  <text x="540" y="740" font-size="12" fill="#3f4a3f" transform="rotate(90 540 740)" text-anchor="middle">Skråning ca. 3,0 m</text>
+  <text x="540" y="740" font-size="12" fill="#3f4a3f" transform="rotate(90 540 740)" text-anchor="middle">Skråning</text>
   <text x="700" y="740" font-size="13" fill="#826f23" transform="rotate(90 700 740)" text-anchor="middle">Åker</text>
 
   <text x="82" y="740" font-size="11" fill="#6b6250" transform="rotate(-90 82 740)" text-anchor="middle">Vestside – adkomst og carport</text>
@@ -104,13 +104,11 @@
     <rect x="407" y="1118" width="118" height="18" fill="#ffffff" opacity="0.92"/><text x="466" y="1131">Vegg D · L = 4,00 m</text>
   </g>
 
-  <!-- 1,0 m passasje -->
-  <line x1="519" y1="1270" x2="539" y2="1270" stroke="#1f4e79" stroke-width="1.4" marker-start="url(#pilBlaStart)" marker-end="url(#pilBla)"/>
-  <line x1="519" y1="1262" x2="519" y2="1278" stroke="#1f4e79" stroke-width="0.9"/>
-  <line x1="539" y1="1262" x2="539" y2="1278" stroke="#1f4e79" stroke-width="0.9"/>
-  <rect x="548" y="1256" width="200" height="34" fill="#ffffff" opacity="0.92"/>
-  <text x="552" y="1270" font-size="12" font-weight="600" fill="#1f4e79">1,0 m</text>
-  <text x="552" y="1286" font-size="11.5" fill="#1f4e79">Gjennomgående passasje</text>
+  <!-- 1,0 m bred ferdselsåre mellom levegg og skråningsfot -->
+  <line x1="472" y1="740" x2="492" y2="740" stroke="#1f4e79" stroke-width="1.4" marker-start="url(#pilBlaStart)" marker-end="url(#pilBla)"/>
+  <line x1="472" y1="732" x2="472" y2="748" stroke="#1f4e79" stroke-width="0.9"/>
+  <line x1="492" y1="732" x2="492" y2="748" stroke="#1f4e79" stroke-width="0.9"/>
+  <text x="522" y="1220" font-size="12" font-weight="600" fill="#1f4e79" text-anchor="middle" transform="rotate(84 522 1220)">Ferdselsåre 1,0 m bred</text>
 
   </g>
 

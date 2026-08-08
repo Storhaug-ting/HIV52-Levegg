@@ -19,12 +19,12 @@ søknaden til styret.
 
 Avstanden `A` fra østfasaden til foten av skråningen er målt 2. august 2026:
 
-| Vegg | Mellom | A | Lengde alt. 1 | Lengde alt. 2 |
-|------|--------|---|---------------|---------------|
-| A | HIV 50 – 52 | 4,10 m | 4,10 m | 3,10 m |
-| B | HIV 52 – 54 | 5,30 m | 5,00 m | 4,30 m |
-| C | HIV 54 – 56 | 4,10 m | 4,10 m | 3,10 m |
-| D | HIV 56 – 58 | 5,00 m | 5,00 m | 4,00 m |
+| Vegg | Mellom | A | Avtalt vegglengde |
+|------|--------|---|-------------------|
+| A | HIV 50 – 52 | 4,10 m | 4,10 m |
+| B | HIV 52 – 54 | 5,30 m | 5,00 m |
+| C | HIV 54 – 56 | 4,10 m | 4,10 m |
+| D | HIV 56 – 58 | 5,00 m | 5,00 m |
 
 ### Tiltaket
 
@@ -36,9 +36,9 @@ Levegg mellom de to seksjonenes uteoppholdsarealer, utført i samsvar med design
 | Materiale | Malmfuru med grå jernvitriolbehandling, stående kledning med rette bordkanter |
 | Kledning | Alternativ 3 og 4 har vekslende dobbelfals med rette kanter, ca. 5 mm synlig spalte og falsdybde lik halvparten av bordtykkelsen. Alternativ 1 og 2 har rette 23 × 48 mm bord med 10 mm spalte |
 | Høyde | 1,8 m over ferdig terreng |
-| Lengdealternativ | ☐ Alternativ 1 – til foten av skråningen ☐ Alternativ 2 – 1,0 m før foten |
+| Lengde | Til foten av skråningen, begrenset til 5,0 m |
 | Kledningssnitt | ☐ Alternativ 1 spaltet ☐ Alternativ 2 vekselvis på begge sider (anbefalt) ☐ Alternativ 3 helt tett på én side ☐ Alternativ 4 helt tett på begge sider |
-| Lengde for denne veggen | ______ m |
+| Lengde for denne veggen | ______ m, jf. tabellen over |
 | Konstruksjon | 48 × 98 mm CU-impregnert reisverk på dobbel bunnsvill fra grunnmur til avtalt lengde. Betongfundament føres til frostfri dybde med ekstra betongmasse nederst, bjelkesko/beslag, dekkbord på toppen, endebord på fri uteside og luftespalte ≥ 200 mm mot bakken |
 | Plassering | I grenselinjen mellom seksjonenes enerettsarealer, østover fra østfasaden |
 

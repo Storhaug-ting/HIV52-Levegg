@@ -38,7 +38,7 @@
       <line x1="486" y1="620" x2="518" y2="860"/><line x1="518" y1="860" x2="536" y2="1100"/>
       <line x1="536" y1="1100" x2="554" y2="1340"/>
     </g>
-    <text x="540" y="740" font-size="12" fill="#3f4a3f" transform="rotate(90 540 740)" text-anchor="middle">Skråning ca. 3,0 m</text>
+    <text x="540" y="740" font-size="12" fill="#3f4a3f" transform="rotate(90 540 740)" text-anchor="middle">Skråning</text>
     <text x="700" y="740" font-size="13" fill="#826f23" transform="rotate(90 700 740)" text-anchor="middle">Åker</text>
 
     <!-- Stiplede mål til skråningsfoten -->
