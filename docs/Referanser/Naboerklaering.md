@@ -20,7 +20,7 @@ søknaden til styret.
 Avstanden `A` fra østfasaden til foten av skråningen er målt 2. august 2026:
 
 | Vegg | Mellom | A | Avtalt vegglengde |
-|------|--------|---|-------------------|
+| ------ | -------- | --- | ------------------- |
 | A | HIV 50 – 52 | 4,10 m | 4,10 m |
 | B | HIV 52 – 54 | 5,30 m | 5,00 m |
 | C | HIV 54 – 56 | 4,10 m | 4,10 m |
@@ -32,7 +32,7 @@ Levegg mellom de to seksjonenes uteoppholdsarealer, utført i samsvar med design
 2. august 2026:
 
 | Forhold | Verdi |
-|---------|-------|
+| --------- | ------- |
 | Materiale | Malmfuru med grå jernvitriolbehandling, stående kledning med rette bordkanter |
 | Kledning | Alternativ 3 og 4 har vekslende dobbelfals med rette kanter, ca. 5 mm synlig spalte og falsdybde lik halvparten av bordtykkelsen. Alternativ 1 og 2 har rette 23 × 48 mm bord med 10 mm spalte |
 | Høyde | 1,8 m over ferdig terreng |
@@ -48,7 +48,7 @@ Designbeskrivelse og målsatte tegninger:
 ### Kostnad og vedlikehold
 
 | Forhold | Avtalt |
-|---------|--------|
+| --------- | -------- |
 | Fordeling av kostnad ved oppføring | ______________________________________ |
 | Fordeling av framtidig vedlikehold | ______________________________________ |
 | Hvem utfører arbeidet | ______________________________________ |
@@ -66,7 +66,7 @@ Samtykket gjelder utformingen. Vesentlige endringer i høyde, lengde, materiale 
 krever nytt samtykke.
 
 | Seksjon | Navn | Dato | Signatur |
-|---------|------|------|----------|
+| --------- | ------ | ------ | ---------- |
 | | | | |
 | | | | |
 | | | | |
@@ -83,7 +83,7 @@ _____________________________________________________________________________
 ## Partsoversikt
 
 | Vegg | Mellom | Seksjoner | Hjemmelshavere |
-|------|--------|-----------|----------------|
+| ------ | -------- | ----------- | ---------------- |
 | A | HIV 50 og HIV 52 | 6 og 7 | Trond Birger og Therese Nessestrand · Marius og Sigrid Storhaug |
 | B | HIV 52 og HIV 54 | 7 og 8 | Marius og Sigrid Storhaug · Hugo Wilhelmsen og Lill Kristin Hagen |
 | C | HIV 54 og HIV 56 | 8 og 9 | Hugo Wilhelmsen og Lill Kristin Hagen · Trekanten AS |
