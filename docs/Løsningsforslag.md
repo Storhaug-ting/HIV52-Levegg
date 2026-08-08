@@ -9,7 +9,8 @@ i samme fasadeflate. Sameiets [trivsels- og ordensregler punkt 3](Referanser/Sam
 sier at «det bør tilstrebes å finne felles løsninger for å opprettholde et enhetlig og moderne uttrykk
 på boenhetene», og [vedtektene punkt 5.3](Referanser/Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#53-bygningsmessige-arbeider)
 forutsetter at utvendige endringer skjer etter «en samlet plan». Forslaget gir derfor et felles
-grunnlag for alle fire skillene, slik at styret kan ta stilling til utformingen én gang.
+grunnlag for alle fire skillene, slik at riktig beslutningsorgan kan ta stilling til utformingen
+samlet.
 
 Sameiets [ordensregler punkt 3](Referanser/Sameiedokumenter/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer)
 krever skriftlig søknad til styret med beskrivelse og tegninger, tekniske undersøkelser bekostet av
@@ -18,22 +19,22 @@ søker og skriftlig samtykke fra berørte naboer. Tiltaket er unntatt søknadspl
 ledd bokstav f nr. 2 så lenge hver vegg er inntil 1,8 m høy og inntil 5,0 m lang fra husvegg.
 
 > [SAK10 § 4-1 første ledd bokstav f nr. 2](Referanser/Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse):
-> «Levegg (skjermvegg) med høyde inntil 1,8 m og lengde inntil 5,0 m. Leveggen kan være
-> frittstående eller forbundet med bygning og kan plasseres inntil nabogrense.»
+> «levegg (skjermvegg) med høyde inntil 1,8 m og lengde inntil 5,0 m. Leveggen kan være
+> frittstående eller forbundet med bygnings og kan plasseres inntil nabogrense»
 
 Skråningen følger ikke rekka parallelt. Avstanden varierer med 1,20 m mellom det korteste og
 det lengste snittet, og det kan gi ulik lengde på veggene avhengig av alternativet vi går for.
 
-Veggene kan settes opp uavhengig av hverandre og i den takten partene blir enige om, men likevel ikke
-mer enn 1 år etter at naboerklæringen er signert for å ivareta målet med
-[ordensreglene punkt 3](Referanser/Sameiedokumenter/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer).
-Det er derfor ønskelig å få enighet om utformingen én gang slik at godkjenningen vi søker gjelder
-alle vegger. Kostnadene avtales direkte mellom de to som deler veggen.
+Veggene kan settes opp uavhengig av hverandre og i den takten partene blir enige om. Det er derfor
+ønskelig å få enighet om utformingen samlet, slik at den samme standarden gjelder alle vegger.
+Kostnadene avtales direkte mellom de to som deler veggen.
 
 Forslaget er å føre leveggene fram til skråningsfoten, innenfor grensen på 5,0 m. Materialbruk,
 høyde, konstruksjon og utførelse er identisk for alle veggene, slik at uttrykket blir enhetlig.
 Alternativ 2 er tatt med nedenfor bare for å synliggjøre virkningen av å legge igjen en gjennomgående
 passasje.
+
+## Plassering og lengde
 
 ### Alternativ 1 – fram til skråningsfoten, maks 5,0 m
 
@@ -106,16 +107,19 @@ Tabellen viser utførelse og begrunnelse for hver del av konstruksjonen:
 | Del | Utførelse | Begrunnelse |
 | ----- | ----------- | ------------- |
 | Høyde | 1,8 m over ferdig terreng | Maksimal høyde uten søknadsplikt, jf. [SAK10 § 4-1 første ledd bokstav f](Referanser/Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse). Gir reell skjerming for stående person. |
-| Reisverk | 48 × 98 mm CU-impregnert virke. Stolper settes c/c maks 0,80 m på dobbel bunnsvill, med 48 × 98 mm toppsvill og skråbånd i begge endefag | Tett stolpeavstand gir god innfesting for den stående kledningen og et svært stivt reisverk |
+| Reisverk | 98 × 98 mm CU-impregnerte stolper settes c/c maks 0,60 m på dobbel bunnsvill, med 48 × 98 mm toppsvill og skråbånd i begge endefag | Tett stolpeavstand gir god innfesting for den stående kledningen og et svært stivt reisverk |
 | Bunnsvill | Dobbel 48 × 98 mm CU-impregnert bunnsvill føres fra helt inntil grunnmuren og ut til avtalt lengde, festet i bjelkesko/beslag | Danner et sammenhengende og frostfritt underlag for reisverket |
-| Topp- og endeavslutning | Gjennomgående dekkbord på toppen og loddrett endebord på fri uteside | Gir en rett, beskyttet avslutning |
+| Topp- og endeavslutning | Gjennomgående dekkbord på toppen, loddrett endebord på fri uteside og minst 200 mm luftespalte mot bakken | Gir en rett, beskyttet avslutning, og luftespalten holder kledningen unna fuktig bakke |
+| Innfesting | A4 syrefaste skruer | Jernvitriol angriper sink og gir mørke renner på galvanisert stål |
 | Fundament | Betongfundament til frostfri dybde, med ekstra betongmasse/utvidet fot nederst | Gir bedre hold mot sidekrefter enn en ren, smal betongsøyle |
 
 ![Oppriss av leveggen](Tegninger/Oppriss.svg)
 
 ### Drøftede alternativer for kledning
 
-Fire kledningsalternativer er vurdert.
+Fire kledningsalternativer er vurdert. **Alternativ 2 – vekselvis kledning på begge sider –
+anbefales**, fordi det skjermer for innsyn uten en gjennomgående siktlinje samtidig som det gir
+gjennomlufting.
 
 | | Innsynsskjerming | Vindskjerming |
 | --- | --- | --- |
@@ -140,7 +144,7 @@ Fire kledningsalternativer er vurdert.
   gis en estetisk utforming som harmonerer med boligbebyggelsen – nettopp det materialvalget her
   svarer på – og **reguleringsplanens § 4.1** tillater mindre frittstående anlegg utenfor
   byggegrensen. Kommuneplanens bestemmelse om levegg (**kommuneplanens § 5.9.1 bokstav j**) gjelder
-  kun fritidsboliger, ikke boligområder som dette. Se [`Regelverk.md`](Referanser/Regelverk.md) punkt 7 for
+  kun fritidsboliger, ikke boligområder som dette. Se [Regelverk punkt 7](Referanser/Regelverk.md#7-kommunale-planbestemmelser-indre-stfold) for
   full gjennomgang av begge planene.
 - Leveggene skal holde seg innenfor arealformålet **B1 boligbebyggelse** (reguleringsplanen), og
   ikke føres inn i vegetasjonsskjermen som løper langs østsiden av planområdet.
@@ -161,19 +165,16 @@ Fire kledningsalternativer er vurdert.
 
 Forslaget legges fram for styret med følgende spørsmål:
 
-1. Kan styret godkjenne utformingen slik den er beskrevet her, jf.
+1. Kan styret behandle søknaden om den enkelte leveggen, eller bør den beskrevne fellesstandarden
+  legges fram for årsmøtet som en «samlet plan», jf.
   [ordensreglene punkt 3](Referanser/Sameiedokumenter/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer)
   og [vedtektene punkt 5.3](Referanser/Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#53-bygningsmessige-arbeider)?
-2. Kan forslaget vedtas som en **felles standard for hele rekka HIV 50–58**, slik at hver enkelt
-   vegg kan settes opp når partene er klare og naboerklæringen er signert, uten ny behandling?
-3. Eierskap og vedlikeholdsplikt foreslås å inngå i eksisterende avtale om fellesareal med enerett,
-  jf. [vedtektene pkt. 2.4](Referanser/Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#24-seksjonseierens-rett-til-a-bruke-bruksenheten-og-fellesareal)
-  og [pkt. 7.10](Referanser/Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md). I tillegg må
-  [ordensreglene punkt 3](Referanser/Sameiedokumenter/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer)
-   gjelde. Hver seksjon har vedlikeholdsansvar for sin side av veggen. Dersom veggen skades eller
-   trenger videre vedlikehold eller reparasjon, skal dette deles mellom de som deler på veggen.
-   Styret bes vurdere om dette er tilstrekkelig, eller om det bør inngås en egen skriftlig avtale
-   mellom partene for hver vegg.
+2. Kan den beskrevne utformingen vedtas som en **felles standard for hele rekka HIV 50–58**, slik
+  at styret kan behandle hver gjennomføring innenfor standarden når partene er klare og
+  naboerklæringen er signert?
+3. Hvordan bør eierskap og vedlikeholdsplikt dokumenteres for hver vegg? Vi foreslår at
+  kostnads- og vedlikeholdsdelingen skrives inn i naboerklæringen og eventuelt i en egen avtale
+  mellom partene, jf. [vedtektene pkt. 2.4](Referanser/Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#24-seksjonseierens-rett-til-a-bruke-bruksenheten-og-fellesareal).
 
 > [!NOTAT]
 > Trekanten AS er part i vegg C og vegg D som hjemmelshaver til seksjon 9, og er samtidig utbygger
@@ -201,27 +202,10 @@ Hvem som utfører arbeidet avtales fritt mellom de to partene til hver vegg. Akt
 - **Andre** – forslagsstiller har god erfaring med BSS fra Ski fra et tidligere prosjekt. Andre tips
   til entreprenør mottas med takk.
 
-Ettersom tiltaket ikke belaster fellesøkonomien, kommer [vedtektene pkt. 7.10](Referanser/Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md)
+Ettersom tiltaket ikke belaster fellesøkonomien, kommer [vedtektene pkt. 7.10](Referanser/Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#710-flertallskrav-for-srlige-bomiljtiltak)
 om bomiljøtiltak med økonomiske konsekvenser for seksjonseierne i fellesskap ikke til anvendelse.
 
 > [!NOTAT]
 > Kostnads- og vedlikeholdsdelingen bør skriftliggjøres for hver vegg før arbeidet starter, selv om
 > partene er enige. En kort skriftlig avtale koster ingenting nå og forebygger uenighet ved senere
 > eierskifte – noe som er særlig aktuelt for vegg C og D, der seksjon 9 skal selges.
-
-## Det som gjenstår
-
-Følgende må avklares før forslaget kan gjennomføres.
-
-- [x] ~~Avstanden fra østfasade til foten av skråningen er målt for hver av de fire veggene:
-  4,10 m, 5,30 m, 4,10 m og 5,00 m.~~
-- Terrengfallet langs hver trasé må måles, slik at det kan avgjøres om veggene skal trappes.
-- Reguleringsplanen er funnet og gjennomgått. Det gjenstår å få bekreftet av kommunen om levegger
-  utløser krav om oppdatert utomhusplan etter planens § 4.5, og om de fire veggene skal vurderes
-  samlet. Forespørsel er skrevet, jf.
-  [`Mail/2-Kommunen-planstatus.md`](Referanser/Mailforslag/2-Kommunen-planstatus.md).
-- Formålsgrensen mellom B1 og vegetasjonsskjermen øst for rekka bør sammenholdes med skråningsfoten,
-  slik at ingen vegg føres inn i vegetasjonsskjermen.
-- Det må kontrolleres at det ikke ligger kabler, rør eller drenering i fundamentlinjene.
-- Eierne i rekka må gi sin tilslutning til alternativ og utførelse, og signere naboerklæringen for
-  den veggen de er part i. For seksjon 9 gjelder dette Trekanten AS inntil boligen er solgt.

@@ -13,6 +13,7 @@ site_dir = "site"
 nav = [
   { "Introduksjon" = "index.md" },
   { "Løsningsforslag" = "Løsningsforslag.md" },
+  { "Plan" = "Plan.md" },
   { "Mailforslag" = [
     { "Kommunen – planstatus" = "Referanser/Mailforslag/Kommunen-planstatus.md" },
     { "Styret – søknad om godkjenning" = "Referanser/Mailforslag/Styret-soknad-om-godkjenning.md" },
@@ -37,6 +38,7 @@ nav = [
 ]
 
 extra_css = ["stylesheets/extra.css"]
+extra_javascript = ["javascripts/plan-issues.js"]
 
 # ----------------------------------------------------------------------------
 [project.theme]

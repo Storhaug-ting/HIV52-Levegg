@@ -72,7 +72,7 @@
     <line x1="426" y1="1106" x2="506" y2="1106"/>
   </g>
 
-  <!-- Stolper c/c maks 0,80 m -->
+  <!-- Stolper c/c maks 0,60 m -->
   <g fill="#5c3714">
     <circle cx="370" cy="386" r="3"/><circle cx="386" cy="386" r="3"/><circle cx="401" cy="386" r="3"/><circle cx="417" cy="386" r="3"/><circle cx="432" cy="386" r="3"/>
     <circle cx="370" cy="626" r="3"/><circle cx="384" cy="626" r="3"/><circle cx="399" cy="626" r="3"/><circle cx="413" cy="626" r="3"/><circle cx="427" cy="626" r="3"/><circle cx="442" cy="626" r="3"/><circle cx="456" cy="626" r="3"/>

@@ -1,9 +1,9 @@
-**Til:** byggesak@io.kommune.no
+**Til:** <byggesak@io.kommune.no>
 **Emne:** Levegger i Griniskogen nordvest (PlanID 3014_012320120011) – gnr. 411 bnr. 93 – bekreftelse av forståelse
 
 ---
 
-Til byggesak og eindom i Indre Østfold kommune,
+Til byggesak og eiendom i Indre Østfold kommune,
 
 Vi planlegger å sette opp fire levegger mellom boligene i rekka Helge Ingstads vei 50–58, 1820
 Spydeberg, på gnr. 411 bnr. 93. Vi har gått gjennom regelverket selv og ber om en bekreftelse på at
@@ -15,14 +15,14 @@ Fire levegger, én i hvert skille mellom de fem boligene i rekka, ut fra husenes
 uteoppholdsarealene. Alle fem boligene ligger på samme matrikkelenhet, som er seksjonert.
 
 | Forhold | Verdi |
-|---------|-------|
+| --------- | ------- |
 | Antall | 4 levegger |
 | Høyde | 1,8 m over ferdig terreng |
 | Lengde | 4,10 m, 5,00 m, 4,10 m og 5,00 m – alle innenfor 5,0 m |
 | Plassering | I grenselinjen mellom seksjonenes utearealer, østover fra østfasaden. Ikke mot vei eller avkjørsel |
 | Innbyrdes avstand | Veggene står vinkelrett ut fra husrekka, med et helt uteoppholdsareal mellom hver vegg. De berører ikke hverandre |
 | Materiale | Malmfuru med grå jernvitriolbehandling, stående kledning. |
-| Konstruksjon | 48 × 98 mm CU-impregnert reisverk på dobbel bunnsvill fra grunnmur til avtalt lengde, betongfundament til frostfri dybde med ekstra betongmasse nederst, stående kledning på begge sider tilsvarende fasade, dekkbord på toppen og luftespalte mot bakken |
+| Konstruksjon | CU-impregnert reisverk med 98 × 98 mm stolper (c/c maks 0,60 m) og 48 × 98 mm sviller på dobbel bunnsvill fra grunnmur til avtalt lengde, betongfundament til frostfri dybde med ekstra betongmasse nederst, stående kledning på begge sider tilsvarende fasade, dekkbord på toppen og minst 200 mm luftespalte mot bakken |
 
 ## Vår forståelse av regelverket
 

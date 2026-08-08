@@ -10,13 +10,9 @@ Vi søker med dette om tillatelse til å sette opp levegger mellom boligene i re
 50–58, jf. [trivsels- og ordensreglene punkt 3][ordensregler]. Søknaden gjelder **hele rekka**, ikke
 bare skillene mot vår egen seksjon.
 
-Fullstendig designgrunnlag med målsatte tegninger og gjennomgang av regelverket ligger her:
-[Storhaug-ting/HIV52 – mappen `Levegger`](https://github.com/Storhaug-ting/HIV52/tree/main/Levegger).
-Vi sender gjerne alt som vedlegg i det formatet styret foretrekker. Alle kilder som er brukt, med
-lenker, er samlet i [`Levegger/Kilder.md`][kilder].
-
-Saken henger sammen med punkt 2 i vårt tidligere notat om levegger mellom seksjon 6–10, jf.
-[sak #5](https://github.com/Storhaug-ting/HIV52/issues/5).
+Fullstendig designgrunnlag med målsatte tegninger og gjennomgang av regelverket ligger på
+[HIV52 – Levegger][materiale]. Vi sender gjerne alt som vedlegg i det formatet styret foretrekker.
+Alle kilder som er brukt, med lenker, er samlet i [kildelisten][kilder].
 
 ## Hvorfor hele rekka
 
@@ -26,8 +22,8 @@ løsninger for å opprettholde et enhetlig og moderne uttrykk på boenhetene».
 samlet plan».
 
 Behandles leveggene som fire enkeltsaker etter hvert som den enkelte tar initiativ, ender rekka lett
-opp med fire forskjellige utførelser. Vedtas utformingen som én standard nå, kan hver enkelt vegg
-settes opp når partene er klare, uten ny behandling – og resultatet blir enhetlig.
+opp med fire forskjellige utførelser. Vedtas utformingen som én standard nå, kan styret behandle
+hver gjennomføring innenfor standarden når partene er klare – og resultatet blir enhetlig.
 
 ## De fire veggene
 
@@ -47,12 +43,12 @@ Leveggene går østover fra husenes østfasade, i skillet mellom uteoppholdsarea
 
 | Forhold | Beskrivelse |
 | --------- | ------------- |
-| Materiale | Malmfuru med grå jernvitriolbehandling, montert stående. Alternativ 3 og 4 har vekslende dobbelfals med rette kanter, ca. 5 mm synlig spalte og falsdybde lik halvparten av bordtykkelsen. Alternativ 1 og 2 har rette 23 × 48 mm bord med 10 mm spalte |
+| Materiale | Malmfuru med grå jernvitriolbehandling, montert stående med rette bordkanter |
 | Kledning | Samme profil og bredde som husets kledning, montert stående |
 | Høyde | 1,8 m over ferdig terreng |
 | Lengde | 4,10–5,00 m per vegg, fram til skråningsfoten og begrenset til 5,0 m – se tabellen under |
-| Konstruksjon | 48 × 98 mm CU-impregnert reisverk på dobbel bunnsvill fra grunnmur til avtalt lengde. Betongfundament til frostfri dybde med ekstra betongmasse nederst, bjelkesko/beslag, dekkbord på toppen og minst 200 mm luftespalte mot bakken |
-| Kledningssnitt | Alternativ 2: vekselvis bord på begge sider av rammeverket foreslås, slik at veggen skjermer for innsyn og samtidig slipper gjennom luft. Se byggeteknisk grunnlag |
+| Konstruksjon | CU-impregnert reisverk med 98 × 98 mm stolper (c/c maks 0,60 m) og 48 × 98 mm sviller på dobbel bunnsvill fra grunnmur til avtalt lengde. Betongfundament til frostfri dybde med ekstra betongmasse nederst, bjelkesko/beslag, dekkbord på toppen og minst 200 mm luftespalte mot bakken |
+| Kledningssnitt | Alternativ 2: vekselvis 23 × 48 mm bord på begge sider av rammeverket med 10 mm spalte anbefales, slik at veggen skjermer for innsyn og samtidig slipper gjennom luft. Se [løsningsforslaget][design] |
 | Innfesting | A4 syrefaste skruer, siden jernvitriol angriper sink og gir mørke renner på galvanisert stål |
 | Kostnad for sameiet | Ingen. Kostnaden bæres av de to partene til hver enkelt vegg. |
 
@@ -82,8 +78,8 @@ derfor vurderes særskilt, ikke etableres som ordinær gjennomfart i denne godkj
 | Krav | Hvordan det er oppfylt |
 | ------ | ------------------------ |
 | 1 – Skriftlig søknad til styret før iverksettelse | Denne henvendelsen |
-| 2 – Beskrivelse og illustrasjonstegninger | [Designbeskrivelse][design] med planskisse av foreslått plassering, oppriss med målsetting og horisontalsnitt av kledningen |
-| 3 – Tekniske undersøkelser innhentet og bekostet av søker | [Rettslig grunnlag][regelverk] mot [SAK10][sak10], reguleringsplanen, kommuneplanens arealdel, [grannelova][grannelova], [eierseksjonsloven][eierseksjonsloven] og [sameiets vedtekter][vedtekter]. [Byggeteknisk grunnlag][byggeteknikk] med referanser til SINTEF Byggforskserien om vindskjerming, fundamentering og trebeskyttelse. Avstandene er målt opp på stedet. Terrengfall og kontroll av ledninger i grunnen gjenstår og bekostes av oss. |
+| 2 – Beskrivelse og illustrasjonstegninger | [Løsningsforslag][design] med planskisse av foreslått plassering, oppriss med målsetting og horisontalsnitt av kledningen |
+| 3 – Tekniske undersøkelser innhentet og bekostet av søker | [Rettslig grunnlag][regelverk] mot [SAK10][sak10], reguleringsplanen, kommuneplanens arealdel, [grannelova][grannelova], [eierseksjonsloven][eierseksjonsloven] og [sameiets vedtekter][vedtekter]. Kildelisten omfatter SINTEF Byggforskserien om vindskjerming, fundamentering og trebeskyttelse. Avstandene er målt opp på stedet. Terrengfall og kontroll av ledninger i grunnen gjenstår og bekostes av oss. |
 | 4 – Skriftlig samtykke fra berørte naboer | [Naboerklæring][naboerklaering] er utarbeidet, én per vegg. Samtlige eiere i rekka er kopiert på denne henvendelsen. |
 | 5 – Styret/årsmøtet vurderer | Vi ber om styrets behandling, se spørsmålene under |
 | 6 – Skriftlig samtykke før iverksettelse | Ingenting settes i gang før dette foreligger |
@@ -102,7 +98,7 @@ boligbebyggelse inneholder ingen bestemmelser om levegg eller gjerde.
 
 Eiendommen er regulert i detaljplanen **«Griniskogen nordvest – Spydeberg sentrum nord»**, planID
 **3014_012320120011**, vedtatt 17.06.2014 med forenklet reguleringsendring 06.07.2021.
-[Bestemmelsene][regplanpdf] ligger blant kontraktsvedleggene i repoet. Planen forbyr ikke levegger.
+[Bestemmelsene er registrert i kommunens planregister][regplanpdf]. Planen forbyr ikke levegger.
 To bestemmelser er relevante, og begge trekker i forslagets favør:
 
 - **§ 4.3** krever at «gjerder/avskjerming» skal gis en estetisk utforming som harmonerer med den
@@ -119,20 +115,18 @@ planens § 4.5.
 
 1. **Kan styret godkjenne utformingen** slik den er beskrevet, jf.
    [trivsels- og ordensreglene punkt 3][ordensregler] og [vedtektene punkt 5.3][vedtekter]?
-2. **Kan forslaget vedtas som felles standard for rekka HIV 50–58**, slik at hver enkelt vegg kan
-   settes opp når partene er klare og naboerklæringen er signert, uten ny behandling hver gang?
-3. **Behandler styret saken selv, eller skal den til årsmøtet?** Ordensreglene punkt 3 legger denne
-   vurderingen til styret. Dersom styret mener tiltaket går ut over vanlig forvaltning, kreves 2/3
-   flertall etter [vedtektene punkt 7.9 bokstav a][vedtekter] og
-   [eierseksjonsloven § 49][eierseksjonsloven].
+2. **Kan forslaget vedtas som felles standard for rekka HIV 50–58**, slik at styret kan behandle
+   hver gjennomføring innenfor standarden når partene er klare og naboerklæringen er signert?
+3. **Behandler styret saken selv, eller skal fellesstandarden til årsmøtet?** Vedtektene punkt 5.3
+   sier at utvendige endringer skal skje etter en samlet plan vedtatt av årsmøtet. Dersom styret
+   mener tiltaket går ut over vanlig forvaltning, kreves 2/3 flertall etter
+   [vedtektene punkt 7.9 bokstav a][vedtekter] og [eierseksjonsloven § 49][eierseksjonsloven].
 4. **Eierskap og vedlikehold.** Hvordan mener styret at eierskap og vedlikeholdsplikt bør
    dokumenteres for en levegg som står mellom to seksjoners enerettsarealer? Vi foreslår at det
    føres inn i naboerklæringen, med kopi til styret.
 5. **Habilitet.** Trekanten AS er part i vegg C og D som hjemmelshaver til seksjon 9, og er samtidig
-   utbygger og representert i styret ved styreleder. Styret har selv pekt på at utbygger kan være
-   inhabil i enkelte saker på grunn av dobbeltrollen, jf.
-   [styremøtereferat 10. juni 2026][styrereferat]. Vi ber styret vurdere om dette får betydning for
-   behandlingen, slik at spørsmålet er avklart før vedtak fattes framfor i ettertid.
+   utbygger og representert i styret ved styreleder. Vi ber styret vurdere om dette får betydning
+   for behandlingen, slik at spørsmålet er avklart før vedtak fattes framfor i ettertid.
 
 Vi ser at det er varslet ekstraordinært årsmøte i slutten av august. Dersom styret mener saken hører
 hjemme der, tilpasser vi oss gjerne den fremdriften.
@@ -156,33 +150,30 @@ Seksjon 7, Helge Ingstads vei 52
 
 | Hva | Hvor |
 | ----- | ------ |
-| Alt materiale i saken | <https://github.com/Storhaug-ting/HIV52/tree/main/Levegger> |
-| Designbeskrivelse med tegninger | <https://github.com/Storhaug-ting/HIV52/blob/main/Levegger/Designbeskrivelse.md> |
-| Rettslig grunnlag | <https://github.com/Storhaug-ting/HIV52/blob/main/Levegger/Regelverk.md> |
-| Byggeteknisk grunnlag, SINTEF-referanser | <https://github.com/Storhaug-ting/HIV52/blob/main/Levegger/Byggeteknikk.md> |
-| Naboerklæring | <https://github.com/Storhaug-ting/HIV52/blob/main/Levegger/Naboerklaering.md> |
-| Samlet kildeliste | <https://github.com/Storhaug-ting/HIV52/blob/main/Levegger/Kilder.md> |
+| Alt materiale i saken | <https://storhaug-ting.github.io/HIV52-Levegg/> |
+| Løsningsforslag med tegninger | <https://storhaug-ting.github.io/HIV52-Levegg/L%C3%B8sningsforslag/> |
+| Rettslig grunnlag | <https://storhaug-ting.github.io/HIV52-Levegg/Referanser/Regelverk/> |
+| Naboerklæring | <https://storhaug-ting.github.io/HIV52-Levegg/Referanser/Naboerklaering/> |
+| Samlet kildeliste | <https://storhaug-ting.github.io/HIV52-Levegg/Referanser/Kilder/> |
 | Byggesaksforskriften (SAK10) § 4-1 | <https://lovdata.no/forskrift/2010-03-26-488/%C2%A74-1> |
 | Eierseksjonsloven | <https://lovdata.no/lov/2017-06-16-65> |
 | Grannelova | <https://lovdata.no/lov/1961-06-16-15> |
 | Kommuneplanens arealdel Indre Østfold 2024–2035, planID 3014202101 | <https://www.io.kommune.no/_f/p1/ie996e6bc-1ff3-474d-9de9-9be78491ada1/02-planbestemmelser-og-retningslinjer-06022024.pdf> |
-| Reguleringsplan «Griniskogen nordvest», planID 3014_012320120011 – bestemmelser | <https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/012320120011%20Bestemmelser%20endring_20210702.pdf> |
+| Reguleringsplan «Griniskogen nordvest», planID 3014_012320120011 – bestemmelser | <https://arealplaner.no/indreostfold3118/arealplaner/166?bnr=93&gnr=411&knr=3118> |
 | Kommunens planregister | <https://www.arealplaner.no/indreostfold3118/arealplaner/> |
-| Sameiets vedtekter, revidert 07.05.2026 | <https://github.com/Storhaug-ting/GriniskogenVest/blob/main/Vedtekter/2026-05-07/Revidert%20Vedtekter%2007.05.2026.md> |
-| Trivsels- og ordensregler, 09.09.2025 | <https://github.com/Storhaug-ting/GriniskogenVest/blob/main/Trivsels%20og%20ordensregler/2025-09-09/Trivsels%20og%20ordensregler.md> |
-| Styremøtereferat 10.06.2026 | <https://github.com/Storhaug-ting/GriniskogenVest/blob/main/Div/Styrem%C3%B8ter/2026-06-10/2026-06-11-Styrem%C3%B8te.md> |
+| Sameiets vedtekter, revidert 07.05.2026 | <https://storhaug-ting.github.io/HIV52-Levegg/Referanser/Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026/> |
+| Trivsels- og ordensregler, 09.09.2025 | <https://storhaug-ting.github.io/HIV52-Levegg/Referanser/Sameiedokumenter/Trivsels%20og%20ordensregler/> |
 | SINTEF Byggforskserien | <https://www.byggforsk.no> |
 
 [sak10]: ../Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg"
 [eierseksjonsloven]: ../Lover/eierseksjonslova.md "LOV-2017-06-16-65 – eierseksjonsloven"
 [grannelova]: ../Lover/grannelova.md "LOV-1961-06-16-15 – lov om rettshøve mellom grannar"
 [kpa]: https://www.io.kommune.no/_f/p1/ie996e6bc-1ff3-474d-9de9-9be78491ada1/02-planbestemmelser-og-retningslinjer-06022024.pdf
-[regplanpdf]: https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/012320120011%20Bestemmelser%20endring_20210702.pdf
+[regplanpdf]: https://arealplaner.no/indreostfold3118/arealplaner/166?bnr=93&gnr=411&knr=3118
 [vedtekter]: ../Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md
 [ordensregler]: ../Sameiedokumenter/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer
-[styrereferat]: https://github.com/Storhaug-ting/GriniskogenVest/blob/main/Div/Styrem%C3%B8ter/2026-06-10/2026-06-11-Styrem%C3%B8te.md
-[design]: https://github.com/Storhaug-ting/HIV52/blob/main/Levegger/Designbeskrivelse.md
-[regelverk]: https://github.com/Storhaug-ting/HIV52/blob/main/Levegger/Regelverk.md
-[byggeteknikk]: https://github.com/Storhaug-ting/HIV52/blob/main/Levegger/Byggeteknikk.md
-[naboerklaering]: https://github.com/Storhaug-ting/HIV52/blob/main/Levegger/Naboerklaering.md
-[kilder]: https://github.com/Storhaug-ting/HIV52/blob/main/Levegger/Kilder.md
+[materiale]: https://storhaug-ting.github.io/HIV52-Levegg/
+[design]: https://storhaug-ting.github.io/HIV52-Levegg/L%C3%B8sningsforslag/
+[regelverk]: https://storhaug-ting.github.io/HIV52-Levegg/Referanser/Regelverk/
+[naboerklaering]: https://storhaug-ting.github.io/HIV52-Levegg/Referanser/Naboerklaering/
+[kilder]: https://storhaug-ting.github.io/HIV52-Levegg/Referanser/Kilder/

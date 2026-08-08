@@ -28,22 +28,21 @@ Avstanden `A` fra østfasaden til foten av skråningen er målt 2. august 2026:
 
 ### Tiltaket
 
-Levegg mellom de to seksjonenes uteoppholdsarealer, utført i samsvar med designbeskrivelsen datert
+Levegg mellom de to seksjonenes uteoppholdsarealer, utført i samsvar med løsningsforslaget datert
 2. august 2026:
 
 | Forhold | Verdi |
 | --------- | ------- |
 | Materiale | Malmfuru med grå jernvitriolbehandling, stående kledning med rette bordkanter |
-| Kledning | Alternativ 3 og 4 har vekslende dobbelfals med rette kanter, ca. 5 mm synlig spalte og falsdybde lik halvparten av bordtykkelsen. Alternativ 1 og 2 har rette 23 × 48 mm bord med 10 mm spalte |
 | Høyde | 1,8 m over ferdig terreng |
 | Lengde | Til foten av skråningen, begrenset til 5,0 m |
 | Kledningssnitt | ☐ Alternativ 1 spaltet ☐ Alternativ 2 vekselvis på begge sider (anbefalt) ☐ Alternativ 3 helt tett på én side ☐ Alternativ 4 helt tett på begge sider |
 | Lengde for denne veggen | ______ m, jf. tabellen over |
-| Konstruksjon | 48 × 98 mm CU-impregnert reisverk på dobbel bunnsvill fra grunnmur til avtalt lengde. Betongfundament føres til frostfri dybde med ekstra betongmasse nederst, bjelkesko/beslag, dekkbord på toppen, endebord på fri uteside og luftespalte ≥ 200 mm mot bakken |
+| Konstruksjon | CU-impregnert reisverk med 98 × 98 mm stolper (c/c maks 0,60 m) og 48 × 98 mm sviller på dobbel bunnsvill fra grunnmur til avtalt lengde. Betongfundament føres til frostfri dybde med ekstra betongmasse nederst, bjelkesko/beslag, dekkbord på toppen, endebord på fri uteside og luftespalte ≥ 200 mm mot bakken |
 | Plassering | I grenselinjen mellom seksjonenes enerettsarealer, østover fra østfasaden |
 
-Designbeskrivelse og målsatte tegninger:
-[Storhaug-ting/HIV52 – mappen `Levegger`](https://github.com/Storhaug-ting/HIV52/tree/main/Levegger).
+Løsningsforslag og målsatte tegninger:
+[HIV52 – Levegger](https://storhaug-ting.github.io/HIV52-Levegg/L%C3%B8sningsforslag/).
 
 ### Kostnad og vedlikehold
 
@@ -89,8 +88,7 @@ _____________________________________________________________________________
 | C | HIV 54 og HIV 56 | 8 og 9 | Hugo Wilhelmsen og Lill Kristin Hagen · Trekanten AS |
 | D | HIV 56 og HIV 58 | 9 og 10 | Trekanten AS · Andreas Takvam og Hanne Kjersti Vikeby |
 
-Eierforholdene er hentet fra grunnboksutskriftene og medlemsoversikten i
-[`Storhaug-ting/GriniskogenVest`](https://github.com/Storhaug-ting/GriniskogenVest).
+Eierforholdene er hentet fra de lokale grunnboksutskriftene i denne dokumentasjonen.
 
 > [!NOTE]
 > Seksjon 9 (HIV 56) er ikke solgt. Trekanten AS er hjemmelshaver og dermed part i vegg C og D

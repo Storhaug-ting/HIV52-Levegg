@@ -15,3 +15,35 @@
 .md-nav--primary>.md-nav__title {
     display: none;
 }
+
+.plan-issues {
+    overflow-x: auto;
+}
+
+.plan-issues__status {
+    border-radius: 0.2rem;
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 700;
+    padding: 0.15rem 0.45rem;
+}
+
+.plan-issues__status--open {
+    background-color: #dcefd9;
+    color: #215c2b;
+}
+
+.plan-issues__status--closed {
+    background-color: #dbeee8;
+    color: #155d4b;
+}
+
+[data-md-color-scheme="slate"] .plan-issues__status--open {
+    background-color: #264d2d;
+    color: #dcefd9;
+}
+
+[data-md-color-scheme="slate"] .plan-issues__status--closed {
+    background-color: #1c5447;
+    color: #dbeee8;
+}

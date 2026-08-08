@@ -95,7 +95,7 @@ Vurderingen her er at de fire veggene **ikke** utgjør en større helhet i beste
 - Veggene kan bli bygget på ulike tidspunkt av ulike parter.
 
 Konklusjonen er ikke opplagt, og spørsmålet er derfor stilt uttrykkelig til kommunen i
-[`Mail/2-Kommunen-planstatus.md`](Mailforslag/2-Kommunen-planstatus.md). Det er langt
+[`Kommunen-planstatus.md`](Mailforslag/Kommunen-planstatus.md). Det er langt
 bedre å få dette bekreftet på forhånd enn å få et pålegg om fjerning etter
 [pbl. § 32-3](Lover/plan-og-bygningsloven.md#32-3-palegg-om-retting-og-palegg-om-stans "Plan- og bygningsloven § 32-3 – kommunens adgang til å kreve retting eller fjerning") i ettertid.
 
@@ -227,7 +227,7 @@ er lagt opp:
 
 | Krav i [ordensreglene punkt 3](Sameiedokumenter/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer) | Hvordan det er oppfylt |
 | ---------------------- | ------------------------ |
-| 1 – Skriftlig søknad til styret før iverksettelse | [`Mail/3-Styret-soknad-om-godkjenning.md`](Mailforslag/3-Styret-soknad-om-godkjenning.md) |
+| 1 – Skriftlig søknad til styret før iverksettelse | [`Styret-soknad-om-godkjenning.md`](Mailforslag/Styret-soknad-om-godkjenning.md) |
 | 2 – Beskrivelse og illustrasjonstegninger | [`Løsningsforslag.md`](../Løsningsforslag.md) med tegningene som følger siden |
 | 3 – Tekniske undersøkelser innhentet og bekostet av søker | Regelverksgjennomgangen i dette dokumentet. Oppmåling og kontroll av ledninger i grunnen gjenstår. |
 | 4 – Skriftlig samtykke fra berørte naboer | [`Naboerklaering.md`](Naboerklaering.md) – én erklæring per vegg |
@@ -251,8 +251,8 @@ er lagt opp:
 | Kan seksjonseier sette opp leveggen på egen hånd? | Nei. Arealet er fellesareal med enerett, [vedtektene pkt. 5.3](Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#53-bygningsmessige-arbeider) krever forutgående godkjenning av styret, og [trivsels- og ordensreglene pkt. 3](Sameiedokumenter/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer) krever skriftlig søknad. |
 | Holder et styrevedtak? | Sannsynligvis, dersom styret anser leveggen som innenfor vanlig forvaltning av arealet. Vurderingen tilligger styret. |
 | Når må saken til årsmøtet? | Dersom styret mener leveggene er en «endring av bebyggelsen eller tomten som går ut over vanlig forvaltning», kreves 2/3 flertall på årsmøtet, jf. [vedtektene pkt. 7.9 bokstav a](Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#79-flertallskrav-ved-ulike-beslutninger-pa-arsmtet-srlige-begrensninger-i-arsmtets-myndighet) og [eierseksjonsloven § 49](Lover/eierseksjonslova.md#49-flertallskrav-ved-ulike-beslutninger-pa-arsmtet-srlige-begrensninger-i-arsmtets-myndighet). |
-| Kreves enstemmighet? | [Eierseksjonsloven § 51](Lover/eierseksjonslova.md#51-beslutninger-som-krever-enighet-fra-alle-seksjonseiere "Eierseksjonsloven § 51 – tiltak som krever enighet fra alle seksjonseiere") krever enighet fra alle bare ved tiltak som vesentlig endrer sameiets karakter. To levegger i samme materiale som husene ligger klart under den terskelen. |
-| Hvem betaler? | Naboene som deler veggen. Tiltaket forutsetter ingen felleskostnader, noe som holder saken utenfor [vedtektene pkt. 7.10](Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md) om bomiljøtiltak. |
+| Kreves enstemmighet? | [Eierseksjonsloven § 51](Lover/eierseksjonslova.md#51-beslutninger-som-krever-enighet-fra-alle-seksjonseiere "Eierseksjonsloven § 51 – tiltak som krever enighet fra alle seksjonseiere") krever enighet fra alle bare ved tiltak som vesentlig endrer sameiets karakter. Fire levegger i samme materiale som husene ligger klart under den terskelen. |
+| Hvem betaler? | Naboene som deler veggen. Tiltaket forutsetter ingen felleskostnader, noe som holder saken utenfor [vedtektene pkt. 7.10](Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#710-flertallskrav-for-srlige-bomiljtiltak) om bomiljøtiltak. |
 
 > [!TIP]
 > Fordi [vedtektene pkt. 5.3](Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#53-bygningsmessige-arbeider) taler om «en samlet plan», er det en fordel om forslaget utformes som
@@ -268,7 +268,7 @@ Postadressen for sameiet er Helge Ingstads vei 38–58, 1820 Spydeberg.
 
 Indre Østfold kommune har ingen egen veileder om søknadsfrie tiltak. Kommunens side
 [Skal du bygge, rive eller endre?](https://www.io.kommune.no/tjenester/byggesak-og-eiendom/skal-du-bygge-rive-eller-endre/ "Indre Østfold kommune – informasjon om søknadsfrie byggetiltak")
-viser videre til [Direktoratet for byggkvalitet](<https://www.dibk.no/regelverk/sak/2/4/4-1/> "DiBK – veiledning til SAK10 § 4-1" "DiBK – veiledning til SAK10 § 4-1"). Det
+viser videre til [Direktoratet for byggkvalitet](https://www.dibk.no/regelverk/sak/2/4/4-1/ "DiBK – veiledning til SAK10 § 4-1"). Det
 er altså [SAK10 § 4-1](Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse)
 som gjelder direkte, uten lokale innstramminger på kommunens nettsider.
 
@@ -308,7 +308,7 @@ svarer direkte på dette.
 ### 7.3 Reguleringsplan – Griniskogen nordvest
 
 Eiendommen er omfattet av detaljreguleringsplanen **«Griniskogen nordvest – Spydeberg sentrum
-nord»**, som ligger i repoet blant kontraktsvedleggene.
+nord»**, tilgjengelig i [kommunens planregister](https://arealplaner.no/indreostfold3118/arealplaner/166?bnr=93&gnr=411&knr=3118).
 
 | | |
 | --- | --- |
@@ -316,9 +316,7 @@ nord»**, som ligger i repoet blant kontraktsvedleggene.
 | Plantype | Detaljregulering, jf. pbl. §§ 12-3 og 12-14 |
 | Vedtatt | 17.06.2014. Forenklet reguleringsendring vedtatt 06.07.2021 |
 | Plankart | Datert 26.08.2019, sist revidert 13.04.2021 |
-| Bestemmelser | [`Salgsdokumenter/Kontraktsvedlegg/012320120011 Bestemmelser endring_20210702.pdf`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/012320120011%20Bestemmelser%20endring_20210702.pdf) |
-| Plankart | [`Salgsdokumenter/Kontraktsvedlegg/Reguleringsplankart_A4S_05.05.2023_11.49.pdf`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/Reguleringsplankart_A4S_05.05.2023_11.49.pdf) |
-| Planstatus for eiendommen | [`Salgsdokumenter/Kontraktsvedlegg/PlanRapport_Helge_Ingstads_vei_32_1820_SPYDEBERG_1683280116.pdf`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/PlanRapport_Helge_Ingstads_vei_32_1820_SPYDEBERG_1683280116.pdf) |
+| Bestemmelser, plankart og planstatus | [Kommunens planregister](https://arealplaner.no/indreostfold3118/arealplaner/166?bnr=93&gnr=411&knr=3118) |
 
 #### Arealformål på eiendommen
 
@@ -387,7 +385,7 @@ er ikke avklart. Spørsmålet er stilt til kommunen.
 
 Kilde: [Indre Østfold kommune – Kontakt oss, byggesak](https://www.io.kommune.no/tjenester/byggesak-og-eiendom/skal-du-bygge-rive-eller-endre/kontakt-oss/).
 
-Ferdig e-postutkast ligger i [`Mail/2-Kommunen-planstatus.md`](Mailforslag/2-Kommunen-planstatus.md).
+Ferdig e-postutkast ligger i [`Kommunen-planstatus.md`](Mailforslag/Kommunen-planstatus.md).
 
 ## 8. Det som ikke er verifisert
 
@@ -415,10 +413,6 @@ Ferdig e-postutkast ligger i [`Mail/2-Kommunen-planstatus.md`](Mailforslag/2-Kom
 | Indre Østfold kommune – Skal du bygge, rive eller endre? | <https://www.io.kommune.no/tjenester/byggesak-og-eiendom/skal-du-bygge-rive-eller-endre/> | — |
 | Kommuneplanens arealdel for Indre Østfold 2024–2035, planbestemmelser (PlanID 3014202101) | <https://www.io.kommune.no/_f/p1/ie996e6bc-1ff3-474d-9de9-9be78491ada1/02-planbestemmelser-og-retningslinjer-06022024.pdf> | — |
 | Indre Østfold kommunes planregister | <https://www.arealplaner.no/indreostfold3118/arealplaner/> | — |
-| Reguleringsplan «Griniskogen nordvest – Spydeberg sentrum nord», PlanID 3014_012320120011, bestemmelser | [`Salgsdokumenter/Kontraktsvedlegg/`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/012320120011%20Bestemmelser%20endring_20210702.pdf) | — |
-| Reguleringsplankart for gnr. 411 bnr. 93 | [`Salgsdokumenter/Kontraktsvedlegg/`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/Reguleringsplankart_A4S_05.05.2023_11.49.pdf) | — |
-| Situasjonsplan 411/93 | [`Salgsdokumenter/Kontraktsvedlegg/`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/411-93%20Situasjonsplan.pdf) | — |
-| Planrapport for eiendommen, 05.05.2023 | [`Salgsdokumenter/Kontraktsvedlegg/`](https://github.com/Storhaug-ting/HIV52/blob/main/Salgsdokumenter/Kontraktsvedlegg/PlanRapport_Helge_Ingstads_vei_32_1820_SPYDEBERG_1683280116.pdf) | — |
-| Vedtekter for Boligsameiet Griniskogen Vest, revidert 07.05.2026 | [Storhaug-ting/GriniskogenVest](https://github.com/Storhaug-ting/GriniskogenVest/blob/main/Vedtekter/2026-05-07/Revidert%20Vedtekter%2007.05.2026.md) | — |
-| Trivsels- og ordensregler for Boligsameiet Griniskogen Vest, 09.09.2025 | [Storhaug-ting/GriniskogenVest](https://github.com/Storhaug-ting/GriniskogenVest/blob/main/Trivsels%20og%20ordensregler/2025-09-09/Trivsels%20og%20ordensregler.md) | — |
-| Medlemsoversikt og styresammensetning | [Storhaug-ting/GriniskogenVest](https://github.com/Storhaug-ting/GriniskogenVest/blob/main/Medlemmer.md) |
+| Reguleringsplan «Griniskogen nordvest – Spydeberg sentrum nord», PlanID 3014_012320120011 | [Kommunens planregister](https://arealplaner.no/indreostfold3118/arealplaner/166?bnr=93&gnr=411&knr=3118) | — |
+| Vedtekter for Boligsameiet Griniskogen Vest, revidert 07.05.2026 | [Lokal kopi](Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md) | — |
+| Trivsels- og ordensregler for Boligsameiet Griniskogen Vest, 09.09.2025 | [Lokal kopi](Sameiedokumenter/Trivsels%20og%20ordensregler.md) | — |
