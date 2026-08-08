@@ -75,6 +75,6 @@ gnr. 411 bnr. 93 snr. 7, Indre Østfold kommune
 
 ---
 
-[sak10]: ../Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg"
+[sak10]: https://lovdata.no/dokument/SF/forskrift/2010-03-26-488/KAPITTEL_4#%C2%A74-1 "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg"
 [dibk]: https://www.dibk.no/regelverk/sak/2/4/4-1/ "DiBK – veiledning til SAK10 § 4-1"
 [kpa]: https://www.io.kommune.no/_f/p1/ie996e6bc-1ff3-474d-9de9-9be78491ada1/02-planbestemmelser-og-retningslinjer-06022024.pdf
