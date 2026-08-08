@@ -5,8 +5,6 @@ Designgrunnlag for levegger mellom boligene i rekka Helge Ingstads vei 50-58, \
 Boligsameiet Griniskogen Vest\
 """
 site_url = "https://storhaug-ting.github.io/HIV52-Levegg/"
-repo_name = "Storhaug-ting/HIV52-Levegg"
-repo_url = "https://github.com/Storhaug-ting/HIV52-Levegg"
 
 docs_dir = "docs"
 site_dir = "site"
