@@ -81,7 +81,7 @@ derfor vurderes særskilt, ikke etableres som ordinær gjennomfart i denne godkj
 | 2 – Beskrivelse og illustrasjonstegninger | [Løsningsforslag][design] med planskisse av foreslått plassering, oppriss med målsetting og horisontalsnitt av kledningen |
 | 3 – Tekniske undersøkelser innhentet og bekostet av søker | [Rettslig grunnlag][regelverk] mot [SAK10][sak10], reguleringsplanen, kommuneplanens arealdel, [grannelova][grannelova], [eierseksjonsloven][eierseksjonsloven] og [sameiets vedtekter][vedtekter]. Kildelisten omfatter SINTEF Byggforskserien om vindskjerming, fundamentering og trebeskyttelse. Avstandene er målt opp på stedet. Terrengfall og kontroll av ledninger i grunnen gjenstår og bekostes av oss. |
 | 4 – Skriftlig samtykke fra berørte naboer | [Naboerklæring][naboerklaering] er utarbeidet, én per vegg. Samtlige eiere i rekka er kopiert på denne henvendelsen. |
-| 5 – Styret/årsmøtet vurderer | Vi ber om styrets behandling, se spørsmålene under |
+| 5 – Styret vurderer | Vi ber om styrets behandling på ordinært styremøte, se spørsmålene under |
 | 6 – Skriftlig samtykke før iverksettelse | Ingenting settes i gang før dette foreligger |
 
 ## Regelverk
@@ -117,10 +117,9 @@ planens § 4.5.
    [trivsels- og ordensreglene punkt 3][ordensregler] og [vedtektene punkt 5.3][vedtekter]?
 2. **Kan forslaget vedtas som felles standard for rekka HIV 50–58**, slik at styret kan behandle
    hver gjennomføring innenfor standarden når partene er klare og naboerklæringen er signert?
-3. **Behandler styret saken selv, eller skal fellesstandarden til årsmøtet?** Vedtektene punkt 5.3
-   sier at utvendige endringer skal skje etter en samlet plan vedtatt av årsmøtet. Dersom styret
-   mener tiltaket går ut over vanlig forvaltning, kreves 2/3 flertall etter
-   [vedtektene punkt 7.9 bokstav a][vedtekter] og [eierseksjonsloven § 49][eierseksjonsloven].
+3. **Kan styret behandle og godkjenne saken på et ordinært styremøte?** Saken gjelder den aktuelle
+   rekka HIV 50–58, har ingen økonomiske konsekvenser for sameiet og kan derfor behandles av styret
+   som en del av den ordinære forvaltningen.
 4. **Eierskap og vedlikehold.** Hvordan mener styret at eierskap og vedlikeholdsplikt bør
    dokumenteres for en levegg som står mellom to seksjoners enerettsarealer? Vi foreslår at det
    føres inn i naboerklæringen, med kopi til styret.

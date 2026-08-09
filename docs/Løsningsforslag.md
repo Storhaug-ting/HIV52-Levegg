@@ -5,17 +5,14 @@ Løsningsforslaget er å sette opp levegger ut til skråningsfoten, i samme stil
 av byggets arkitektur.
 
 Settes det opp én vegg nå, én om to år og én om fem, ender rekka lett opp med fire ulike løsninger
-i samme fasadeflate. Sameiets [trivsels- og ordensregler punkt 3](Referanser/Sameiedokumenter/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer)
-sier at «det bør tilstrebes å finne felles løsninger for å opprettholde et enhetlig og moderne uttrykk
-på boenhetene», og [vedtektene punkt 5.3](Referanser/Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#53-bygningsmessige-arbeider)
-forutsetter at utvendige endringer skjer etter «en samlet plan». Forslaget gir derfor et felles
-grunnlag for alle fire skillene, slik at styret kan ta stilling til utformingen samlet.
+i samme fasadeflate. Den videre prosessen, se [Videre prosess](index.md#videre-prosess), krever
+skriftlig søknad til styret og en samlet plan for utvendige endringer, og oppfordrer til felles
+løsninger for et enhetlig uttrykk. Forslaget gir derfor et felles grunnlag for alle fire skillene,
+slik at styret kan behandle søknaden og ta stilling til utformingen samlet.
 
-Sameiets [ordensregler punkt 3](Referanser/Sameiedokumenter/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer)
-krever skriftlig søknad til styret med beskrivelse og tegninger, tekniske undersøkelser bekostet av
-søker og skriftlig samtykke fra berørte naboer. Tiltaket er unntatt søknadsplikt etter
-[SAK10 § 4-1](Referanser/Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg") første
-ledd bokstav f nr. 2 så lenge hver vegg er inntil 1,8 m høy og inntil 5,0 m lang fra husvegg.
+Alle fire veggene holder seg innenfor grensene for unntak fra søknadsplikt til kommunen – maks
+1,8 m høyde og 5,0 m lengde fra husvegg, jf. [SAK10 § 4-1](Referanser/Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg").
+Søknad til og godkjenning fra styret kreves likevel, se [Videre prosess](index.md#videre-prosess).
 
 Skråningen følger ikke rekka parallelt. Avstanden varierer med 1,20 m mellom det korteste og
 det lengste snittet, og det kan gi ulik lengde på veggene avhengig av alternativet vi går for.
@@ -124,30 +121,12 @@ fordi det gir fullstendig innsyns- og vindskjerming.
 | **Alternativ 3 – helt tett på én side** | Fullstendig | God vindbeskyttelse, ingen gjennomlufting |
 | **Alternativ 4 – tett panel på begge sider** | Fullstendig | God vindbeskyttelse, ingen gjennomlufting |
 
-## Rettslig grunnlag
+## Rettslig grunnlag for denne løsningen
 
-- Levegg med høyde inntil 1,8 m og lengde inntil 5,0 m er unntatt søknadsplikt og kan plasseres
-  inntil nabogrensen, jf. [SAK10 § 4-1](Referanser/Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg")
-  første ledd bokstav f nr. 2.
-- Det er **ingen meldeplikt** til kommunen for levegg. Meldeplikten gjelder bare bygninger og
-  tilbygg etter bokstav a, b og c.
-- Unntaket forutsetter at tiltaket ikke strider mot reguleringsplan eller kommuneplan. Eiendommen
-  er regulert i detaljreguleringsplanen «Griniskogen nordvest»
-  [PlanID 3014_012320120011](https://arealplaner.no/indreostfold3118/arealplaner/166?bnr=93&gnr=411&knr=3118).
-  Planen forbyr ikke levegger. **Reguleringsplanens § 4.3** krever at «gjerder/avskjerming» skal
-  gis en estetisk utforming som harmonerer med boligbebyggelsen – nettopp det materialvalget her
-  svarer på – og **reguleringsplanens § 4.1** tillater mindre frittstående anlegg utenfor
-  byggegrensen. Kommuneplanens bestemmelse om levegg (**kommuneplanens § 5.9.1 bokstav j**) gjelder
-  kun fritidsboliger, ikke boligområder som dette. Se [Regelverk punkt 7](Referanser/Regelverk.md#7-kommunale-planbestemmelser-indre-stfold) for
-  full gjennomgang av begge planene.
-- Leveggene skal holde seg innenfor arealformålet **B1 boligbebyggelse** (reguleringsplanen), og
-  ikke føres inn i vegetasjonsskjermen som løper langs østsiden av planområdet.
-- [Grannelova § 6](Referanser/Lover/grannelova.md#6 "LOV-1961-06-16-15 § 6 – plikt til å varsle nabo i rimelig tid før tiltak") krever at naboene varsles i rimelig tid på
-  forhånd. Her ivaretas dette ved at alle eierne i rekka involveres i utformingen før arbeidet
-  starter.
-- Utearealet er **fellesareal med enerett**, jf. [vedtektene pkt. 2.4](Referanser/Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#24-seksjonseierens-rett-til-a-bruke-bruksenheten-og-fellesareal).
-  [Vedtektene pkt. 5.3](Referanser/Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#53-bygningsmessige-arbeider) krever
-  forutgående godkjenning av styret når seksjonseier selv utfører utvendige arbeider.
+Se [Videre prosess](index.md#videre-prosess) for det generelle rammeverket knyttet til
+søknadsplikt, reguleringsplan og vedtekter. I tillegg gjelder følgende spesielt for de fire
+veggene i dette forslaget:
+
 - Vedtektene gir seksjonene 1-10 enerett til hage og gårdsplass som naturlig er knyttet til
   seksjonen, i inntil 30 år. Eneretten gjelder ikke der andre seksjonseiere **trenger tilgang**.
   Det er ikke dokumentert noe slikt behov langs skråningsfoten. En gjennomgående passasje bør derfor
@@ -159,10 +138,9 @@ fordi det gir fullstendig innsyns- og vindskjerming.
 
 Forslaget legges fram for styret med følgende spørsmål:
 
-1. Kan styret behandle søknaden om den enkelte leveggen, eller bør den beskrevne fellesstandarden
-  legges fram for årsmøtet som en «samlet plan», jf.
-  [ordensreglene punkt 3](Referanser/Sameiedokumenter/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer)
-  og [vedtektene punkt 5.3](Referanser/Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#53-bygningsmessige-arbeider)?
+1. Kan styret behandle og godkjenne søknaden om den enkelte leveggen og fellesstandarden for
+  rekka på et ordinært styremøte, jf. kravene til søknad og samlet plan i
+  [Videre prosess](index.md#videre-prosess)?
 2. Kan den beskrevne utformingen vedtas som en **felles standard for hele rekka HIV 50–58**, slik
   at styret kan behandle hver gjennomføring innenfor standarden når partene er klare og
   naboerklæringen er signert?
