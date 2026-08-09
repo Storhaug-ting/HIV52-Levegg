@@ -25,6 +25,10 @@ Behandles leveggene som fire enkeltsaker etter hvert som den enkelte tar initiat
 opp med fire forskjellige utførelser. Vedtas utformingen som én standard nå, kan styret behandle
 hver gjennomføring innenfor standarden når partene er klare – og resultatet blir enhetlig.
 
+Vi ønsker gjerne å gjennomføre alle fire veggene samlet, og kan vurdere oppstart våren 2027 dersom
+partene blir enige om det. Dersom ikke alle ønsker å delta i år, kan de enkelte veggene likevel
+gjennomføres separat innenfor den samme standarden.
+
 ## De fire veggene
 
 | Vegg | Mellom | Seksjoner | Parter |

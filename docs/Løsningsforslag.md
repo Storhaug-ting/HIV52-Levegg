@@ -17,9 +17,10 @@ Søknad til og godkjenning fra styret kreves likevel, se [Videre prosess](index.
 Skråningen følger ikke rekka parallelt. Avstanden varierer med 1,20 m mellom det korteste og
 det lengste snittet, og det kan gi ulik lengde på veggene avhengig av alternativet vi går for.
 
-Veggene kan settes opp uavhengig av hverandre og i den takten partene blir enige om. Det er derfor
-ønskelig å få enighet om utformingen samlet, slik at den samme standarden gjelder alle vegger.
-Kostnadene avtales direkte mellom de to som deler veggen.
+Det er ønskelig å gjennomføre alle fire veggene samlet dersom partene blir enige om det, slik at
+arbeidet kan planlegges og utføres under ett. Dersom ikke alle ønsker å delta i år, kan de enkelte
+veggene likevel settes opp separat og i den takten partene blir enige om. Oppstart våren 2027 kan
+derfor vurderes. Kostnadene avtales direkte mellom de to som deler veggen.
 
 Forslaget er å føre leveggene fram til skråningsfoten, innenfor grensen på 5,0 m. Materialbruk,
 høyde, konstruksjon og utførelse er identisk for alle veggene, slik at uttrykket blir enhetlig.
@@ -159,7 +160,7 @@ Forslaget legges fram for styret med følgende spørsmål:
 
 | Forhold | Løsning |
 | --------- | --------- |
-| Tidspunkt | Når partene til den enkelte veggen er tilgjengelige. Ingen frist foreslås, og veggene trenger ikke settes opp samtidig. |
+| Tidspunkt | Samlet oppstart våren 2027 kan vurderes. Dersom ikke alle deltar, kan veggene settes opp separat når partene til den enkelte veggen er klare. |
 | Utførelse | Avtales mellom de to partene som deler den enkelte veggen – se alternativer nedenfor |
 | Kostnad | Bæres av de to partene til hver vegg og avtales direkte mellom dem. Tiltaket medfører ingen felleskostnader for sameiet. |
 | Vedlikehold | Følger samme prinsipp som kostnaden og skriftliggjøres i avtalen mellom partene |

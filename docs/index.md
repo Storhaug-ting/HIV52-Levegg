@@ -55,9 +55,11 @@ men denne endringen gjelder bare den aktuelle rekka og medfører ingen felleskos
 Saken kan derfor behandles og avgjøres av styret på et ordinært styremøte. Ingen vegg settes opp
 før styrets skriftlige godkjenning foreligger.
 
-Når partene til den enkelte veggen er klare, gjennomføres veggen separat. Kostnad og vedlikehold
-avtales direkte mellom partene, se avsnittet «Gjennomføring og økonomi» i
-[Løsningsforslag](Løsningsforslag.md).
+Det kan være hensiktsmessig å gjennomføre alle fire veggene samtidig, slik at arbeidet kan
+planlegges og utføres samlet. Dersom ikke alle ønsker å delta i år, kan de enkelte veggene likevel
+gjennomføres separat. Kostnad og vedlikehold avtales direkte mellom partene, se avsnittet
+«Gjennomføring og økonomi» i [Løsningsforslag](Løsningsforslag.md). Tidspunktet bør også diskuteres;
+prosjektet kan eventuelt startes våren 2027.
 
 Se [Referanser/Regelverk.md](Referanser/Regelverk.md) for en fullstendig juridisk gjennomgang med
 lovtekster.
