@@ -115,14 +115,14 @@ Tabellen viser utførelse og begrunnelse for hver del av konstruksjonen:
 Fire kledningsalternativer er vurdert. **Alternativ 4 – tett panel på begge sider – er valgt**,
 fordi det gir fullstendig innsyns- og vindskjerming.
 
+![Kledningssnitt – horisontalsnitt](Tegninger/Kledningssnitt.svg)
+
 | | Innsynsskjerming | Vindskjerming |
 | --- | --- | --- |
 | **Alternativ 1 – spaltet** | Fri sikt rett gjennom vinkelrett på veggen | God balanse mellom vindbeskyttelse og gjennomlufting |
 | **Alternativ 2 – vekselvis kledning på begge sider** | Fullstendig, ingen gjennomgående siktlinje | God balanse mellom vindbeskyttelse og gjennomlufting |
 | **Alternativ 3 – helt tett på én side** | Fullstendig | God vindbeskyttelse, ingen gjennomlufting |
 | **Alternativ 4 – tett panel på begge sider** | Fullstendig | God vindbeskyttelse, ingen gjennomlufting |
-
-![Kledningssnitt – horisontalsnitt](Tegninger/Kledningssnitt.svg)
 
 ## Rettslig grunnlag
 
