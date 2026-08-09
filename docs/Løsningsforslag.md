@@ -1,26 +1,21 @@
 # Løsningsforslag
 
-Løsningsforslaget er å sette opp levegger i samme stil som den øvrige fasaden.
-**Malmfuru med grå jernvitriolbehandling**, montert stående med rette bordkanter.
-Slik fremstår leveggene som en forlengelse av byggets arkitektur.
+Løsningsforslaget er å sette opp levegger ut til skråningsfoten, i samme stil som den øvrige fasaden.
+**Malmfuru med grå jernvitriolbehandling** montert stående, slik at veggene fremstår som en forlengelse
+av byggets arkitektur.
 
 Settes det opp én vegg nå, én om to år og én om fem, ender rekka lett opp med fire ulike løsninger
 i samme fasadeflate. Sameiets [trivsels- og ordensregler punkt 3](Referanser/Sameiedokumenter/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer)
 sier at «det bør tilstrebes å finne felles løsninger for å opprettholde et enhetlig og moderne uttrykk
 på boenhetene», og [vedtektene punkt 5.3](Referanser/Sameiedokumenter/Revidert%20Vedtekter%2007.05.2026.md#53-bygningsmessige-arbeider)
 forutsetter at utvendige endringer skjer etter «en samlet plan». Forslaget gir derfor et felles
-grunnlag for alle fire skillene, slik at riktig beslutningsorgan kan ta stilling til utformingen
-samlet.
+grunnlag for alle fire skillene, slik at styret kan ta stilling til utformingen samlet.
 
 Sameiets [ordensregler punkt 3](Referanser/Sameiedokumenter/Trivsels%20og%20ordensregler.md#3-bruk-av-boligen-og-evt-tilknyttende-arealer)
 krever skriftlig søknad til styret med beskrivelse og tegninger, tekniske undersøkelser bekostet av
 søker og skriftlig samtykke fra berørte naboer. Tiltaket er unntatt søknadsplikt etter
 [SAK10 § 4-1](Referanser/Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg") første
 ledd bokstav f nr. 2 så lenge hver vegg er inntil 1,8 m høy og inntil 5,0 m lang fra husvegg.
-
-> [SAK10 § 4-1 første ledd bokstav f nr. 2](Referanser/Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse):
-> «levegg (skjermvegg) med høyde inntil 1,8 m og lengde inntil 5,0 m. Leveggen kan være
-> frittstående eller forbundet med bygnings og kan plasseres inntil nabogrense»
 
 Skråningen følger ikke rekka parallelt. Avstanden varierer med 1,20 m mellom det korteste og
 det lengste snittet, og det kan gi ulik lengde på veggene avhengig av alternativet vi går for.
@@ -117,16 +112,15 @@ Tabellen viser utførelse og begrunnelse for hver del av konstruksjonen:
 
 ### Drøftede alternativer for kledning
 
-Fire kledningsalternativer er vurdert. **Alternativ 2 – vekselvis kledning på begge sider –
-anbefales**, fordi det skjermer for innsyn uten en gjennomgående siktlinje samtidig som det gir
-gjennomlufting.
+Fire kledningsalternativer er vurdert. **Alternativ 4 – tett panel på begge sider – er valgt**,
+fordi det gir fullstendig innsyns- og vindskjerming.
 
 | | Innsynsskjerming | Vindskjerming |
 | --- | --- | --- |
 | **Alternativ 1 – spaltet** | Fri sikt rett gjennom vinkelrett på veggen | God balanse mellom vindbeskyttelse og gjennomlufting |
 | **Alternativ 2 – vekselvis kledning på begge sider** | Fullstendig, ingen gjennomgående siktlinje | God balanse mellom vindbeskyttelse og gjennomlufting |
 | **Alternativ 3 – helt tett på én side** | Fullstendig | God vindbeskyttelse, ingen gjennomlufting |
-| **Alternativ 4 – helt tett på begge sider** | Fullstendig | God vindbeskyttelse, ingen gjennomlufting |
+| **Alternativ 4 – tett panel på begge sider** | Fullstendig | God vindbeskyttelse, ingen gjennomlufting |
 
 ![Kledningssnitt – horisontalsnitt](Tegninger/Kledningssnitt.svg)
 
