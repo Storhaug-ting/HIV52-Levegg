@@ -43,9 +43,9 @@ Berørte naboer skal involveres før tiltaket settes i gang. Det innhentes **skr
 berørte naboer** for hver vegg, jf. [Grannelova § 6](Referanser/Lover/grannelova.md#6 "LOV-1961-06-16-15 § 6 – plikt til å varsle nabo i rimelig tid før tiltak") og ordensreglene punkt 3.
 Dette dokumenteres i [naboerklæringen](Referanser/Naboerklaering.md).
 
-Det er også sendt en **henvendelse til kommunen** for å avklare om de fire veggene skal vurderes
-samlet eller hver for seg, jf. DiBKs veiledning til [SAK10 § 4-1](Referanser/Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg"). Se
-[henvendelsen om planstatus](Referanser/Mailforslag/Kommunen-planstatus.md). Selve tiltaket er
+Det bør også avklares med **kommunen** om de fire veggene skal vurderes samlet eller hver for seg,
+jf. DiBKs veiledning til [SAK10 § 4-1](Referanser/Lover/byggesaksforskriften.md#4-1-tiltak-som-ikke-krever-sknad-og-tillatelse "FOR-2010-03-26-488 § 4-1 – tiltak som er unntatt fra søknadsplikt, blant annet levegg"). Se
+[utkast til henvendelse om planstatus](Referanser/Mailforslag/Kommunen-planstatus.md). Selve tiltaket er
 unntatt søknadsplikt og meldeplikt overfor kommunen så lenge hver vegg holder seg innenfor 1,8 m
 høyde og 5,0 m lengde og ikke strider mot reguleringsplanen eller kommuneplanen, jf.
 [Regelverk punkt 7](Referanser/Regelverk.md#7-kommunale-planbestemmelser-indre-stfold).
